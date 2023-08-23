@@ -44,21 +44,27 @@
 	
 	  var network;
 	
-	  function lookup(){
-	    var found = nodes.find(e => e.label.toLowerCase().includes(document.getElementById("lname").value.toLowerCase()));
-		if(found){
-			var options = {
-			  scale: 1.0,
-			  offset: { x: 0, y: 0 },
-			  animation: {
-				duration: 1000,
-				easingFunction: "easeInOutQuad",
-			  },
-			};
-			network.focus(found.id, options);
-			network.selectNodes([found.id]);
-		}
-	  } 
+	  var network;
+        var lookupCount = 0;
+
+        function lookup() {
+            const inputField = document.getElementById("lname").value.toLowerCase();
+            const filtered = nodes.filter(e => e.label.toLowerCase().includes(inputField) || e.group.toLowerCase().includes(inputField));
+            if (filtered.length !== 0) {
+                var options = {
+                    scale: 1.0,
+                    offset: {x: 0, y: 0},
+                    animation: {
+                        duration: 1000,
+                        easingFunction: "easeInOutQuad",
+                    },
+                };
+                let filteredPerson = filtered[lookupCount % filtered.length];
+                network.focus(filteredPerson.id, options);
+                network.selectNodes(filtered.map(it => it.id));
+                lookupCount += 1;
+            }
+        }
 	  
       function draw() {
         var container = document.getElementById("mynetwork");
