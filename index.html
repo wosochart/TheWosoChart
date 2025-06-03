@@ -5,6 +5,7 @@
 	<meta property="og:image" content="http://thewosochart.000webhostapp.com/img/wosochart.png" />
 	<meta property="og:image:secure_url" content="https://thewosochart.000webhostapp.com/img/wosochart.png" />
     <title>WOSO Couples Chart</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
     <style type="text/css">
       #mynetwork {
@@ -112,6 +113,17 @@
           },
         };
         network = new vis.Network(container, data, options);
+		}
+		let physicsEnabled = true;
+         function togglePhysics() {
+             physicsEnabled = !physicsEnabled;
+             network.setOptions({
+                 physics: {
+                     enabled: physicsEnabled
+                 }
+             });
+              const icon = document.getElementById("physicsIcon");
+               icon.className = physicsEnabled ? "fas fa-pause" : "fas fa-play";
       }
     </script>
   </head>
@@ -121,6 +133,12 @@
 	  <input type="text" id="lname" name="lname" placeholder="Player Name">
 	  <input type="submit" value="Search">
 	</form>
+	<button
+      id="togglePhysics"
+      style="position: absolute; top: 50px; left: 120px; z-index: 10; padding: 5px 10px; font-size: 21px; background: none; border: none; cursor: pointer;"
+      onclick="togglePhysics()">
+      <i id="physicsIcon" class="fas fa-pause"></i>
+    </button>
     <div id="mynetwork"></div>
   </body>
 </html>
