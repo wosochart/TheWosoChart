@@ -7,11 +7,14 @@ var groupColors = new Map(); // group (country) → color
 function sanitizeFilename(name) {
   return (name || "")
     .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "")
-    .replace(/^_+|_+$/g, "");
+    .replace(/[\u0300-\u036f]/g, "")       // remove accents
+    .replace(/[^a-zA-Z0-9]+/g, " ")        // replace non-alphanumerics with spaces
+    .trim()
+    .split(/\s+/)                          // split into words
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+    .join("");                             // join words together
 }
+
 
 // 🔹 helper to generate vibrant pastel-like color
 function getPastelVibrantColor() {
