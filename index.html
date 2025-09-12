@@ -1,144 +1,269 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-	<meta property="og:title" content="WOSO Couples Chart" />
-	<meta property="og:image" content="http://thewosochart.000webhostapp.com/img/wosochart.png" />
-	<meta property="og:image:secure_url" content="https://thewosochart.000webhostapp.com/img/wosochart.png" />
-    <title>WOSO Couples Chart</title>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-    <style type="text/css">
-      #mynetwork {
-        width: 100%;
-        height: 100%;
-        border: none;
-		margin: auto;
+<head>
+  <meta charset="UTF-8">
+  <title>WOSO Couples Chart</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; width: 100%; }
+    #mynetwork { width: 100%; height: 100%; }
+    form { position: absolute; background: #898989; z-index: 10; padding: 10px; border-radius: 0 0 5px 0; }
+    button.action { margin-top: 5px; width: 100%; padding: 5px; font-size: 14px; cursor: pointer; }
+    #nodeTooltip {
+      position: absolute;
+      background: rgba(0,0,0,0.85);
+      color: #fff;
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 13px;
+      max-width: 250px;
+      z-index: 99999;
+      display: none;
+      pointer-events: none;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+      transition: opacity 0.15s ease-in-out;
+      opacity: 0;
+    }
+  </style>
+  <script src="vis-network.min.js"></script>
+  <script src="data.js"></script>
+  <script>
+    let network;
+    let nodes = new vis.DataSet();
+    let edges = new vis.DataSet();
+    let originalNodes = [];
+    let originalEdges = [];
+    let lookupCount = 0;
+    let physicsEnabled = true;
+    let longestPathCache = new Map();
+    
+    function loadData() {
+      const graph = window.graphData;
+      originalNodes = graph.nodes.map(n => ({ ...n }));
+      originalEdges = graph.edges.map((e, i) => ({ id: e.id || ("e" + i), ...e }));
+    
+      nodes = new vis.DataSet(originalNodes);
+      edges = new vis.DataSet(originalEdges);
+    
+      computeAllLongestPaths();
+      draw();
+    }
+    
+    function computeAllLongestPaths() {
+      originalNodes.forEach(node => {
+        longestPathCache.set(node.id, getLongestPathLength(node.id));
+      });
+    }
+    
+    function getLongestPathLength(startId) {
+      if (longestPathCache.has(startId)) return longestPathCache.get(startId);
+      let maxLength = 0;
+      function dfs(nodeId, path) {
+        path.push(nodeId);
+        if (path.length > maxLength) maxLength = path.length;
+        const neighbors = originalEdges
+          .filter(e => e.from === nodeId || e.to === nodeId)
+          .map(e => e.from === nodeId ? e.to : e.from);
+        neighbors.forEach(n => {
+          if (!path.includes(n)) dfs(n, [...path]);
+        });
       }
-	  html, body {
-		margin: 0 !important;
-		padding: 0 !important;
-		height: 100%;
-		width: 100%;
-	  }
-	  form {
-		position: absolute;
-		background-color: #898989;
-		z-index: 10;
-		padding: 10px;
-		border-radius: 0 0 5px 0;
-	}
-    </style>
+      dfs(startId, []);
+      longestPathCache.set(startId, maxLength);
+      return maxLength;
+    }
 
-    <script
-      type="text/javascript"
-      src="vis-network.min.js"
-    ></script>
-	
-	<script
-      type="text/javascript"
-      src="export.js"
-	  charset="UTF-8"
-    >
-	</script>
-
-    <script type="text/javascript">
-	
-	  var network;
-	
-	  var network;
-        var lookupCount = 0;
-
-        function lookup() {
-            const inputField = document.getElementById("lname").value.toLowerCase();
-            const filtered = nodes.filter(e => e.label.toLowerCase().includes(inputField) || e.group.toLowerCase().includes(inputField));
-            if (filtered.length !== 0) {
-                var options = {
-                    scale: 1.0,
-                    offset: {x: 0, y: 0},
-                    animation: {
-                        duration: 1000,
-                        easingFunction: "easeInOutQuad",
-                    },
-                };
-                let filteredPerson = filtered[lookupCount % filtered.length];
-                network.focus(filteredPerson.id, options);
-                network.selectNodes(filtered.map(it => it.id));
-                lookupCount += 1;
-            }
+    function getLongestPath(startId) {
+      const visited = new Set([startId]);
+      const queue = [{ id: startId, dist: 0, path: [startId], edges: [] }];
+      let best = { length: 0, pathNodes: [startId], pathEdges: [] };
+      
+      while (queue.length) {
+        const { id, dist, path, edges: edgesPath } = queue.shift();
+      
+        if (dist > best.length) {
+          best = { length: dist, pathNodes: [...path], pathEdges: [...edgesPath] };
         }
-	  
-      function draw() {
-        var container = document.getElementById("mynetwork");
-        var data = {
-          nodes: nodes,
-          edges: edges,
-        };
-        var options = {
-          nodes: {
-            shape: "dot",
-			borderWidth: 6,
-            size: 30,
-          },
-		  groups: {
-			notgrouped: {color:{background:'gray', border:'gray'}, borderWidth:3}
-		  },
-          physics: {
-            forceAtlas2Based: {
-              gravitationalConstant: -26,
-              centralGravity: 0.005,
-              springLength: 230,
-              springConstant: 0.18,
-            },
-			barnesHut: {
-				theta: 0.7,
-				gravitationalConstant: -4000,
-				centralGravity: 0.9,
-				springLength: 50,
-				springConstant: 0.08,
-				damping: 0.5,
-				avoidOverlap: 0.3
-		    },
-			repulsion: {
-			  centralGravity: 0.2,
-			  springLength: 180,
-			  springConstant: 0.2,
-			  nodeDistance: 160,
-			  damping: 0.09,
-			},
-
-            maxVelocity: 200,
-            solver: "repulsion",
-            timestep: 0.35,
-            stabilization: { iterations: 40 },
-          },
-        };
-        network = new vis.Network(container, data, options);
-		}
-		let physicsEnabled = true;
-         function togglePhysics() {
-             physicsEnabled = !physicsEnabled;
-             network.setOptions({
-                 physics: {
-                     enabled: physicsEnabled
-                 }
-             });
-              const icon = document.getElementById("physicsIcon");
-               icon.className = physicsEnabled ? "fas fa-pause" : "fas fa-play";
+      
+        originalEdges.forEach(edge => {
+          let neighbor = null;
+          if (edge.from === id) neighbor = edge.to;
+          else if (edge.to === id) neighbor = edge.from;
+      
+          if (neighbor && !visited.has(neighbor)) {
+            visited.add(neighbor);
+            queue.push({
+              id: neighbor,
+              dist: dist + 1,
+              path: [...path, neighbor],
+              edges: [...edgesPath, edge.id]
+            });
+          }
+        });
       }
-    </script>
-  </head>
+      
+      return best; // length = number of edges to farthest node
+    }   
+     let previouslyHighlightedEdges = [];
+     let previouslyHighlightedNodes = [];
+     
+     function highlightPath(pathNodes, pathEdges) {
+       // Reset widths of previously highlighted edges
+       if (previouslyHighlightedEdges.length) {
+         edges.update(previouslyHighlightedEdges.map(id => ({ id, width: 1 })));
+       }
+     
+       // Reset sizes of previously highlighted nodes
+       if (previouslyHighlightedNodes.length) {
+         nodes.update(previouslyHighlightedNodes.map(id => ({ id, size: 30 })));
+       }
+     
+       // Apply new highlight (thicker edges, larger nodes)
+       edges.update(pathEdges.map(id => ({ id, width: 4 })));
+       nodes.update(pathNodes.map(id => ({ id, size: 40 })));
+     
+       // Remember which were changed
+       previouslyHighlightedEdges = pathEdges;
+       previouslyHighlightedNodes = pathNodes;
+     
+       // Still mark them as "selected" so dimming works as usual
+       network.selectNodes(pathNodes);
+       network.selectEdges(pathEdges);
+     }
 
-  <body onload="draw()">
-	<form action="javascript:;" onsubmit="lookup()">
-	  <input type="text" id="lname" name="lname" placeholder="Player Name">
-	  <input type="submit" value="Search">
-	</form>
-	<button
-      id="togglePhysics"
-      style="position: absolute; top: 50px; left: 120px; z-index: 10; padding: 5px 10px; font-size: 21px; background: none; border: none; cursor: pointer;"
-      onclick="togglePhysics()">
-      <i id="physicsIcon" class="fas fa-pause"></i>
-    </button>
+	
+	
+    function draw() {
+      const container = document.getElementById("mynetwork");
+      const data = { nodes, edges };
+      const options = {
+        nodes: { shape: "circularImage", borderWidth: 2, size: 30, font: { size: 16, color: "#000" } },
+        edges: { width: 1, color: { color: "#888", opacity: 0.4 }, smooth: { type: "continuous" } },
+        physics: {
+          enabled: true,
+          solver: "forceAtlas2Based",
+          forceAtlas2Based: { centralGravity: 0.001, springLength: 180, springConstant: 0.02, damping: 0.09, avoidOverlap: 0.8 },
+          stabilization: { iterations: 700, fit: true }
+        },
+        layout: { improvedLayout: false },
+        interaction: { hover: true, dragNodes: true, navigationButtons: false, keyboard: true }
+      };
+      network = new vis.Network(container, data, options);
+      network.once("stabilizationIterationsDone", () => network.setOptions({ physics: { enabled: false } }));
+    
+      const tooltip = document.getElementById("nodeTooltip");
+      let tooltipVisible = false;
+
+      // Tooltip + highlight longest path
+      network.on("hoverNode", params => {
+      const node = nodes.get(params.node);
+      if (!node) return;
+    
+      // clear previous highlight
+      network.unselectAll();
+    
+      // compute longest path from hovered node
+      const { length, pathNodes, pathEdges } = getLongestPath(node.id);
+    
+      // build tooltip
+      let html = `<strong>${node.label}</strong><br>`;
+      if (node.team) html += `Team: ${node.team}<br>`;
+      if (node.group) html += `Country: ${node.group}<br>`;
+      html += `Longest chain: ${length}`;
+    
+      tooltip.innerHTML = html;
+      tooltip.style.display = "block";
+      requestAnimationFrame(() => { tooltip.style.opacity = "1"; });
+      tooltipVisible = true;
+    
+      // highlight path
+      highlightPath(pathNodes, pathEdges);
+
+    });
+
+      container.addEventListener("mousemove", ev => {
+        if (!tooltipVisible) return;
+        const offset = 12;
+        let x = ev.clientX + offset;
+        let y = ev.clientY + offset;
+        const pad = 8;
+        const w = tooltip.offsetWidth || 200;
+        const h = tooltip.offsetHeight || 40;
+        if (x + w > window.innerWidth - pad) x = window.innerWidth - w - pad;
+        if (y + h > window.innerHeight - pad) y = ev.clientY - h - offset;
+        tooltip.style.left = x + "px";
+        tooltip.style.top = y + "px";
+      });
+    }
+    
+    function togglePhysics() {
+      physicsEnabled = !physicsEnabled;
+      network.setOptions({ physics: { enabled: physicsEnabled } });
+      document.getElementById("physicsIcon").className = physicsEnabled ? "fas fa-pause" : "fas fa-play";
+    }
+    
+    function highlightNode() {
+      const term = document.getElementById("lname").value.toLowerCase().trim();
+      if (!term) return;
+      const matches = nodes.get().filter(n =>
+        n.label.toLowerCase().includes(term) ||
+        (n.group && n.group.toLowerCase().includes(term)) ||
+        (n.team && n.team.toLowerCase().includes(term))
+      );
+      if (!matches.length) return;
+      const opts = { scale: 1.5, offset: { x: 0, y: 0 }, animation: { duration: 800, easingFunction: "easeInOutQuad" } };
+      const focus = matches[lookupCount % matches.length];
+      network.focus(focus.id, opts);
+      network.selectNodes(matches.map(m => m.id));
+      lookupCount++;
+    }
+    
+    function filterGraph() {
+      const term = document.getElementById("lname").value.toLowerCase().trim();
+      if (!term) { resetGraph(); return; }
+      const matches = originalNodes.filter(n =>
+        n.label.toLowerCase().includes(term) ||
+        (n.group && n.group.toLowerCase().includes(term)) ||
+        (n.team && n.team.toLowerCase().includes(term))
+      );
+      if (!matches.length) return;
+      const included = new Set(matches.map(n => n.id));
+      let added;
+      do {
+        added = false;
+        originalEdges.forEach(e => {
+          if (included.has(e.from) && !included.has(e.to)) { included.add(e.to); added = true; }
+          if (included.has(e.to) && !included.has(e.from)) { included.add(e.from); added = true; }
+        });
+      } while (added);
+      nodes.clear(); nodes.add(originalNodes.filter(n => included.has(n.id)));
+      edges.clear(); edges.add(originalEdges.filter(e => included.has(e.from) && included.has(e.to)));
+      network.setOptions({ physics: { enabled: true } });
+      network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
+      network.once("stabilizationIterationsDone", () => network.setOptions({ physics: { enabled: false } }));
+    }
+    
+    function resetGraph() {
+      nodes.clear(); nodes.add(originalNodes);
+      edges.clear(); edges.add(originalEdges);
+      network.setOptions({ physics: { enabled: true } });
+      network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
+      network.once("stabilizationIterationsDone", () => network.setOptions({ physics: { enabled: false } }));
+    }
+    
+    window.onload = loadData;
+  </script>
+  </head>
+  <body>
+    <form action="javascript:void(0);">
+      <input type="text" id="lname" placeholder="Search by player, team, or country" style="width:180px"><br>
+      <button type="button" class="action" onclick="highlightNode()">Search</button>
+      <button type="button" class="action" onclick="filterGraph()">Filter</button>
+      <button type="button" class="action" onclick="resetGraph()">Reset</button>
+      <button type="button" class="action" onclick="togglePhysics()"><i id="physicsIcon" class="fas fa-pause"></i></button>
+    </form>
+    
     <div id="mynetwork"></div>
+    <div id="nodeTooltip"></div>
   </body>
-</html>
+  </html>
