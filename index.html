@@ -158,7 +158,15 @@
       network.on("hoverNode", params => {
       const node = nodes.get(params.node);
       if (!node) return;
-    
+	  // Hide tooltip only (keep highlight)
+      network.on("blurNode", () => {
+        tooltip.style.opacity = "0";
+        setTimeout(() => {
+          tooltip.style.display = "none";
+        }, 150); // match CSS transition
+        tooltipVisible = false;
+      });
+	  
       // clear previous highlight
       network.unselectAll();
     
@@ -202,55 +210,158 @@
       document.getElementById("physicsIcon").className = physicsEnabled ? "fas fa-pause" : "fas fa-play";
     }
     
+    let searchMatches = [];   // store matches for cycling
+    let searchIndex = 0;      // track which one we’re on
+    
     function highlightNode() {
-      const term = document.getElementById("lname").value.toLowerCase().trim();
-      if (!term) return;
-      const matches = nodes.get().filter(n =>
-        n.label.toLowerCase().includes(term) ||
-        (n.group && n.group.toLowerCase().includes(term)) ||
-        (n.team && n.team.toLowerCase().includes(term))
-      );
-      if (!matches.length) return;
-      const opts = { scale: 1.5, offset: { x: 0, y: 0 }, animation: { duration: 800, easingFunction: "easeInOutQuad" } };
-      const focus = matches[lookupCount % matches.length];
-      network.focus(focus.id, opts);
-      network.selectNodes(matches.map(m => m.id));
-      lookupCount++;
-    }
+      const raw = document.getElementById("lname").value || "";
+      if (!raw.trim()) return;
     
-    function filterGraph() {
-      const term = document.getElementById("lname").value.toLowerCase().trim();
-      if (!term) { resetGraph(); return; }
-      const matches = originalNodes.filter(n =>
-        n.label.toLowerCase().includes(term) ||
-        (n.group && n.group.toLowerCase().includes(term)) ||
-        (n.team && n.team.toLowerCase().includes(term))
-      );
-      if (!matches.length) return;
-      const included = new Set(matches.map(n => n.id));
-      let added;
-      do {
-        added = false;
-        originalEdges.forEach(e => {
-          if (included.has(e.from) && !included.has(e.to)) { included.add(e.to); added = true; }
-          if (included.has(e.to) && !included.has(e.from)) { included.add(e.from); added = true; }
+      // Parse criteria the same way filterGraph() does
+      const criteria = [];
+      const regex = /(?:\b(team|group|label|name):(?:"([^"]+)"|'([^']+)'|([^\s,]+))|"(.*?)"|'(.*?)'|([^\s,]+))/gi;
+      let m;
+      while ((m = regex.exec(raw)) !== null) {
+        if (m[1]) {
+          const key = m[1].toLowerCase();
+          const val = (m[2] || m[3] || m[4] || "").toLowerCase().trim();
+          if (val) criteria.push({ field: key, value: val });
+        } else {
+          const val = (m[5] || m[6] || m[7] || "").toLowerCase().trim();
+          if (val) criteria.push({ field: "any", value: val });
+        }
+      }
+      if (!criteria.length) return;
+    
+      // Get all matches (within currently visible nodes)
+      const allNodes = nodes.get();
+      const matches = allNodes.filter(n => {
+        const label = (n.label || "").toLowerCase();
+        const team = (n.team || "").toLowerCase();
+        const group = (n.group || "").toLowerCase();
+        return criteria.every(c => {
+          if (c.field === "team") return team.includes(c.value);
+          if (c.field === "group") return group.includes(c.value);
+          if (c.field === "label" || c.field === "name") return label.includes(c.value);
+          return label.includes(c.value) || team.includes(c.value) || group.includes(c.value);
         });
-      } while (added);
-      nodes.clear(); nodes.add(originalNodes.filter(n => included.has(n.id)));
-      edges.clear(); edges.add(originalEdges.filter(e => included.has(e.from) && included.has(e.to)));
-      network.setOptions({ physics: { enabled: true } });
-      network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
-      network.once("stabilizationIterationsDone", () => network.setOptions({ physics: { enabled: false } }));
-    }
+      });
     
-    function resetGraph() {
-      nodes.clear(); nodes.add(originalNodes);
-      edges.clear(); edges.add(originalEdges);
-      network.setOptions({ physics: { enabled: true } });
-      network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
-      network.once("stabilizationIterationsDone", () => network.setOptions({ physics: { enabled: false } }));
-    }
+      if (!matches.length) {
+        console.warn("No nodes matched search.");
+        return;
+      }
     
+      // Reset stored matches if new query
+      const currentQuery = JSON.stringify(criteria);
+      if (!searchMatches.query || searchMatches.query !== currentQuery) {
+        searchMatches = { nodes: matches, query: currentQuery };
+        searchIndex = 0;
+      }
+    
+      // Cycle through matches
+      const target = searchMatches.nodes[searchIndex % searchMatches.nodes.length];
+      searchIndex++;
+    
+      // Focus camera + select node
+      const opts = { 
+        scale: 1.5, 
+        offset: { x: 0, y: 0 }, 
+        animation: { duration: 800, easingFunction: "easeInOutQuad" } 
+      };
+      network.focus(target.id, opts);
+      network.selectNodes([target.id]);
+    }
+
+    
+       function filterGraph() {
+          const raw = document.getElementById("lname").value || "";
+          if (!raw.trim()) { resetGraph(); return; }
+        
+          // Parse tokens
+          const criteria = [];
+          const regex = /(?:\b(team|group|label|name):(?:"([^"]+)"|'([^']+)'|([^\s,]+))|"(.*?)"|'(.*?)'|([^\s,]+))/gi;
+          let m;
+          while ((m = regex.exec(raw)) !== null) {
+            if (m[1]) {
+              const key = m[1].toLowerCase();
+              const val = (m[2] || m[3] || m[4] || "").toLowerCase().trim();
+              if (val) criteria.push({ field: key, value: val });
+            } else {
+              const val = (m[5] || m[6] || m[7] || "").toLowerCase().trim();
+              if (val) criteria.push({ field: "any", value: val });
+            }
+          }
+        
+          if (!criteria.length) { resetGraph(); return; }
+        
+          // match ALL criteria
+          const matches = originalNodes.filter(n => {
+            const label = (n.label || "").toLowerCase();
+            const team = (n.team || "").toLowerCase();
+            const group = (n.group || "").toLowerCase();
+            return criteria.every(c => {
+              if (c.field === "team") return team.includes(c.value);
+              if (c.field === "group") return group.includes(c.value);
+              if (c.field === "label" || c.field === "name") return label.includes(c.value);
+              return label.includes(c.value) || team.includes(c.value) || group.includes(c.value);
+            });
+          });
+        
+          // 🚫 If no matches → do nothing
+          if (!matches.length) {
+            console.warn("No nodes matched. Graph unchanged.");
+            return;
+          }
+        
+          // Expand to neighbors
+          const included = new Set(matches.map(n => String(n.id)));
+          const queue = matches.map(n => String(n.id));
+          while (queue.length) {
+            const id = queue.shift();
+            for (const e of originalEdges) {
+              const from = String(e.from);
+              const to = String(e.to);
+              if (from === id && !included.has(to)) { included.add(to); queue.push(to); }
+              if (to === id && !included.has(from)) { included.add(from); queue.push(from); }
+            }
+          }
+        
+          nodes.clear();
+          nodes.add(originalNodes.filter(n => included.has(String(n.id))));
+        
+          edges.clear();
+          edges.add(originalEdges.filter(e =>
+            included.has(String(e.from)) && included.has(String(e.to))
+          ));
+        
+          previouslyHighlightedEdges = [];
+          previouslyHighlightedNodes = [];
+          network.unselectAll();
+        
+          network.setOptions({ physics: { enabled: true } });
+          network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
+          network.once("stabilizationIterationsDone", () => network.setOptions({ physics: { enabled: false } }));
+        }
+
+
+       function resetGraph() {
+     // clear the search box
+     document.getElementById("lname").value = "";
+    
+     // restore full graph
+     nodes.clear(); 
+     nodes.add(originalNodes);
+     edges.clear(); 
+     edges.add(originalEdges);
+    
+     // enable physics briefly, fit view, then disable physics again
+     network.setOptions({ physics: { enabled: true } });
+     network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
+     network.once("stabilizationIterationsDone", () => 
+       network.setOptions({ physics: { enabled: false } })
+     );
+    }
     window.onload = loadData;
   </script>
   </head>
