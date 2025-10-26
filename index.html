@@ -2,13 +2,25 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>WOSO Couples Chart</title>
+  <title>Woso Relationship Chart</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <style>
     html, body { margin: 0; padding: 0; height: 100%; width: 100%; }
     #mynetwork { width: 100%; height: 100%; }
     form { position: absolute; background: #898989; z-index: 10; padding: 10px; border-radius: 0 0 5px 0; }
     button.action { margin-top: 5px; width: 100%; padding: 5px; font-size: 14px; cursor: pointer; }
+	// Ensure all buttons stay the same size and alignment //
+    form {
+      width: 200px; /* lock consistent form width */
+    }
+   
+    form input,
+    form button.action {
+      display: block;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
     #nodeTooltip {
       position: absolute;
       background: rgba(0,0,0,0.85);
@@ -24,6 +36,144 @@
       transition: opacity 0.15s ease-in-out;
       opacity: 0;
     }
+
+    /* Notice / modal styles */
+    .notice-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 20000;
+      backdrop-filter: blur(2px);
+    }
+    .notice-box {
+      background: #fff;
+      color: #111;
+      padding: 18px;
+      border-radius: 10px;
+      width: min(560px, 92%);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+      position: relative;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    .notice-close {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: transparent;
+      border: none;
+      font-size: 18px;
+      cursor: pointer;
+      line-height: 1;
+      color: #333;
+    }
+    .notice-title {
+      margin: 0 0 6px 0;
+      font-size: 18px;
+      font-weight: 600;
+    }
+    .notice-body {
+      margin-bottom: 12px;
+      font-size: 14px;
+      line-height: 1.4;
+      color: #333;
+    }
+    .notice-actions {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .notice-btn {
+      background: #2d7ef7;
+      color: #fff;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    .notice-skip {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      color: #444;
+    }
+    @media (max-width: 480px) {
+      .notice-box { padding: 14px; }
+      .notice-title { font-size: 16px; }
+    }
+	/* Toggle switch styling */
+	label[for="isolatedToggle"],
+    
+    #isolatedLabel {
+     flex: 1;
+     display: flex;
+     align-items: center;          /* vertical centering */
+     justify-content: center;      /* horizontal centering */
+     height: 32px;                 /* same height as buttons */
+     font-size: 14px;              /* same text size */
+     font-family: inherit;         /* ✅ match form button font */
+     font-weight: normal;          /* same weight as buttons */
+     background: #f0f0f0;          /* same background */
+     border-radius: 5px;
+     text-align: center;
+     box-sizing: border-box;
+     user-select: none;
+     cursor: default;
+     color: #000;                  /* match button text color */
+    }
+	#isolatedLabel:hover {
+      background: #e0e0e0; /* subtle hover effect like other buttons */
+    }
+    .switch {
+      display: flex;
+      align-items: center; /* ✅ vertically centers slider */
+      justify-content: center;
+      width: 60px;
+      height: 28px;
+      position: relative;
+    }
+    
+    .switch input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+    
+    .slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-color: #ccc;
+      transition: 0.4s;
+      border-radius: 34px;
+    }
+    
+    .slider:before {
+      position: absolute;
+      content: "";
+      height: 22px;
+      width: 22px;
+      left: 3px;
+      bottom: 3px;
+      background-color: white;
+      transition: 0.4s;
+      border-radius: 50%;
+    }
+    
+    input:checked + .slider {
+      background-color: #2d7ef7;
+    }
+    
+    input:checked + .slider:before {
+      transform: translateX(32px);
+    }
+
+
   </style>
   <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
   <script src="data.js"></script>
@@ -47,8 +197,79 @@
     
       computeAllLongestPaths();
       draw();
+      // Show notice after the network is initialized (but only if not previously closed)
+      showNoticeIfNeeded();
     }
-    
+
+    /* -------------------------
+       Notice UI / persistence
+       ------------------------- */
+    function showNoticeIfNeeded() {
+      try {
+        const closed = localStorage.getItem('siteNoticeClosed');
+        if (closed === '1') return; // user chose "don't show again"
+      } catch (e) {
+        // storage might be blocked; ignore and show notice
+      }
+      createAndShowNotice();
+    }
+
+    function createAndShowNotice() {
+      // build DOM
+      const overlay = document.createElement('div');
+      overlay.className = 'notice-overlay';
+      overlay.id = 'siteNoticeOverlay';
+      overlay.setAttribute('role', 'dialog');
+      overlay.setAttribute('aria-modal', 'true');
+
+      overlay.innerHTML = `
+        <div class="notice-box" role="document" aria-labelledby="noticeTitle">
+          <button class="notice-close" aria-label="Close notice" id="noticeCloseBtn">&times;</button>
+          <h3 id="noticeTitle" style="text-align: center; font-size:20px;" class="notice-title">Welcome to the Woso Relationship Chart</h3>
+          <div class="notice-body" style="font-size: 16px; line-height: 1.5;";>
+            <strong>Disclaimer</strong><br>This is a fan-made project that is <strong> not 100% accurate</strong>.<br>All information is compiled from publicly available sources such as open accounts and interviews. The rumor category consists purely of fan speculation and should <strong>not be treated as factual</strong>.<br> If any player featured wishes to be removed or corrected, please <a href="https://linktr.ee/wosochart"target="_blank" rel="noopener noreferrer">contact me</a> directly.<br>
+          </div>
+          <div class="notice-actions">
+            <div class="notice-skip">
+              <label><input type="checkbox" id="dontShowAgain"> Don't show again</label>
+            </div>
+            <div>
+              <button class="notice-btn" id="noticeGotIt">Got it</button>
+            </div>
+          </div>
+        </div>
+      `;
+
+      // append
+      document.body.appendChild(overlay);
+
+      // event handlers
+      document.getElementById('noticeCloseBtn').addEventListener('click', closeNotice);
+      document.getElementById('noticeGotIt').addEventListener('click', closeNotice);
+      // close when clicking outside the box (but not when clicking inside)
+      overlay.addEventListener('click', (ev) => {
+        if (ev.target === overlay) closeNotice();
+      });
+    }
+
+    function closeNotice() {
+      const overlay = document.getElementById('siteNoticeOverlay');
+      if (!overlay) return;
+      const dontShow = document.getElementById('dontShowAgain');
+      try {
+        if (dontShow && dontShow.checked) {
+          localStorage.setItem('siteNoticeClosed', '1');
+        }
+      } catch (e) {
+        // ignore storage errors
+      }
+      overlay.remove();
+    }
+	
+
+    /* -------------------------
+       Existing graph code below
+       ------------------------- */
     function computeAllLongestPaths() {
       originalNodes.forEach(node => {
         longestPathCache.set(node.id, getLongestPathLength(node.id));
@@ -342,36 +563,211 @@
           network.setOptions({ physics: { enabled: true } });
           network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
           network.once("stabilizationIterationsDone", () => network.setOptions({ physics: { enabled: false } }));
+		  // Smooth zoom after either action
+          setTimeout(() => {
+            network.fit({
+              animation: { duration: 500, easingFunction: "easeInOutQuad" },
+            });
+          }, 400);
+		  // Reset the "Hide Isolated" toggle to default (off)
+          const isolatedToggle = document.getElementById('isolatedToggle');
+          if (isolatedToggle) {
+            isolatedToggle.checked = false;
+            showIsolated = true;
+          }
         }
-
-
-       function resetGraph() {
-     // clear the search box
-     document.getElementById("lname").value = "";
-    
-     // restore full graph
-     nodes.clear(); 
-     nodes.add(originalNodes);
-     edges.clear(); 
-     edges.add(originalEdges);
-    
-     // enable physics briefly, fit view, then disable physics again
-     network.setOptions({ physics: { enabled: true } });
-     network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
-     network.once("stabilizationIterationsDone", () => 
-       network.setOptions({ physics: { enabled: false } })
-     );
+          function resetGraph() {
+        // clear the search box
+        document.getElementById("lname").value = "";
+       
+        // restore full graph
+        nodes.clear(); 
+        nodes.add(originalNodes);
+        edges.clear(); 
+        edges.add(originalEdges);
+       
+        // enable physics briefly, fit view, then disable physics again
+        network.setOptions({ physics: { enabled: true } });
+        network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
+        network.once("stabilizationIterationsDone", () => 
+          network.setOptions({ physics: { enabled: false } }));
+     // Smooth zoom after either action
+           setTimeout(() => {
+             network.fit({
+               animation: { duration: 500, easingFunction: "easeInOutQuad" },
+             });
+           }, 400);  
+    	 // ✅ Reset "Hide Isolated" toggle to default (off)
+     const isolatedToggle = document.getElementById('isolatedToggle');
+     if (isolatedToggle) {
+       isolatedToggle.checked = false;
+       showIsolated = true;
+     }
+		
     }
+    function showFeaturesModal() {
+     if (document.getElementById('featuresOverlay')) return; // prevent duplicates
+    
+     const overlay = document.createElement('div');
+     overlay.className = 'notice-overlay';
+     overlay.id = 'featuresOverlay';
+    
+     overlay.innerHTML = `
+        <div class="notice-box" role="dialog" aria-labelledby="featuresTitle">
+         <button class="notice-close" aria-label="Close features">&times;</button>
+         <h3 id="featuresTitle" class="notice-title" style="text-align:center;">Features</h3>
+         <div class="notice-body">
+           <ul style="padding-left:20px; line-height:1.6; margin:0;">
+            <strong>Search & Filtering</strong>
+            <li> Smart search bar: Find players, teams, or countries by name or keyword.</li>
+            <li>Advanced filters: Combine multiple terms like "Arsenal" + "England".</li>
+            <li>Context expansion: Automatically includes directly connected players when filtering, so you see relationships, not just matches.</li>
+            <li>Cycle through results: When multiple matches exist, click again to jump between them.</li>
+            <li>Reset graph: Instantly return to the full global view.</li>		
+			<strong>Interaction & Motion</strong>		
+			<li>Physics toggle: Pause or resume network motion to explore clusters comfortably.</li>
+			<li>Hide Isolated Toggle: Declutter the graph by removing players with no active connections (works dynamically within any filtered view).</li>
+			<li>Drag & explore: Move players manually to rearrange your view without breaking the layout.</li>	<strong>Player Info & Tooltips</strong>
+			<li>Hover tooltips: Instantly see name, team, country, and longest connection chain.</li>		<li>Highlight persistence: Hovered players and paths remain visible until you hover elsewhere.</li>		
+			</ul>
+         </div>
+         <div style="text-align:right; margin-top:10px;">
+           <button class="notice-btn">Close</button>
+         </div>
+        </div>
+        `;
+       
+         document.body.appendChild(overlay);
+       
+         // Close logic
+         const close = () => overlay.remove();
+         overlay.querySelector('.notice-close').addEventListener('click', close);
+         overlay.querySelector('.notice-btn').addEventListener('click', close);
+         overlay.addEventListener('click', (e) => { if (e.target === overlay) close(); });
+    }
+       
+       document.addEventListener('DOMContentLoaded', () => {
+         const btn = document.getElementById('featuresBtn');
+         if (btn) btn.addEventListener('click', showFeaturesModal);
+       });
+        // === HIDE AND SHOW ISOLATED NODES (respects current filter) ===
+        let lastFilteredNodeIds = null; // remember current filtered state
+        
+        function hideIsolatedNodes() {
+          const currentNodes = nodes.get();
+          const currentEdges = edges.get();
+        
+          // Save current visible nodes as the "filtered subset" baseline
+          lastFilteredNodeIds = new Set(currentNodes.map(n => n.id));
+        
+          // Find all nodes that have at least one edge connection
+          const connectedIds = new Set();
+          currentEdges.forEach(e => {
+            connectedIds.add(e.from);
+            connectedIds.add(e.to);
+          });
+        
+          // Keep only connected nodes and their edges
+          const connectedNodes = currentNodes.filter(n => connectedIds.has(n.id));
+          const connectedEdges = currentEdges.filter(e => connectedIds.has(e.from) && connectedIds.has(e.to));
+        
+          nodes.clear();
+          nodes.add(connectedNodes);
+          edges.clear();
+          edges.add(connectedEdges);
+        
+          network.setOptions({ physics: { enabled: true } });
+             network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
+             network.once("stabilizationIterationsDone", () => network.setOptions({ physics: { enabled: false } }));
+             // Smooth zoom after either action
+             setTimeout(() => {
+               network.fit({
+                 animation: { duration: 500, easingFunction: "easeInOutQuad" },
+               });
+             }, 400);
+        }
+        
+        
+        function showIsolatedNodes() {
+          // If we’ve filtered before, restore only those nodes
+          let nodesToRestore, edgesToRestore;
+        
+          if (lastFilteredNodeIds && lastFilteredNodeIds.size > 0) {
+            nodesToRestore = originalNodes.filter(n => lastFilteredNodeIds.has(n.id));
+            edgesToRestore = originalEdges.filter(e =>
+              lastFilteredNodeIds.has(e.from) && lastFilteredNodeIds.has(e.to)
+            );
+          } else {
+            // If no filter was applied, just show full graph
+            nodesToRestore = originalNodes;
+            edgesToRestore = originalEdges;
+          }
+        
+          nodes.clear();
+          nodes.add(nodesToRestore);
+          edges.clear();
+          edges.add(edgesToRestore);
+               
+                 network.setOptions({ physics: { enabled: true } });
+                  network.fit({ animation: { duration: 500, easingFunction: "easeInOutQuad" } });
+                  network.once("stabilizationIterationsDone", () => network.setOptions({ physics: { enabled: false } }));
+        		  // Smooth zoom after either action
+                  setTimeout(() => {
+                    network.fit({
+                      animation: { duration: 500, easingFunction: "easeInOutQuad" },
+                    });
+                  }, 400);
+               }
+               
+               // === SETUP THE TOGGLE ===
+        document.addEventListener('DOMContentLoaded', () => {
+          const toggle = document.getElementById('isolatedToggle');
+        
+          // Default: show all nodes
+          toggle.checked = false;
+          showIsolated = true;
+        
+          toggle.addEventListener('change', () => {
+            if (toggle.checked) {
+              // ✅ Switch moved RIGHT → hide isolated nodes
+              hideIsolatedNodes();
+              showIsolated = false;
+            } else {
+              // ⬅️ Switch moved LEFT → show all nodes
+              showIsolatedNodes();
+              showIsolated = true;
+            }
+          });
+        });
+        document.addEventListener('DOMContentLoaded', () => {
+          const input = document.getElementById('lname');
+          if (input) {
+            input.addEventListener('keypress', function (event) {
+              if (event.key === 'Enter') {
+                event.preventDefault(); // prevent form submission / reload
+                highlightNode();        // act like clicking Search
+              }
+            });
+          }
+        });
     window.onload = loadData;
   </script>
   </head>
   <body>
     <form action="javascript:void(0);">
-      <input type="text" id="lname" placeholder="Search by player, team, or country" style="width:180px"><br>
+      <input type="text" id="lname" placeholder="Player, team, and/or country" style="width:180px">
       <button type="button" class="action" onclick="highlightNode()">Search</button>
       <button type="button" class="action" onclick="filterGraph()">Filter</button>
       <button type="button" class="action" onclick="resetGraph()">Reset</button>
-      <button type="button" class="action" onclick="togglePhysics()"><i id="physicsIcon" class="fas fa-pause"></i></button>
+      <button type="button" class="action" onclick="togglePhysics()"><i id="physicsIcon" class="fas fa-pause"></i></button> 
+	  <label style="display: flex; align-items: center; justify-content: space-between; margin-top:5px; width: 100%; gap: 8px;">
+      <span id="isolatedLabel">Hide Isolated</span>
+      <div class="switch">
+        <input type="checkbox" id="isolatedToggle">
+        <span class="slider round"></span>
+      </div>
+      </label>
+	  <button type="button" class="action" onclick="showFeaturesModal()">Features</button>
     </form>
     
     <div id="mynetwork"></div>
