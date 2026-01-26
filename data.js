@@ -10,8 +10,8 @@ window.graphData = {
       "image": "img/MatildaPlan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -28,8 +28,8 @@ window.graphData = {
       "image": "img/AnnaOscarsson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -46,8 +46,8 @@ window.graphData = {
       "image": "img/AngelaBeard.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(126, 80.4177036638873%, 64.28437933517095%)",
-        "border": "hsl(126, 80.4177036638873%, 64.28437933517095%)"
+        "background": "hsl(263, 74.39858233394904%, 72.60711251868392%)",
+        "border": "hsl(263, 74.39858233394904%, 72.60711251868392%)"
       },
       "font": {
         "color": "#000",
@@ -64,8 +64,8 @@ window.graphData = {
       "image": "img/LindaSembrant.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -82,8 +82,8 @@ window.graphData = {
       "image": "img/SheridaSpitse.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -100,8 +100,8 @@ window.graphData = {
       "image": "img/AdrianaSilva.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -118,8 +118,8 @@ window.graphData = {
       "image": "img/MilagrosMenendez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -136,8 +136,8 @@ window.graphData = {
       "image": "img/KathellenSousa.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -154,8 +154,8 @@ window.graphData = {
       "image": "img/SandraPanos.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -172,8 +172,8 @@ window.graphData = {
       "image": "img/MiyabiMoriya.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(169, 72.4280825778663%, 64.72951987700624%)",
-        "border": "hsl(169, 72.4280825778663%, 64.72951987700624%)"
+        "background": "hsl(319, 88.96319732980774%, 64.85647426804533%)",
+        "border": "hsl(319, 88.96319732980774%, 64.85647426804533%)"
       },
       "font": {
         "color": "#000",
@@ -190,8 +190,8 @@ window.graphData = {
       "image": "img/ChristenPress.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -208,8 +208,8 @@ window.graphData = {
       "image": "img/SarahGorden.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -226,8 +226,8 @@ window.graphData = {
       "image": "img/LilyNabet.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -244,8 +244,8 @@ window.graphData = {
       "image": "img/SaraDoorsoun.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -262,8 +262,8 @@ window.graphData = {
       "image": "img/CaitlinFoord.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -280,8 +280,8 @@ window.graphData = {
       "image": "img/ManuelaZinsberger.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -298,8 +298,8 @@ window.graphData = {
       "image": "img/BethMead.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -316,8 +316,8 @@ window.graphData = {
       "image": "img/LeahWilliamson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -334,8 +334,8 @@ window.graphData = {
       "image": "img/KatieMccabe.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -352,8 +352,8 @@ window.graphData = {
       "image": "img/FridaMaanum.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -370,8 +370,8 @@ window.graphData = {
       "image": "img/LiaWalti.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -388,8 +388,8 @@ window.graphData = {
       "image": "img/MarionaCaldentey.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -406,8 +406,8 @@ window.graphData = {
       "image": "img/KyraCooneyCross.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -424,8 +424,8 @@ window.graphData = {
       "image": "img/LaiaCodina.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -442,8 +442,8 @@ window.graphData = {
       "image": "img/VictoriaPelova.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -460,8 +460,8 @@ window.graphData = {
       "image": "img/OliviaSmith.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -478,8 +478,8 @@ window.graphData = {
       "image": "img/MiaEnderby.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -496,8 +496,8 @@ window.graphData = {
       "image": "img/CarinaWenninger.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -514,8 +514,8 @@ window.graphData = {
       "image": "img/ElenaLinari.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -532,8 +532,8 @@ window.graphData = {
       "image": "img/GiadaGreggi.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -550,8 +550,8 @@ window.graphData = {
       "image": "img/ManuelaGiugliano.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -568,8 +568,8 @@ window.graphData = {
       "image": "img/ManuelaGiuglianoSWife.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(70, 86.99455289196376%, 74.56880998502534%)",
-        "border": "hsl(70, 86.99455289196376%, 74.56880998502534%)"
+        "background": "hsl(226, 70.84535027919267%, 62.23008611315121%)",
+        "border": "hsl(226, 70.84535027919267%, 62.23008611315121%)"
       },
       "font": {
         "color": "#000",
@@ -586,8 +586,8 @@ window.graphData = {
       "image": "img/RachelDaly.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -604,8 +604,8 @@ window.graphData = {
       "image": "img/SarahMayling.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -622,8 +622,8 @@ window.graphData = {
       "image": "img/LucyParker.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -640,8 +640,8 @@ window.graphData = {
       "image": "img/NoelleMaritz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -658,8 +658,8 @@ window.graphData = {
       "image": "img/LucyStaniforthWilson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -676,8 +676,8 @@ window.graphData = {
       "image": "img/BibiSchulzeSolano.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -694,8 +694,8 @@ window.graphData = {
       "image": "img/MartaCardona.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -712,8 +712,8 @@ window.graphData = {
       "image": "img/VildeBoeRisa.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -730,8 +730,8 @@ window.graphData = {
       "image": "img/AinhoaMoraza.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -748,8 +748,8 @@ window.graphData = {
       "image": "img/CarmenMenayo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -766,8 +766,8 @@ window.graphData = {
       "image": "img/LolaGallardo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -784,8 +784,8 @@ window.graphData = {
       "image": "img/MerelVanDongen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -802,8 +802,8 @@ window.graphData = {
       "image": "img/LaurenLeal.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -820,8 +820,8 @@ window.graphData = {
       "image": "img/GioQueiroz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -838,8 +838,8 @@ window.graphData = {
       "image": "img/GorettiNeira.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -856,8 +856,8 @@ window.graphData = {
       "image": "img/VirginiaKirchberger.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -874,8 +874,8 @@ window.graphData = {
       "image": "img/CarolineGrahamHansen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -884,24 +884,6 @@ window.graphData = {
     },
     {
       "id": "49",
-      "label": "Aitana Bonmatí",
-      "group": "Spain",
-      "team": "Barcelona",
-      "shape": "circularImage",
-      "value": 36,
-      "image": "img/AitanaBonmati.jpg",
-      "brokenImage": "img/nonplayer.jpg",
-      "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
-      },
-      "font": {
-        "color": "#000",
-        "size": 16
-      }
-    },
-    {
-      "id": "50",
       "label": "Alexia Putellas",
       "group": "Spain",
       "team": "Barcelona",
@@ -910,8 +892,8 @@ window.graphData = {
       "image": "img/AlexiaPutellas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -919,7 +901,7 @@ window.graphData = {
       }
     },
     {
-      "id": "51",
+      "id": "50",
       "label": "Irene Paredes",
       "group": "Spain",
       "team": "Barcelona",
@@ -928,8 +910,8 @@ window.graphData = {
       "image": "img/IreneParedes.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -937,7 +919,7 @@ window.graphData = {
       }
     },
     {
-      "id": "52",
+      "id": "51",
       "label": "Mapi León",
       "group": "Spain",
       "team": "Barcelona",
@@ -946,8 +928,8 @@ window.graphData = {
       "image": "img/MapiLeon.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -955,7 +937,7 @@ window.graphData = {
       }
     },
     {
-      "id": "53",
+      "id": "52",
       "label": "Marta Torrejon",
       "group": "Spain",
       "team": "Barcelona",
@@ -964,8 +946,8 @@ window.graphData = {
       "image": "img/MartaTorrejon.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -973,7 +955,7 @@ window.graphData = {
       }
     },
     {
-      "id": "54",
+      "id": "53",
       "label": "Nuria Rabano",
       "group": "Spain",
       "team": "Barcelona",
@@ -982,8 +964,8 @@ window.graphData = {
       "image": "img/NuriaRabano.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -991,7 +973,7 @@ window.graphData = {
       }
     },
     {
-      "id": "55",
+      "id": "54",
       "label": "Patri Guijarro",
       "group": "Spain",
       "team": "Barcelona",
@@ -1000,8 +982,8 @@ window.graphData = {
       "image": "img/PatriGuijarro.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -1009,7 +991,7 @@ window.graphData = {
       }
     },
     {
-      "id": "56",
+      "id": "55",
       "label": "Claudia Pina",
       "group": "Spain",
       "team": "Barcelona",
@@ -1018,8 +1000,8 @@ window.graphData = {
       "image": "img/ClaudiaPina.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -1027,7 +1009,7 @@ window.graphData = {
       }
     },
     {
-      "id": "57",
+      "id": "56",
       "label": "Vicky Lopez",
       "group": "Spain",
       "team": "Barcelona",
@@ -1036,8 +1018,8 @@ window.graphData = {
       "image": "img/VickyLopez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -1045,7 +1027,7 @@ window.graphData = {
       }
     },
     {
-      "id": "58",
+      "id": "57",
       "label": "Salma Paralluelo",
       "group": "Spain",
       "team": "Barcelona",
@@ -1054,8 +1036,8 @@ window.graphData = {
       "image": "img/SalmaParalluelo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -1063,7 +1045,7 @@ window.graphData = {
       }
     },
     {
-      "id": "59",
+      "id": "58",
       "label": "Ona Batlle",
       "group": "Spain",
       "team": "Barcelona",
@@ -1072,8 +1054,8 @@ window.graphData = {
       "image": "img/OnaBatlle.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -1081,7 +1063,7 @@ window.graphData = {
       }
     },
     {
-      "id": "60",
+      "id": "59",
       "label": "Eva Navarro",
       "group": "notgrouped",
       "team": "Real Madrid",
@@ -1090,8 +1072,8 @@ window.graphData = {
       "image": "img/EvaNavarro.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(192, 79.93220105242492%, 65.66126452294827%)",
-        "border": "hsl(192, 79.93220105242492%, 65.66126452294827%)"
+        "background": "hsl(306, 84.93202269604092%, 60.91819955877194%)",
+        "border": "hsl(306, 84.93202269604092%, 60.91819955877194%)"
       },
       "font": {
         "color": "#000",
@@ -1099,7 +1081,7 @@ window.graphData = {
       }
     },
     {
-      "id": "61",
+      "id": "60",
       "label": "Ewa Pajor",
       "group": "Poland",
       "team": "Barcelona",
@@ -1108,8 +1090,8 @@ window.graphData = {
       "image": "img/EwaPajor.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(357, 89.2773041911851%, 62.40355813401682%)",
-        "border": "hsl(357, 89.2773041911851%, 62.40355813401682%)"
+        "background": "hsl(149, 83.46670338883743%, 67.47498701635709%)",
+        "border": "hsl(149, 83.46670338883743%, 67.47498701635709%)"
       },
       "font": {
         "color": "#000",
@@ -1117,7 +1099,7 @@ window.graphData = {
       }
     },
     {
-      "id": "62",
+      "id": "61",
       "label": "Ari Arias",
       "group": "Spain",
       "team": "Barcelona",
@@ -1126,8 +1108,8 @@ window.graphData = {
       "image": "img/AriArias.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -1135,7 +1117,7 @@ window.graphData = {
       }
     },
     {
-      "id": "63",
+      "id": "62",
       "label": "Catalina Coll",
       "group": "Spain",
       "team": "Barcelona",
@@ -1144,8 +1126,8 @@ window.graphData = {
       "image": "img/CatalinaColl.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -1153,7 +1135,7 @@ window.graphData = {
       }
     },
     {
-      "id": "64",
+      "id": "63",
       "label": "Oliwia Wos",
       "group": "Poland",
       "team": "Basel",
@@ -1162,8 +1144,8 @@ window.graphData = {
       "image": "img/OliwiaWos.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(357, 89.2773041911851%, 62.40355813401682%)",
-        "border": "hsl(357, 89.2773041911851%, 62.40355813401682%)"
+        "background": "hsl(149, 83.46670338883743%, 67.47498701635709%)",
+        "border": "hsl(149, 83.46670338883743%, 67.47498701635709%)"
       },
       "font": {
         "color": "#000",
@@ -1171,7 +1153,7 @@ window.graphData = {
       }
     },
     {
-      "id": "65",
+      "id": "64",
       "label": "Jana Vojtekova",
       "group": "Slovakia",
       "team": "Basel 1893",
@@ -1180,8 +1162,8 @@ window.graphData = {
       "image": "img/JanaVojtekova.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(55, 76.84039199516096%, 73.18963331531508%)",
-        "border": "hsl(55, 76.84039199516096%, 73.18963331531508%)"
+        "background": "hsl(80, 70.97579787104668%, 71.76236270273928%)",
+        "border": "hsl(80, 70.97579787104668%, 71.76236270273928%)"
       },
       "font": {
         "color": "#000",
@@ -1189,7 +1171,7 @@ window.graphData = {
       }
     },
     {
-      "id": "66",
+      "id": "65",
       "label": "Ivana Rudelic",
       "group": "Croatia",
       "team": "Basel 1893",
@@ -1198,8 +1180,8 @@ window.graphData = {
       "image": "img/IvanaRudelic.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(242, 80.33661053211775%, 71.71390361107105%)",
-        "border": "hsl(242, 80.33661053211775%, 71.71390361107105%)"
+        "background": "hsl(330, 81.21032702678099%, 62.01315782826036%)",
+        "border": "hsl(330, 81.21032702678099%, 62.01315782826036%)"
       },
       "font": {
         "color": "#000",
@@ -1207,7 +1189,7 @@ window.graphData = {
       }
     },
     {
-      "id": "67",
+      "id": "66",
       "label": "Rachel Hill",
       "group": "USA",
       "team": "Bay",
@@ -1216,8 +1198,8 @@ window.graphData = {
       "image": "img/RachelHill.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -1225,7 +1207,7 @@ window.graphData = {
       }
     },
     {
-      "id": "68",
+      "id": "67",
       "label": "Emily Menges",
       "group": "USA",
       "team": "Bay",
@@ -1234,8 +1216,8 @@ window.graphData = {
       "image": "img/EmilyMenges.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -1243,7 +1225,7 @@ window.graphData = {
       }
     },
     {
-      "id": "69",
+      "id": "68",
       "label": "Lisa Schwab",
       "group": "Germany",
       "team": "Bayer 04 Leverkusen",
@@ -1252,8 +1234,8 @@ window.graphData = {
       "image": "img/LisaSchwab.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -1261,7 +1243,7 @@ window.graphData = {
       }
     },
     {
-      "id": "70",
+      "id": "69",
       "label": "Carolin Simon",
       "group": "Austria",
       "team": "Bayern Munich",
@@ -1270,8 +1252,8 @@ window.graphData = {
       "image": "img/CarolinSimon.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -1279,7 +1261,7 @@ window.graphData = {
       }
     },
     {
-      "id": "71",
+      "id": "70",
       "label": "Pernille Harder",
       "group": "Denmark",
       "team": "Bayern Munich",
@@ -1288,8 +1270,8 @@ window.graphData = {
       "image": "img/PernilleHarder.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(20, 79.7637884875772%, 72.09952128425289%)",
-        "border": "hsl(20, 79.7637884875772%, 72.09952128425289%)"
+        "background": "hsl(202, 81.72360215615326%, 66.20548088101292%)",
+        "border": "hsl(202, 81.72360215615326%, 66.20548088101292%)"
       },
       "font": {
         "color": "#000",
@@ -1297,7 +1279,7 @@ window.graphData = {
       }
     },
     {
-      "id": "72",
+      "id": "71",
       "label": "Sydney Lohmann",
       "group": "Germany",
       "team": "Bayern Munich",
@@ -1306,8 +1288,8 @@ window.graphData = {
       "image": "img/SydneyLohmann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -1315,7 +1297,7 @@ window.graphData = {
       }
     },
     {
-      "id": "73",
+      "id": "72",
       "label": "Lea Schüller",
       "group": "Germany",
       "team": "Bayern Munich",
@@ -1324,8 +1306,8 @@ window.graphData = {
       "image": "img/LeaSchuller.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -1333,7 +1315,7 @@ window.graphData = {
       }
     },
     {
-      "id": "74",
+      "id": "73",
       "label": "Sam Kerr (Scottish)",
       "group": "Scotland",
       "team": "Bayern Munich",
@@ -1342,8 +1324,8 @@ window.graphData = {
       "image": "img/SamKerrScottish.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -1351,7 +1333,7 @@ window.graphData = {
       }
     },
     {
-      "id": "75",
+      "id": "74",
       "label": "Magdalena Eriksson",
       "group": "Sweden",
       "team": "Bayern Munich",
@@ -1360,8 +1342,8 @@ window.graphData = {
       "image": "img/MagdalenaEriksson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -1369,7 +1351,7 @@ window.graphData = {
       }
     },
     {
-      "id": "76",
+      "id": "75",
       "label": "Georgia Stanway",
       "group": "England",
       "team": "Bayern Munich",
@@ -1378,8 +1360,8 @@ window.graphData = {
       "image": "img/GeorgiaStanway.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -1387,7 +1369,7 @@ window.graphData = {
       }
     },
     {
-      "id": "77",
+      "id": "76",
       "label": "Julia Zigiotti",
       "group": "Sweden",
       "team": "Bayern Munich",
@@ -1396,8 +1378,8 @@ window.graphData = {
       "image": "img/JuliaZigiotti.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -1405,7 +1387,7 @@ window.graphData = {
       }
     },
     {
-      "id": "78",
+      "id": "77",
       "label": "Lena Oberdorf",
       "group": "Germany",
       "team": "Bayern Munich",
@@ -1414,8 +1396,8 @@ window.graphData = {
       "image": "img/LenaOberdorf.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -1423,7 +1405,7 @@ window.graphData = {
       }
     },
     {
-      "id": "79",
+      "id": "78",
       "label": "Natalia Padilla-Bidas",
       "group": "Spain",
       "team": "Bayern Munich",
@@ -1432,8 +1414,8 @@ window.graphData = {
       "image": "img/NataliaPadillaBidas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -1441,7 +1423,7 @@ window.graphData = {
       }
     },
     {
-      "id": "80",
+      "id": "79",
       "label": "Nycole Raysla",
       "group": "Brazil",
       "team": "Benfica",
@@ -1450,8 +1432,8 @@ window.graphData = {
       "image": "img/NycoleRaysla.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -1459,7 +1441,7 @@ window.graphData = {
       }
     },
     {
-      "id": "81",
+      "id": "80",
       "label": "Anna Gasper",
       "group": "Germany",
       "team": "Benfica",
@@ -1468,8 +1450,8 @@ window.graphData = {
       "image": "img/AnnaGasper.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -1477,7 +1459,7 @@ window.graphData = {
       }
     },
     {
-      "id": "82",
+      "id": "81",
       "label": "Romina Nuñez",
       "group": "Argentina",
       "team": "Betis",
@@ -1486,8 +1468,8 @@ window.graphData = {
       "image": "img/RominaNunez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -1495,7 +1477,7 @@ window.graphData = {
       }
     },
     {
-      "id": "83",
+      "id": "82",
       "label": "Jamie Finn",
       "group": "Ireland",
       "team": "Birmingham City",
@@ -1504,8 +1486,8 @@ window.graphData = {
       "image": "img/JamieFinn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -1513,7 +1495,7 @@ window.graphData = {
       }
     },
     {
-      "id": "84",
+      "id": "83",
       "label": "Lucy Quinn",
       "group": "Ireland",
       "team": "Birmingham City",
@@ -1522,8 +1504,8 @@ window.graphData = {
       "image": "img/LucyQuinn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -1531,7 +1513,7 @@ window.graphData = {
       }
     },
     {
-      "id": "85",
+      "id": "84",
       "label": "Adrianna Franch",
       "group": "USA",
       "team": "Birmingham City",
@@ -1540,8 +1522,8 @@ window.graphData = {
       "image": "img/AdriannaFranch.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -1549,7 +1531,7 @@ window.graphData = {
       }
     },
     {
-      "id": "86",
+      "id": "85",
       "label": "Rebecca Holloway",
       "group": "Northern Ireland",
       "team": "Birmingham City",
@@ -1558,8 +1540,8 @@ window.graphData = {
       "image": "img/RebeccaHolloway.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(64, 76.61455500340531%, 67.14537086509621%)",
-        "border": "hsl(64, 76.61455500340531%, 67.14537086509621%)"
+        "background": "hsl(163, 87.7575536998751%, 64.57099529748149%)",
+        "border": "hsl(163, 87.7575536998751%, 64.57099529748149%)"
       },
       "font": {
         "color": "#000",
@@ -1567,7 +1549,7 @@ window.graphData = {
       }
     },
     {
-      "id": "87",
+      "id": "86",
       "label": "Emily van Egmond",
       "group": "Australia",
       "team": "Birmingham City",
@@ -1576,8 +1558,8 @@ window.graphData = {
       "image": "img/EmilyVanEgmond.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -1585,7 +1567,7 @@ window.graphData = {
       }
     },
     {
-      "id": "88",
+      "id": "87",
       "label": "Jennifer Falk",
       "group": "Sweden",
       "team": "BK Häcken",
@@ -1594,8 +1576,8 @@ window.graphData = {
       "image": "img/JenniferFalk.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -1603,7 +1585,7 @@ window.graphData = {
       }
     },
     {
-      "id": "89",
+      "id": "88",
       "label": "Julieta Cruz",
       "group": "Argentina",
       "team": "Boca Juniors",
@@ -1612,8 +1594,8 @@ window.graphData = {
       "image": "img/JulietaCruz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -1621,7 +1603,7 @@ window.graphData = {
       }
     },
     {
-      "id": "90",
+      "id": "89",
       "label": "Lorena Benítez",
       "group": "Argentina",
       "team": "Boca Juniors",
@@ -1630,8 +1612,8 @@ window.graphData = {
       "image": "img/LorenaBenitez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -1639,7 +1621,7 @@ window.graphData = {
       }
     },
     {
-      "id": "91",
+      "id": "90",
       "label": "Linda Tucceri Cimini",
       "group": "Italy",
       "team": "Bologna",
@@ -1648,8 +1630,8 @@ window.graphData = {
       "image": "img/LindaTucceriCimini.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -1657,7 +1639,7 @@ window.graphData = {
       }
     },
     {
-      "id": "92",
+      "id": "91",
       "label": "Dolores Silva",
       "group": "Portugal",
       "team": "Braga",
@@ -1666,8 +1648,8 @@ window.graphData = {
       "image": "img/DoloresSilva.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(290, 84.31851626208899%, 74.42851166559547%)",
-        "border": "hsl(290, 84.31851626208899%, 74.42851166559547%)"
+        "background": "hsl(174, 76.03362911181989%, 60.61219317412213%)",
+        "border": "hsl(174, 76.03362911181989%, 60.61219317412213%)"
       },
       "font": {
         "color": "#000",
@@ -1675,7 +1657,7 @@ window.graphData = {
       }
     },
     {
-      "id": "93",
+      "id": "92",
       "label": "Laura Luis",
       "group": "Portugal",
       "team": "Braga",
@@ -1684,8 +1666,8 @@ window.graphData = {
       "image": "img/LauraLuis.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(290, 84.31851626208899%, 74.42851166559547%)",
-        "border": "hsl(290, 84.31851626208899%, 74.42851166559547%)"
+        "background": "hsl(174, 76.03362911181989%, 60.61219317412213%)",
+        "border": "hsl(174, 76.03362911181989%, 60.61219317412213%)"
       },
       "font": {
         "color": "#000",
@@ -1693,7 +1675,7 @@ window.graphData = {
       }
     },
     {
-      "id": "94",
+      "id": "93",
       "label": "Nina Stapelfeldt",
       "group": "Switzerland",
       "team": "Brescia",
@@ -1702,8 +1684,8 @@ window.graphData = {
       "image": "img/NinaStapelfeldt.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -1711,7 +1693,7 @@ window.graphData = {
       }
     },
     {
-      "id": "95",
+      "id": "94",
       "label": "Stefania Zanoletti",
       "group": "Italy",
       "team": "Brescia",
@@ -1720,8 +1702,8 @@ window.graphData = {
       "image": "img/StefaniaZanoletti.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -1729,7 +1711,7 @@ window.graphData = {
       }
     },
     {
-      "id": "96",
+      "id": "95",
       "label": "Fran Kirby",
       "group": "England",
       "team": "Brighton & Hove Albion",
@@ -1738,8 +1720,8 @@ window.graphData = {
       "image": "img/FranKirby.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -1747,7 +1729,7 @@ window.graphData = {
       }
     },
     {
-      "id": "97",
+      "id": "96",
       "label": "Jenna McCormick",
       "group": "Australia",
       "team": "Brisbane Roar",
@@ -1756,8 +1738,8 @@ window.graphData = {
       "image": "img/JennaMccormick.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -1765,7 +1747,7 @@ window.graphData = {
       }
     },
     {
-      "id": "98",
+      "id": "97",
       "label": "Tameka Yallop",
       "group": "Australia",
       "team": "Brisbane Roar",
@@ -1774,8 +1756,8 @@ window.graphData = {
       "image": "img/TamekaYallop.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -1783,7 +1765,7 @@ window.graphData = {
       }
     },
     {
-      "id": "99",
+      "id": "98",
       "label": "Vicky Losada",
       "group": "Spain",
       "team": "Bristol City",
@@ -1792,8 +1774,8 @@ window.graphData = {
       "image": "img/VickyLosada.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -1801,7 +1783,7 @@ window.graphData = {
       }
     },
     {
-      "id": "100",
+      "id": "99",
       "label": "Alexia Karrys-Stahl",
       "group": "Australia",
       "team": "Central Coast Mariners",
@@ -1810,8 +1792,8 @@ window.graphData = {
       "image": "img/AlexiaKarrysStahl.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -1819,7 +1801,7 @@ window.graphData = {
       }
     },
     {
-      "id": "101",
+      "id": "100",
       "label": "Ellie Brazil",
       "group": "England",
       "team": "Charlton Athletic",
@@ -1828,8 +1810,8 @@ window.graphData = {
       "image": "img/EllieBrazil.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -1837,7 +1819,7 @@ window.graphData = {
       }
     },
     {
-      "id": "102",
+      "id": "101",
       "label": "Keira Walsh",
       "group": "England",
       "team": "Chelsea",
@@ -1846,8 +1828,8 @@ window.graphData = {
       "image": "img/KeiraWalsh.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -1855,7 +1837,7 @@ window.graphData = {
       }
     },
     {
-      "id": "103",
+      "id": "102",
       "label": "Lucy Bronze",
       "group": "England",
       "team": "Chelsea",
@@ -1864,8 +1846,8 @@ window.graphData = {
       "image": "img/LucyBronze.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -1873,7 +1855,7 @@ window.graphData = {
       }
     },
     {
-      "id": "104",
+      "id": "103",
       "label": "Sam Kerr",
       "group": "Australia",
       "team": "Chelsea",
@@ -1882,8 +1864,8 @@ window.graphData = {
       "image": "img/SamKerr.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -1891,7 +1873,7 @@ window.graphData = {
       }
     },
     {
-      "id": "105",
+      "id": "104",
       "label": "Kadeisha Buchanan",
       "group": "Canada",
       "team": "Chelsea",
@@ -1900,8 +1882,8 @@ window.graphData = {
       "image": "img/KadeishaBuchanan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -1909,7 +1891,7 @@ window.graphData = {
       }
     },
     {
-      "id": "106",
+      "id": "105",
       "label": "Erin Cuthbert",
       "group": "England",
       "team": "Chelsea",
@@ -1918,8 +1900,8 @@ window.graphData = {
       "image": "img/ErinCuthbert.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -1927,7 +1909,7 @@ window.graphData = {
       }
     },
     {
-      "id": "107",
+      "id": "106",
       "label": "Niamh Charles",
       "group": "England",
       "team": "Chelsea",
@@ -1936,8 +1918,8 @@ window.graphData = {
       "image": "img/NiamhCharles.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -1945,7 +1927,7 @@ window.graphData = {
       }
     },
     {
-      "id": "108",
+      "id": "107",
       "label": "Catarina Macario",
       "group": "USA",
       "team": "Chelsea",
@@ -1954,8 +1936,8 @@ window.graphData = {
       "image": "img/CatarinaMacario.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -1963,7 +1945,7 @@ window.graphData = {
       }
     },
     {
-      "id": "109",
+      "id": "108",
       "label": "Guro Reiten",
       "group": "Norway",
       "team": "Chelsea",
@@ -1972,8 +1954,8 @@ window.graphData = {
       "image": "img/GuroReiten.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -1981,7 +1963,7 @@ window.graphData = {
       }
     },
     {
-      "id": "110",
+      "id": "109",
       "label": "Sophie Ingle",
       "group": "Wales",
       "team": "Chelsea",
@@ -1990,8 +1972,8 @@ window.graphData = {
       "image": "img/SophieIngle.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(154, 74.26556271703672%, 60.716586722033%)",
-        "border": "hsl(154, 74.26556271703672%, 60.716586722033%)"
+        "background": "hsl(117, 85.66034691145255%, 71.3788128222863%)",
+        "border": "hsl(117, 85.66034691145255%, 71.3788128222863%)"
       },
       "font": {
         "color": "#000",
@@ -1999,7 +1981,7 @@ window.graphData = {
       }
     },
     {
-      "id": "111",
+      "id": "110",
       "label": "Nathalie Björn",
       "group": "Sweden",
       "team": "Chelsea",
@@ -2008,8 +1990,8 @@ window.graphData = {
       "image": "img/NathalieBjorn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -2017,7 +1999,7 @@ window.graphData = {
       }
     },
     {
-      "id": "112",
+      "id": "111",
       "label": "Becky Spencer",
       "group": "Jamaica",
       "team": "Chelsea",
@@ -2026,8 +2008,8 @@ window.graphData = {
       "image": "img/BeckySpencer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(95, 73.23372459557412%, 74.90706249743968%)",
-        "border": "hsl(95, 73.23372459557412%, 74.90706249743968%)"
+        "background": "hsl(9, 71.38359506235525%, 66.61417615321747%)",
+        "border": "hsl(9, 71.38359506235525%, 66.61417615321747%)"
       },
       "font": {
         "color": "#000",
@@ -2035,7 +2017,7 @@ window.graphData = {
       }
     },
     {
-      "id": "113",
+      "id": "112",
       "label": "Ellie Carpenter",
       "group": "Australia",
       "team": "Chelsea",
@@ -2044,8 +2026,8 @@ window.graphData = {
       "image": "img/EllieCarpenter.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -2053,7 +2035,7 @@ window.graphData = {
       }
     },
     {
-      "id": "114",
+      "id": "113",
       "label": "Maitane López Millán",
       "group": "Spain",
       "team": "Chicago Stars",
@@ -2062,8 +2044,8 @@ window.graphData = {
       "image": "img/MaitaneLopezMillan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -2071,7 +2053,7 @@ window.graphData = {
       }
     },
     {
-      "id": "115",
+      "id": "114",
       "label": "Yanara Aedo",
       "group": "Chile",
       "team": "Colo-Colo",
@@ -2080,8 +2062,8 @@ window.graphData = {
       "image": "img/YanaraAedo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(326, 79.15302130744331%, 60.9810350303418%)",
-        "border": "hsl(326, 79.15302130744331%, 60.9810350303418%)"
+        "background": "hsl(101, 79.42833006513955%, 64.70760651332132%)",
+        "border": "hsl(101, 79.42833006513955%, 64.70760651332132%)"
       },
       "font": {
         "color": "#000",
@@ -2089,7 +2071,7 @@ window.graphData = {
       }
     },
     {
-      "id": "116",
+      "id": "115",
       "label": "Yenny Acuña",
       "group": "Chile",
       "team": "Colo-Colo",
@@ -2098,8 +2080,8 @@ window.graphData = {
       "image": "img/YennyAcuna.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(326, 79.15302130744331%, 60.9810350303418%)",
-        "border": "hsl(326, 79.15302130744331%, 60.9810350303418%)"
+        "background": "hsl(101, 79.42833006513955%, 64.70760651332132%)",
+        "border": "hsl(101, 79.42833006513955%, 64.70760651332132%)"
       },
       "font": {
         "color": "#000",
@@ -2107,7 +2089,7 @@ window.graphData = {
       }
     },
     {
-      "id": "117",
+      "id": "116",
       "label": "Sarina Isabel Calpo Bolden",
       "group": "Philippines",
       "team": "Como",
@@ -2116,8 +2098,8 @@ window.graphData = {
       "image": "img/SarinaIsabelCalpoBolden.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(126, 80.4177036638873%, 64.28437933517095%)",
-        "border": "hsl(126, 80.4177036638873%, 64.28437933517095%)"
+        "background": "hsl(263, 74.39858233394904%, 72.60711251868392%)",
+        "border": "hsl(263, 74.39858233394904%, 72.60711251868392%)"
       },
       "font": {
         "color": "#000",
@@ -2125,7 +2107,7 @@ window.graphData = {
       }
     },
     {
-      "id": "118",
+      "id": "117",
       "label": "Letícia Izidoro",
       "group": "Brazil",
       "team": "Corinthians",
@@ -2134,8 +2116,8 @@ window.graphData = {
       "image": "img/LeticiaIzidoro.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -2143,7 +2125,7 @@ window.graphData = {
       }
     },
     {
-      "id": "119",
+      "id": "118",
       "label": "Tamires Dias",
       "group": "Brazil",
       "team": "Corinthians",
@@ -2152,8 +2134,8 @@ window.graphData = {
       "image": "img/TamiresDias.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -2161,7 +2143,7 @@ window.graphData = {
       }
     },
     {
-      "id": "120",
+      "id": "119",
       "label": "Andressa Alves",
       "group": "Brazil",
       "team": "Corinthians",
@@ -2170,8 +2152,8 @@ window.graphData = {
       "image": "img/AndressaAlves.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -2179,7 +2161,7 @@ window.graphData = {
       }
     },
     {
-      "id": "121",
+      "id": "120",
       "label": "Elise Hughes",
       "group": "Wales",
       "team": "Crystal Palace",
@@ -2188,8 +2170,8 @@ window.graphData = {
       "image": "img/EliseHughes.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(154, 74.26556271703672%, 60.716586722033%)",
-        "border": "hsl(154, 74.26556271703672%, 60.716586722033%)"
+        "background": "hsl(117, 85.66034691145255%, 71.3788128222863%)",
+        "border": "hsl(117, 85.66034691145255%, 71.3788128222863%)"
       },
       "font": {
         "color": "#000",
@@ -2197,7 +2179,7 @@ window.graphData = {
       }
     },
     {
-      "id": "122",
+      "id": "121",
       "label": "Annabel Blanchard",
       "group": "England",
       "team": "Crystal Palace",
@@ -2206,8 +2188,8 @@ window.graphData = {
       "image": "img/AnnabelBlanchard.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -2215,7 +2197,7 @@ window.graphData = {
       }
     },
     {
-      "id": "123",
+      "id": "122",
       "label": "Chloe Arthur",
       "group": "Scotland",
       "team": "Crystal Palace",
@@ -2224,8 +2206,8 @@ window.graphData = {
       "image": "img/ChloeArthur.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -2233,7 +2215,7 @@ window.graphData = {
       }
     },
     {
-      "id": "124",
+      "id": "123",
       "label": "Isibeal Atkinson",
       "group": "Ireland",
       "team": "Crystal Palace",
@@ -2242,8 +2224,8 @@ window.graphData = {
       "image": "img/IsibealAtkinson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -2251,7 +2233,7 @@ window.graphData = {
       }
     },
     {
-      "id": "125",
+      "id": "124",
       "label": "Gabriela Guillén",
       "group": "Costa Rica",
       "team": "Dallas Trinity",
@@ -2260,8 +2242,8 @@ window.graphData = {
       "image": "img/GabrielaGuillen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(87, 79.21581114700138%, 62.02319814739771%)",
-        "border": "hsl(87, 79.21581114700138%, 62.02319814739771%)"
+        "background": "hsl(220, 79.03192459768755%, 72.56795028937167%)",
+        "border": "hsl(220, 79.03192459768755%, 72.56795028937167%)"
       },
       "font": {
         "color": "#000",
@@ -2269,7 +2251,7 @@ window.graphData = {
       }
     },
     {
-      "id": "126",
+      "id": "125",
       "label": "Michaela Foster",
       "group": "New Zealand",
       "team": "Durham",
@@ -2278,8 +2260,8 @@ window.graphData = {
       "image": "img/MichaelaFoster.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -2287,7 +2269,7 @@ window.graphData = {
       }
     },
     {
-      "id": "127",
+      "id": "126",
       "label": "Géraldine Reuteler",
       "group": "Switzerland",
       "team": "Eintracht",
@@ -2296,8 +2278,8 @@ window.graphData = {
       "image": "img/GeraldineReuteler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -2305,7 +2287,7 @@ window.graphData = {
       }
     },
     {
-      "id": "128",
+      "id": "127",
       "label": "Laura Freigang",
       "group": "Germany",
       "team": "Eintracht Frankfurt",
@@ -2314,8 +2296,8 @@ window.graphData = {
       "image": "img/LauraFreigang.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -2323,7 +2305,7 @@ window.graphData = {
       }
     },
     {
-      "id": "129",
+      "id": "128",
       "label": "Maz Pacheco",
       "group": "England",
       "team": "Everton",
@@ -2332,8 +2314,8 @@ window.graphData = {
       "image": "img/MazPacheco.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -2341,7 +2323,7 @@ window.graphData = {
       }
     },
     {
-      "id": "130",
+      "id": "129",
       "label": "Leah Tyrer",
       "group": "England",
       "team": "Nonplayer",
@@ -2350,8 +2332,8 @@ window.graphData = {
       "image": "img/LeahTyrer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -2359,7 +2341,7 @@ window.graphData = {
       }
     },
     {
-      "id": "131",
+      "id": "130",
       "label": "Martina Fernandez",
       "group": "Spain",
       "team": "Everton",
@@ -2368,8 +2350,8 @@ window.graphData = {
       "image": "img/MartinaFernandez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -2377,7 +2359,7 @@ window.graphData = {
       }
     },
     {
-      "id": "132",
+      "id": "131",
       "label": "Maren Mjelde",
       "group": "Norway",
       "team": "Everton",
@@ -2386,8 +2368,8 @@ window.graphData = {
       "image": "img/MarenMjelde.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -2395,7 +2377,7 @@ window.graphData = {
       }
     },
     {
-      "id": "133",
+      "id": "132",
       "label": "Aurora Galli",
       "group": "Italy",
       "team": "Everton",
@@ -2404,8 +2386,8 @@ window.graphData = {
       "image": "img/AuroraGalli.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -2413,7 +2395,7 @@ window.graphData = {
       }
     },
     {
-      "id": "134",
+      "id": "133",
       "label": "Hayley Ladd",
       "group": "Wales",
       "team": "Everton",
@@ -2422,8 +2404,8 @@ window.graphData = {
       "image": "img/HayleyLadd.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(154, 74.26556271703672%, 60.716586722033%)",
-        "border": "hsl(154, 74.26556271703672%, 60.716586722033%)"
+        "background": "hsl(117, 85.66034691145255%, 71.3788128222863%)",
+        "border": "hsl(117, 85.66034691145255%, 71.3788128222863%)"
       },
       "font": {
         "color": "#000",
@@ -2431,7 +2413,7 @@ window.graphData = {
       }
     },
     {
-      "id": "135",
+      "id": "134",
       "label": "Jacintha Weimar",
       "group": "The Netherlands",
       "team": "Feyenoord",
@@ -2440,8 +2422,8 @@ window.graphData = {
       "image": "img/JacinthaWeimar.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -2449,7 +2431,7 @@ window.graphData = {
       }
     },
     {
-      "id": "136",
+      "id": "135",
       "label": "Lina Hurtig",
       "group": "Sweden",
       "team": "Fiorentina",
@@ -2458,8 +2440,8 @@ window.graphData = {
       "image": "img/LinaHurtig.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -2467,7 +2449,7 @@ window.graphData = {
       }
     },
     {
-      "id": "137",
+      "id": "136",
       "label": "Verónica Boquete",
       "group": "Spain",
       "team": "Fiorentina",
@@ -2476,8 +2458,8 @@ window.graphData = {
       "image": "img/VeronicaBoquete.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -2485,7 +2467,7 @@ window.graphData = {
       }
     },
     {
-      "id": "138",
+      "id": "137",
       "label": "Agnese Bonfantini",
       "group": "Italy",
       "team": "Fiorentina",
@@ -2494,8 +2476,8 @@ window.graphData = {
       "image": "img/AgneseBonfantini.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -2503,7 +2485,7 @@ window.graphData = {
       }
     },
     {
-      "id": "139",
+      "id": "138",
       "label": "Cristiane Rozeira",
       "group": "Brazil",
       "team": "Flamengo",
@@ -2512,8 +2494,8 @@ window.graphData = {
       "image": "img/CristianeRozeira.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -2521,7 +2503,7 @@ window.graphData = {
       }
     },
     {
-      "id": "140",
+      "id": "139",
       "label": "Constance Picaud-Inconnu",
       "group": "France",
       "team": "Fleury",
@@ -2530,8 +2512,8 @@ window.graphData = {
       "image": "img/ConstancePicaudInconnu.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -2539,7 +2521,7 @@ window.graphData = {
       }
     },
     {
-      "id": "141",
+      "id": "140",
       "label": "Miriam Longo",
       "group": "Italy",
       "team": "Florentina",
@@ -2548,8 +2530,8 @@ window.graphData = {
       "image": "img/MiriamLongo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -2557,7 +2539,7 @@ window.graphData = {
       }
     },
     {
-      "id": "142",
+      "id": "141",
       "label": "Sophie Nachtigall",
       "group": "Germany",
       "team": "Frankfurt",
@@ -2566,8 +2548,8 @@ window.graphData = {
       "image": "img/SophieNachtigall.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -2575,7 +2557,7 @@ window.graphData = {
       }
     },
     {
-      "id": "143",
+      "id": "142",
       "label": "Luisa Wensing",
       "group": "Germany",
       "team": "Freiburg",
@@ -2584,8 +2566,8 @@ window.graphData = {
       "image": "img/LuisaWensing.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -2593,7 +2575,7 @@ window.graphData = {
       }
     },
     {
-      "id": "144",
+      "id": "143",
       "label": "Samantha Steuerwald",
       "group": "Germany",
       "team": "Freiburg",
@@ -2602,8 +2584,8 @@ window.graphData = {
       "image": "img/SamanthaSteuerwald.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -2611,7 +2593,7 @@ window.graphData = {
       }
     },
     {
-      "id": "145",
+      "id": "144",
       "label": "Andrea Stašková",
       "group": "Czech Republic",
       "team": "Galatasaray",
@@ -2620,8 +2602,8 @@ window.graphData = {
       "image": "img/AndreaStaskova.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(44, 84.04375466589607%, 60.69245455484784%)",
-        "border": "hsl(44, 84.04375466589607%, 60.69245455484784%)"
+        "background": "hsl(271, 78.97187208661258%, 68.71058670327686%)",
+        "border": "hsl(271, 78.97187208661258%, 68.71058670327686%)"
       },
       "font": {
         "color": "#000",
@@ -2629,7 +2611,7 @@ window.graphData = {
       }
     },
     {
-      "id": "146",
+      "id": "145",
       "label": "Fiona Brown",
       "group": "Scotland",
       "team": "Glasgow City",
@@ -2638,8 +2620,8 @@ window.graphData = {
       "image": "img/FionaBrown.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -2647,7 +2629,7 @@ window.graphData = {
       }
     },
     {
-      "id": "147",
+      "id": "146",
       "label": "Lisa Evans",
       "group": "Scotland",
       "team": "Glasgow City",
@@ -2656,8 +2638,8 @@ window.graphData = {
       "image": "img/LisaEvans.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -2665,7 +2647,7 @@ window.graphData = {
       }
     },
     {
-      "id": "148",
+      "id": "147",
       "label": "Ellie Butler",
       "group": "England",
       "team": "Glentoran",
@@ -2674,8 +2656,8 @@ window.graphData = {
       "image": "img/EllieButler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -2683,7 +2665,7 @@ window.graphData = {
       }
     },
     {
-      "id": "149",
+      "id": "148",
       "label": "Ann-Katrin Berger",
       "group": "Germany",
       "team": "Gotham",
@@ -2692,8 +2674,8 @@ window.graphData = {
       "image": "img/AnnKatrinBerger.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -2701,7 +2683,7 @@ window.graphData = {
       }
     },
     {
-      "id": "150",
+      "id": "149",
       "label": "Ella Stevens",
       "group": "USA",
       "team": "Gotham",
@@ -2710,8 +2692,8 @@ window.graphData = {
       "image": "img/EllaStevens.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -2719,7 +2701,7 @@ window.graphData = {
       }
     },
     {
-      "id": "151",
+      "id": "150",
       "label": "Tierna Davidson",
       "group": "USA",
       "team": "Gotham",
@@ -2728,8 +2710,8 @@ window.graphData = {
       "image": "img/TiernaDavidson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -2737,7 +2719,7 @@ window.graphData = {
       }
     },
     {
-      "id": "152",
+      "id": "151",
       "label": "Jess Carter",
       "group": "England",
       "team": "Gotham",
@@ -2746,8 +2728,8 @@ window.graphData = {
       "image": "img/JessCarter.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -2755,7 +2737,7 @@ window.graphData = {
       }
     },
     {
-      "id": "153",
+      "id": "152",
       "label": "Esther González",
       "group": "Spain",
       "team": "Gotham",
@@ -2764,8 +2746,8 @@ window.graphData = {
       "image": "img/EstherGonzalez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -2773,7 +2755,7 @@ window.graphData = {
       }
     },
     {
-      "id": "154",
+      "id": "153",
       "label": "Geyse Ferreira",
       "group": "Brazil",
       "team": "Gotham",
@@ -2782,8 +2764,8 @@ window.graphData = {
       "image": "img/GeyseFerreira.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -2791,7 +2773,7 @@ window.graphData = {
       }
     },
     {
-      "id": "155",
+      "id": "154",
       "label": "Rose Lavelle",
       "group": "USA",
       "team": "Gotham",
@@ -2800,8 +2782,8 @@ window.graphData = {
       "image": "img/RoseLavelle.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -2809,7 +2791,7 @@ window.graphData = {
       }
     },
     {
-      "id": "156",
+      "id": "155",
       "label": "Ornella Vignola",
       "group": "Spain",
       "team": "Granada",
@@ -2818,8 +2800,8 @@ window.graphData = {
       "image": "img/OrnellaVignola.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -2827,7 +2809,7 @@ window.graphData = {
       }
     },
     {
-      "id": "157",
+      "id": "156",
       "label": "Yamila Rodríguez",
       "group": "Argentina",
       "team": "Grêmio",
@@ -2836,8 +2818,8 @@ window.graphData = {
       "image": "img/YamilaRodriguez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -2845,7 +2827,7 @@ window.graphData = {
       }
     },
     {
-      "id": "158",
+      "id": "157",
       "label": "Erin McLeod",
       "group": "Canada",
       "team": "Halifax Tides",
@@ -2854,8 +2836,8 @@ window.graphData = {
       "image": "img/ErinMcleod.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -2863,7 +2845,7 @@ window.graphData = {
       }
     },
     {
-      "id": "159",
+      "id": "158",
       "label": "Gunnhildur Jonsdottir",
       "group": "Iceland",
       "team": "Halifax Tides",
@@ -2872,8 +2854,8 @@ window.graphData = {
       "image": "img/GunnhildurJonsdottir.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(188, 82.19193952025049%, 60.17905371973149%)",
-        "border": "hsl(188, 82.19193952025049%, 60.17905371973149%)"
+        "background": "hsl(88, 79.54201893563118%, 63.27451845785757%)",
+        "border": "hsl(88, 79.54201893563118%, 63.27451845785757%)"
       },
       "font": {
         "color": "#000",
@@ -2881,7 +2863,7 @@ window.graphData = {
       }
     },
     {
-      "id": "160",
+      "id": "159",
       "label": "Jobina Lahr",
       "group": "Germany",
       "team": "Hamburger",
@@ -2890,8 +2872,8 @@ window.graphData = {
       "image": "img/JobinaLahr.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -2899,7 +2881,7 @@ window.graphData = {
       }
     },
     {
-      "id": "161",
+      "id": "160",
       "label": "Athinna Persson Lundgren",
       "group": "Sweden",
       "team": "Hammarby",
@@ -2908,8 +2890,8 @@ window.graphData = {
       "image": "img/AthinnaPerssonLundgren.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -2917,7 +2899,7 @@ window.graphData = {
       }
     },
     {
-      "id": "162",
+      "id": "161",
       "label": "Paige Nielsen",
       "group": "USA",
       "team": "Houston Dash",
@@ -2926,8 +2908,8 @@ window.graphData = {
       "image": "img/PaigeNielsen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -2935,7 +2917,7 @@ window.graphData = {
       }
     },
     {
-      "id": "163",
+      "id": "162",
       "label": "Yazmeen Ryan",
       "group": "USA",
       "team": "Houston Dash",
@@ -2944,8 +2926,8 @@ window.graphData = {
       "image": "img/YazmeenRyan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -2953,7 +2935,7 @@ window.graphData = {
       }
     },
     {
-      "id": "164",
+      "id": "163",
       "label": "Delanie Sheehan",
       "group": "USA",
       "team": "Houston Dash",
@@ -2962,8 +2944,8 @@ window.graphData = {
       "image": "img/DelanieSheehan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -2971,7 +2953,7 @@ window.graphData = {
       }
     },
     {
-      "id": "165",
+      "id": "164",
       "label": "Jane Campbell-Nairn",
       "group": "USA",
       "team": "Houston Dash",
@@ -2980,8 +2962,8 @@ window.graphData = {
       "image": "img/JaneCampbellNairn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -2989,7 +2971,7 @@ window.graphData = {
       }
     },
     {
-      "id": "166",
+      "id": "165",
       "label": "Sarah Puntigam",
       "group": "Austria",
       "team": "Houston Dash",
@@ -2998,8 +2980,8 @@ window.graphData = {
       "image": "img/SarahPuntigam.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -3007,7 +2989,7 @@ window.graphData = {
       }
     },
     {
-      "id": "167",
+      "id": "166",
       "label": "Ramona Bachmann",
       "group": "Switzerland",
       "team": "Houston Dash",
@@ -3016,8 +2998,8 @@ window.graphData = {
       "image": "img/RamonaBachmann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -3025,7 +3007,7 @@ window.graphData = {
       }
     },
     {
-      "id": "168",
+      "id": "167",
       "label": "Christen Westphal",
       "group": "USA",
       "team": "Houston Dash",
@@ -3034,8 +3016,8 @@ window.graphData = {
       "image": "img/ChristenWestphal.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -3043,7 +3025,7 @@ window.graphData = {
       }
     },
     {
-      "id": "169",
+      "id": "168",
       "label": "Lisa Boattin",
       "group": "Italy",
       "team": "Houston Dash",
@@ -3052,8 +3034,8 @@ window.graphData = {
       "image": "img/LisaBoattin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -3061,7 +3043,7 @@ window.graphData = {
       }
     },
     {
-      "id": "170",
+      "id": "169",
       "label": "Nina Brüggemann",
       "group": "Germany",
       "team": "HSV",
@@ -3070,8 +3052,8 @@ window.graphData = {
       "image": "img/NinaBruggemann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -3079,7 +3061,7 @@ window.graphData = {
       }
     },
     {
-      "id": "171",
+      "id": "170",
       "label": "Inga Schuldt",
       "group": "Germany",
       "team": "HSV",
@@ -3088,8 +3070,8 @@ window.graphData = {
       "image": "img/IngaSchuldt.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -3097,7 +3079,7 @@ window.graphData = {
       }
     },
     {
-      "id": "172",
+      "id": "171",
       "label": "Lina Magull",
       "group": "Germany",
       "team": "Inter Milan",
@@ -3106,8 +3088,8 @@ window.graphData = {
       "image": "img/LinaMagull.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -3115,7 +3097,7 @@ window.graphData = {
       }
     },
     {
-      "id": "173",
+      "id": "172",
       "label": "Sabrina Wittmann",
       "group": "Germany",
       "team": "Manager",
@@ -3124,8 +3106,8 @@ window.graphData = {
       "image": "img/SabrinaWittmann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -3133,7 +3115,7 @@ window.graphData = {
       }
     },
     {
-      "id": "174",
+      "id": "173",
       "label": "Rachele Baldi",
       "group": "Italy",
       "team": "Inter Milan",
@@ -3142,8 +3124,8 @@ window.graphData = {
       "image": "img/RacheleBaldi.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -3151,7 +3133,7 @@ window.graphData = {
       }
     },
     {
-      "id": "175",
+      "id": "174",
       "label": "Beatrice Merlo",
       "group": "Italy",
       "team": "Inter Milan",
@@ -3160,8 +3142,8 @@ window.graphData = {
       "image": "img/BeatriceMerlo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -3169,7 +3151,7 @@ window.graphData = {
       }
     },
     {
-      "id": "176",
+      "id": "175",
       "label": "Ivana Andrés",
       "group": "Spain",
       "team": "Inter Milan",
@@ -3178,8 +3160,8 @@ window.graphData = {
       "image": "img/IvanaAndres.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -3187,7 +3169,7 @@ window.graphData = {
       }
     },
     {
-      "id": "177",
+      "id": "176",
       "label": "Olivia Schough",
       "group": "Sweden",
       "team": "Inter Milan",
@@ -3196,8 +3178,8 @@ window.graphData = {
       "image": "img/OliviaSchough.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -3205,7 +3187,7 @@ window.graphData = {
       }
     },
     {
-      "id": "178",
+      "id": "177",
       "label": "Bárbara",
       "group": "Brazil",
       "team": "Internacional",
@@ -3214,8 +3196,8 @@ window.graphData = {
       "image": "img/Barbara.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -3223,7 +3205,7 @@ window.graphData = {
       }
     },
     {
-      "id": "179",
+      "id": "178",
       "label": "Alisha Lehmann",
       "group": "Switzerland",
       "team": "Juventus",
@@ -3232,8 +3214,8 @@ window.graphData = {
       "image": "img/AlishaLehmann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -3241,7 +3223,7 @@ window.graphData = {
       }
     },
     {
-      "id": "180",
+      "id": "179",
       "label": "Emma Kullberg",
       "group": "Sweden",
       "team": "Juventus",
@@ -3250,8 +3232,8 @@ window.graphData = {
       "image": "img/EmmaKullberg.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -3259,7 +3241,7 @@ window.graphData = {
       }
     },
     {
-      "id": "181",
+      "id": "180",
       "label": "Martina Lenzini",
       "group": "Italy",
       "team": "Juventus",
@@ -3268,8 +3250,8 @@ window.graphData = {
       "image": "img/MartinaLenzini.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -3277,7 +3259,7 @@ window.graphData = {
       }
     },
     {
-      "id": "182",
+      "id": "181",
       "label": "Hanna Bennison",
       "group": "Sweden",
       "team": "Juventus",
@@ -3286,8 +3268,8 @@ window.graphData = {
       "image": "img/HannaBennison.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -3295,7 +3277,7 @@ window.graphData = {
       }
     },
     {
-      "id": "183",
+      "id": "182",
       "label": "Pauline Peyraud-Magnin",
       "group": "France",
       "team": "Juventus",
@@ -3304,8 +3286,8 @@ window.graphData = {
       "image": "img/PaulinePeyraudMagnin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -3313,7 +3295,7 @@ window.graphData = {
       }
     },
     {
-      "id": "184",
+      "id": "183",
       "label": "Arianna Caruso",
       "group": "Italy",
       "team": "Juventus",
@@ -3322,8 +3304,8 @@ window.graphData = {
       "image": "img/AriannaCaruso.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -3331,7 +3313,7 @@ window.graphData = {
       }
     },
     {
-      "id": "185",
+      "id": "184",
       "label": "Cristiana Girelli",
       "group": "Italy",
       "team": "Juventus",
@@ -3340,8 +3322,8 @@ window.graphData = {
       "image": "img/CristianaGirelli.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -3349,7 +3331,7 @@ window.graphData = {
       }
     },
     {
-      "id": "186",
+      "id": "185",
       "label": "Martina Rosucci",
       "group": "Italy",
       "team": "Juventus",
@@ -3358,8 +3340,8 @@ window.graphData = {
       "image": "img/MartinaRosucci.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -3367,7 +3349,7 @@ window.graphData = {
       }
     },
     {
-      "id": "187",
+      "id": "186",
       "label": "Viola Calligaris",
       "group": "Switzerland",
       "team": "Juventus",
@@ -3376,8 +3358,8 @@ window.graphData = {
       "image": "img/ViolaCalligaris.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -3385,7 +3367,7 @@ window.graphData = {
       }
     },
     {
-      "id": "188",
+      "id": "187",
       "label": "Sofia Cantore",
       "group": "Italy",
       "team": "Juventus",
@@ -3394,8 +3376,8 @@ window.graphData = {
       "image": "img/SofiaCantore.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -3403,7 +3385,7 @@ window.graphData = {
       }
     },
     {
-      "id": "189",
+      "id": "188",
       "label": "Gabriela Salgado",
       "group": "South Africa",
       "team": "JVW",
@@ -3412,8 +3394,8 @@ window.graphData = {
       "image": "img/GabrielaSalgado.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(351, 81.2582002093739%, 74.1191225027311%)",
-        "border": "hsl(351, 81.2582002093739%, 74.1191225027311%)"
+        "background": "hsl(174, 85.72165136580334%, 66.22718962445386%)",
+        "border": "hsl(174, 85.72165136580334%, 66.22718962445386%)"
       },
       "font": {
         "color": "#000",
@@ -3421,7 +3403,7 @@ window.graphData = {
       }
     },
     {
-      "id": "190",
+      "id": "189",
       "label": "Robyn Moodaly",
       "group": "South Africa",
       "team": "JVW",
@@ -3430,8 +3412,8 @@ window.graphData = {
       "image": "img/RobynMoodaly.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(351, 81.2582002093739%, 74.1191225027311%)",
-        "border": "hsl(351, 81.2582002093739%, 74.1191225027311%)"
+        "background": "hsl(174, 85.72165136580334%, 66.22718962445386%)",
+        "border": "hsl(174, 85.72165136580334%, 66.22718962445386%)"
       },
       "font": {
         "color": "#000",
@@ -3439,7 +3421,7 @@ window.graphData = {
       }
     },
     {
-      "id": "191",
+      "id": "190",
       "label": "Kaylin Swart",
       "group": "South Africa",
       "team": "JWS",
@@ -3448,8 +3430,8 @@ window.graphData = {
       "image": "img/KaylinSwart.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(351, 81.2582002093739%, 74.1191225027311%)",
-        "border": "hsl(351, 81.2582002093739%, 74.1191225027311%)"
+        "background": "hsl(174, 85.72165136580334%, 66.22718962445386%)",
+        "border": "hsl(174, 85.72165136580334%, 66.22718962445386%)"
       },
       "font": {
         "color": "#000",
@@ -3457,7 +3439,7 @@ window.graphData = {
       }
     },
     {
-      "id": "192",
+      "id": "191",
       "label": "Elizabeth Ball",
       "group": "USA",
       "team": "Kansas City Current",
@@ -3466,8 +3448,8 @@ window.graphData = {
       "image": "img/ElizabethBall.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -3475,7 +3457,7 @@ window.graphData = {
       }
     },
     {
-      "id": "193",
+      "id": "192",
       "label": "Kristen Hamilton",
       "group": "USA",
       "team": "Kansas City Current",
@@ -3484,8 +3466,8 @@ window.graphData = {
       "image": "img/KristenHamilton.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -3493,7 +3475,7 @@ window.graphData = {
       }
     },
     {
-      "id": "194",
+      "id": "193",
       "label": "Mallory Weber",
       "group": "USA",
       "team": "Kansas City Current",
@@ -3502,8 +3484,8 @@ window.graphData = {
       "image": "img/MalloryWeber.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -3511,7 +3493,7 @@ window.graphData = {
       }
     },
     {
-      "id": "195",
+      "id": "194",
       "label": "Michelle Cooper",
       "group": "USA",
       "team": "Kansas City Current",
@@ -3520,8 +3502,8 @@ window.graphData = {
       "image": "img/MichelleCooper.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -3529,7 +3511,7 @@ window.graphData = {
       }
     },
     {
-      "id": "196",
+      "id": "195",
       "label": "Debinha",
       "group": "Brazil",
       "team": "Kansas City Current",
@@ -3538,8 +3520,8 @@ window.graphData = {
       "image": "img/Debinha.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -3547,7 +3529,7 @@ window.graphData = {
       }
     },
     {
-      "id": "197",
+      "id": "196",
       "label": "Selina Häfele",
       "group": "Germany",
       "team": "Karlsruher",
@@ -3556,8 +3538,8 @@ window.graphData = {
       "image": "img/SelinaHafele.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -3565,7 +3547,7 @@ window.graphData = {
       }
     },
     {
-      "id": "198",
+      "id": "197",
       "label": "Laura Feiersinger",
       "group": "Austria",
       "team": "Köln",
@@ -3574,8 +3556,8 @@ window.graphData = {
       "image": "img/LauraFeiersinger.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -3583,7 +3565,7 @@ window.graphData = {
       }
     },
     {
-      "id": "199",
+      "id": "198",
       "label": "Anna-Lena Stolze",
       "group": "Germany",
       "team": "Köln",
@@ -3592,8 +3574,8 @@ window.graphData = {
       "image": "img/AnnaLenaStolze.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -3601,7 +3583,7 @@ window.graphData = {
       }
     },
     {
-      "id": "200",
+      "id": "199",
       "label": "Taylor Ziemer",
       "group": "USA",
       "team": "Köln",
@@ -3610,8 +3592,8 @@ window.graphData = {
       "image": "img/TaylorZiemer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -3619,7 +3601,7 @@ window.graphData = {
       }
     },
     {
-      "id": "201",
+      "id": "200",
       "label": "Martina Piemonte",
       "group": "Italy",
       "team": "Lazio",
@@ -3628,8 +3610,8 @@ window.graphData = {
       "image": "img/MartinaPiemonte.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -3637,7 +3619,7 @@ window.graphData = {
       }
     },
     {
-      "id": "202",
+      "id": "201",
       "label": "Megan Connolly",
       "group": "Ireland",
       "team": "Lazio",
@@ -3646,8 +3628,8 @@ window.graphData = {
       "image": "img/MeganConnolly.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -3655,7 +3637,7 @@ window.graphData = {
       }
     },
     {
-      "id": "203",
+      "id": "202",
       "label": "Courtney Nevin",
       "group": "Australia",
       "team": "Leicester City",
@@ -3664,8 +3646,8 @@ window.graphData = {
       "image": "img/CourtneyNevin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -3673,7 +3655,7 @@ window.graphData = {
       }
     },
     {
-      "id": "204",
+      "id": "203",
       "label": "Abbie McManus",
       "group": "England",
       "team": "Leicester City",
@@ -3682,8 +3664,8 @@ window.graphData = {
       "image": "img/AbbieMcmanus.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -3691,7 +3673,7 @@ window.graphData = {
       }
     },
     {
-      "id": "205",
+      "id": "204",
       "label": "Janice Cayman",
       "group": "Germany",
       "team": "Leicester City",
@@ -3700,8 +3682,8 @@ window.graphData = {
       "image": "img/JaniceCayman.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -3709,7 +3691,7 @@ window.graphData = {
       }
     },
     {
-      "id": "206",
+      "id": "205",
       "label": "Taylor Nicole Smith",
       "group": "USA",
       "team": "León",
@@ -3718,8 +3700,8 @@ window.graphData = {
       "image": "img/TaylorNicoleSmith.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -3727,7 +3709,7 @@ window.graphData = {
       }
     },
     {
-      "id": "207",
+      "id": "206",
       "label": "Fernanda Pinilla",
       "group": "Chile",
       "team": "León",
@@ -3736,8 +3718,8 @@ window.graphData = {
       "image": "img/FernandaPinilla.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(326, 79.15302130744331%, 60.9810350303418%)",
-        "border": "hsl(326, 79.15302130744331%, 60.9810350303418%)"
+        "background": "hsl(101, 79.42833006513955%, 64.70760651332132%)",
+        "border": "hsl(101, 79.42833006513955%, 64.70760651332132%)"
       },
       "font": {
         "color": "#000",
@@ -3745,7 +3727,7 @@ window.graphData = {
       }
     },
     {
-      "id": "208",
+      "id": "207",
       "label": "Estefania Banini",
       "group": "Argentina",
       "team": "Levante Badalona",
@@ -3754,8 +3736,8 @@ window.graphData = {
       "image": "img/EstefaniaBanini.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -3763,7 +3745,7 @@ window.graphData = {
       }
     },
     {
-      "id": "209",
+      "id": "208",
       "label": "Macarena Portales",
       "group": "Spain",
       "team": "Levante Badalona",
@@ -3772,8 +3754,8 @@ window.graphData = {
       "image": "img/MacarenaPortales.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -3781,7 +3763,7 @@ window.graphData = {
       }
     },
     {
-      "id": "210",
+      "id": "209",
       "label": "Emma Lennartsson",
       "group": "Sweden",
       "team": "Linköpings",
@@ -3790,8 +3772,8 @@ window.graphData = {
       "image": "img/EmmaLennartsson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -3799,7 +3781,7 @@ window.graphData = {
       }
     },
     {
-      "id": "211",
+      "id": "210",
       "label": "Marie Höbinger",
       "group": "Austria",
       "team": "Liverpool",
@@ -3808,8 +3790,8 @@ window.graphData = {
       "image": "img/MarieHobinger.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -3817,7 +3799,7 @@ window.graphData = {
       }
     },
     {
-      "id": "212",
+      "id": "211",
       "label": "Yana Daniels",
       "group": "Belgium",
       "team": "Liverpool",
@@ -3826,8 +3808,8 @@ window.graphData = {
       "image": "img/YanaDaniels.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(152, 81.97536712502873%, 72.79936406399744%)",
-        "border": "hsl(152, 81.97536712502873%, 72.79936406399744%)"
+        "background": "hsl(259, 77.84493139630393%, 71.78708210889593%)",
+        "border": "hsl(259, 77.84493139630393%, 71.78708210889593%)"
       },
       "font": {
         "color": "#000",
@@ -3835,7 +3817,7 @@ window.graphData = {
       }
     },
     {
-      "id": "213",
+      "id": "212",
       "label": "Jasmine Matthews",
       "group": "England",
       "team": "Liverpool",
@@ -3844,8 +3826,8 @@ window.graphData = {
       "image": "img/JasmineMatthews.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -3853,7 +3835,7 @@ window.graphData = {
       }
     },
     {
-      "id": "214",
+      "id": "213",
       "label": "Rachael Laws",
       "group": "England",
       "team": "Liverpool",
@@ -3862,8 +3844,8 @@ window.graphData = {
       "image": "img/RachaelLaws.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -3871,7 +3853,7 @@ window.graphData = {
       }
     },
     {
-      "id": "215",
+      "id": "214",
       "label": "Leanne Kiernan",
       "group": "Ireland",
       "team": "Liverpool",
@@ -3880,8 +3862,8 @@ window.graphData = {
       "image": "img/LeanneKiernan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -3889,7 +3871,7 @@ window.graphData = {
       }
     },
     {
-      "id": "216",
+      "id": "215",
       "label": "Grace Fisk",
       "group": "England",
       "team": "Liverpool",
@@ -3898,8 +3880,8 @@ window.graphData = {
       "image": "img/GraceFisk.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -3907,7 +3889,7 @@ window.graphData = {
       }
     },
     {
-      "id": "217",
+      "id": "216",
       "label": "Renata Arango Silva",
       "group": "Colombia",
       "team": "Llaneros",
@@ -3916,8 +3898,8 @@ window.graphData = {
       "image": "img/RenataArangoSilva.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(343, 89.18532337782005%, 63.0777368685008%)",
-        "border": "hsl(343, 89.18532337782005%, 63.0777368685008%)"
+        "background": "hsl(95, 73.40485961344541%, 67.51100761960103%)",
+        "border": "hsl(95, 73.40485961344541%, 67.51100761960103%)"
       },
       "font": {
         "color": "#000",
@@ -3925,7 +3907,7 @@ window.graphData = {
       }
     },
     {
-      "id": "218",
+      "id": "217",
       "label": "Alanna Kennedy",
       "group": "Australia",
       "team": "London City Lionesses",
@@ -3934,8 +3916,8 @@ window.graphData = {
       "image": "img/AlannaKennedy.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -3943,7 +3925,7 @@ window.graphData = {
       }
     },
     {
-      "id": "219",
+      "id": "218",
       "label": "Jana Fernández",
       "group": "Spain",
       "team": "London City Lionesses",
@@ -3952,8 +3934,26 @@ window.graphData = {
       "image": "img/JanaFernandez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
+      },
+      "font": {
+        "color": "#000",
+        "size": 16
+      }
+    },
+    {
+      "id": "219",
+      "label": "Aggie Beever Jones",
+      "group": "England",
+      "team": "Chelsea",
+      "shape": "circularImage",
+      "value": 36,
+      "image": "img/AggieBeeverJones.jpg",
+      "brokenImage": "img/nonplayer.jpg",
+      "color": {
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -3970,8 +3970,8 @@ window.graphData = {
       "image": "img/TeyahGoldie.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -3988,8 +3988,8 @@ window.graphData = {
       "image": "img/GraceMoloney.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -4006,8 +4006,8 @@ window.graphData = {
       "image": "img/DanielleVanDeDonk.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -4024,8 +4024,8 @@ window.graphData = {
       "image": "img/EleneLete.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -4042,8 +4042,8 @@ window.graphData = {
       "image": "img/TianeEndler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(326, 79.15302130744331%, 60.9810350303418%)",
-        "border": "hsl(326, 79.15302130744331%, 60.9810350303418%)"
+        "background": "hsl(101, 79.42833006513955%, 64.70760651332132%)",
+        "border": "hsl(101, 79.42833006513955%, 64.70760651332132%)"
       },
       "font": {
         "color": "#000",
@@ -4060,8 +4060,8 @@ window.graphData = {
       "image": "img/SarahBouhaddi.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -4078,8 +4078,8 @@ window.graphData = {
       "image": "img/DzseniferMarozsan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -4096,8 +4096,8 @@ window.graphData = {
       "image": "img/SofieSvava.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(20, 79.7637884875772%, 72.09952128425289%)",
-        "border": "hsl(20, 79.7637884875772%, 72.09952128425289%)"
+        "background": "hsl(202, 81.72360215615326%, 66.20548088101292%)",
+        "border": "hsl(202, 81.72360215615326%, 66.20548088101292%)"
       },
       "font": {
         "color": "#000",
@@ -4114,8 +4114,8 @@ window.graphData = {
       "image": "img/FlorBonsegundo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -4132,8 +4132,8 @@ window.graphData = {
       "image": "img/AllegraPoljak.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(266, 74.54188036925378%, 68.21441360407033%)",
-        "border": "hsl(266, 74.54188036925378%, 68.21441360407033%)"
+        "background": "hsl(59, 83.85489965946473%, 64.1005162071127%)",
+        "border": "hsl(59, 83.85489965946473%, 64.1005162071127%)"
       },
       "font": {
         "color": "#000",
@@ -4150,8 +4150,8 @@ window.graphData = {
       "image": "img/VivianneMiedema.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -4168,8 +4168,8 @@ window.graphData = {
       "image": "img/MaryFowler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -4186,8 +4186,8 @@ window.graphData = {
       "image": "img/LaurenHemp.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4204,8 +4204,8 @@ window.graphData = {
       "image": "img/YuiHasegawa.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(169, 72.4280825778663%, 64.72951987700624%)",
-        "border": "hsl(169, 72.4280825778663%, 64.72951987700624%)"
+        "background": "hsl(319, 88.96319732980774%, 64.85647426804533%)",
+        "border": "hsl(319, 88.96319732980774%, 64.85647426804533%)"
       },
       "font": {
         "color": "#000",
@@ -4222,8 +4222,8 @@ window.graphData = {
       "image": "img/LeilaOuahabi.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -4240,8 +4240,8 @@ window.graphData = {
       "image": "img/KerstinCasparij.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -4258,8 +4258,8 @@ window.graphData = {
       "image": "img/MelvinMalard.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -4276,8 +4276,8 @@ window.graphData = {
       "image": "img/LeahGaulton.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4294,8 +4294,8 @@ window.graphData = {
       "image": "img/MillieTurner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4312,8 +4312,8 @@ window.graphData = {
       "image": "img/LisaNaalsund.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -4330,8 +4330,8 @@ window.graphData = {
       "image": "img/GraceClinton.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4348,8 +4348,8 @@ window.graphData = {
       "image": "img/JessPark.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4366,8 +4366,8 @@ window.graphData = {
       "image": "img/AlexBorowicz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -4384,8 +4384,8 @@ window.graphData = {
       "image": "img/DanielleTurner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4402,8 +4402,8 @@ window.graphData = {
       "image": "img/TylaJayVlajnic.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(266, 74.54188036925378%, 68.21441360407033%)",
-        "border": "hsl(266, 74.54188036925378%, 68.21441360407033%)"
+        "background": "hsl(59, 83.85489965946473%, 64.1005162071127%)",
+        "border": "hsl(59, 83.85489965946473%, 64.1005162071127%)"
       },
       "font": {
         "color": "#000",
@@ -4420,8 +4420,8 @@ window.graphData = {
       "image": "img/EmilyGielnik.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -4438,8 +4438,8 @@ window.graphData = {
       "image": "img/AlexChidiac.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -4456,8 +4456,8 @@ window.graphData = {
       "image": "img/LydiaWilliams.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -4474,8 +4474,8 @@ window.graphData = {
       "image": "img/GloriaMarinelli.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -4492,8 +4492,8 @@ window.graphData = {
       "image": "img/ChristinaBurkenroad.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(55, 87.4217872550004%, 71.83107767348156%)",
-        "border": "hsl(55, 87.4217872550004%, 71.83107767348156%)"
+        "background": "hsl(226, 80.02514613902152%, 70.30058483726769%)",
+        "border": "hsl(226, 80.02514613902152%, 70.30058483726769%)"
       },
       "font": {
         "color": "#000",
@@ -4510,8 +4510,8 @@ window.graphData = {
       "image": "img/MarieLevasseur.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -4528,8 +4528,8 @@ window.graphData = {
       "image": "img/DanielaMontoyaQuiroz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(343, 89.18532337782005%, 63.0777368685008%)",
-        "border": "hsl(343, 89.18532337782005%, 63.0777368685008%)"
+        "background": "hsl(95, 73.40485961344541%, 67.51100761960103%)",
+        "border": "hsl(95, 73.40485961344541%, 67.51100761960103%)"
       },
       "font": {
         "color": "#000",
@@ -4546,8 +4546,8 @@ window.graphData = {
       "image": "img/StephanieBreitner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -4564,8 +4564,8 @@ window.graphData = {
       "image": "img/VirginiaDiGiammarino.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -4582,8 +4582,8 @@ window.graphData = {
       "image": "img/JordanNobbs.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4600,8 +4600,8 @@ window.graphData = {
       "image": "img/DemiStokes.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4618,8 +4618,8 @@ window.graphData = {
       "image": "img/LiaCataldo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4636,8 +4636,8 @@ window.graphData = {
       "image": "img/AldanaNarvaez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -4654,8 +4654,8 @@ window.graphData = {
       "image": "img/JustineJbr.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -4672,8 +4672,8 @@ window.graphData = {
       "image": "img/AnnaReuter.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -4690,8 +4690,8 @@ window.graphData = {
       "image": "img/DawnGordon.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4708,8 +4708,8 @@ window.graphData = {
       "image": "img/SarahWalsh.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -4726,8 +4726,8 @@ window.graphData = {
       "image": "img/MyleAJoven.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(343, 89.18532337782005%, 63.0777368685008%)",
-        "border": "hsl(343, 89.18532337782005%, 63.0777368685008%)"
+        "background": "hsl(95, 73.40485961344541%, 67.51100761960103%)",
+        "border": "hsl(95, 73.40485961344541%, 67.51100761960103%)"
       },
       "font": {
         "color": "#000",
@@ -4744,8 +4744,8 @@ window.graphData = {
       "image": "img/LauraKersting.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(192, 79.93220105242492%, 65.66126452294827%)",
-        "border": "hsl(192, 79.93220105242492%, 65.66126452294827%)"
+        "background": "hsl(306, 84.93202269604092%, 60.91819955877194%)",
+        "border": "hsl(306, 84.93202269604092%, 60.91819955877194%)"
       },
       "font": {
         "color": "#000",
@@ -4762,8 +4762,8 @@ window.graphData = {
       "image": "img/EmilyCurrey.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4780,8 +4780,8 @@ window.graphData = {
       "image": "img/Nele.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -4798,8 +4798,8 @@ window.graphData = {
       "image": "img/CharleyClifford.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4816,8 +4816,8 @@ window.graphData = {
       "image": "img/TerezaBendova.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(70, 86.99455289196376%, 74.56880998502534%)",
-        "border": "hsl(70, 86.99455289196376%, 74.56880998502534%)"
+        "background": "hsl(226, 70.84535027919267%, 62.23008611315121%)",
+        "border": "hsl(226, 70.84535027919267%, 62.23008611315121%)"
       },
       "font": {
         "color": "#000",
@@ -4834,8 +4834,8 @@ window.graphData = {
       "image": "img/LeiaDaley.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4852,8 +4852,8 @@ window.graphData = {
       "image": "img/KitMyck.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4870,8 +4870,8 @@ window.graphData = {
       "image": "img/CristinaKleine.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -4888,8 +4888,8 @@ window.graphData = {
       "image": "img/AnnieAbbishaw.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4906,8 +4906,8 @@ window.graphData = {
       "image": "img/Violetta.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -4924,8 +4924,8 @@ window.graphData = {
       "image": "img/ElleSmith.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -4942,8 +4942,8 @@ window.graphData = {
       "image": "img/RuthBrown.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -4960,8 +4960,8 @@ window.graphData = {
       "image": "img/MarianAbujaldon.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -4978,8 +4978,8 @@ window.graphData = {
       "image": "img/MarinaDiez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -4996,8 +4996,8 @@ window.graphData = {
       "image": "img/PiaBreuer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -5014,8 +5014,8 @@ window.graphData = {
       "image": "img/BrunaGois.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -5032,8 +5032,8 @@ window.graphData = {
       "image": "img/ThaynaEgles.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -5050,8 +5050,8 @@ window.graphData = {
       "image": "img/GeralMatallana.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(343, 89.18532337782005%, 63.0777368685008%)",
-        "border": "hsl(343, 89.18532337782005%, 63.0777368685008%)"
+        "background": "hsl(95, 73.40485961344541%, 67.51100761960103%)",
+        "border": "hsl(95, 73.40485961344541%, 67.51100761960103%)"
       },
       "font": {
         "color": "#000",
@@ -5068,8 +5068,8 @@ window.graphData = {
       "image": "img/MetteTronier.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(20, 79.7637884875772%, 72.09952128425289%)",
-        "border": "hsl(20, 79.7637884875772%, 72.09952128425289%)"
+        "background": "hsl(202, 81.72360215615326%, 66.20548088101292%)",
+        "border": "hsl(202, 81.72360215615326%, 66.20548088101292%)"
       },
       "font": {
         "color": "#000",
@@ -5086,8 +5086,8 @@ window.graphData = {
       "image": "img/JessGlynne.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -5104,8 +5104,8 @@ window.graphData = {
       "image": "img/EricaCleary.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -5122,8 +5122,8 @@ window.graphData = {
       "image": "img/CamilleNell.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -5140,8 +5140,8 @@ window.graphData = {
       "image": "img/FleurJaffrelot.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -5158,8 +5158,8 @@ window.graphData = {
       "image": "img/MiaJalkerud.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(188, 82.19193952025049%, 60.17905371973149%)",
-        "border": "hsl(188, 82.19193952025049%, 60.17905371973149%)"
+        "background": "hsl(88, 79.54201893563118%, 63.27451845785757%)",
+        "border": "hsl(88, 79.54201893563118%, 63.27451845785757%)"
       },
       "font": {
         "color": "#000",
@@ -5176,8 +5176,8 @@ window.graphData = {
       "image": "img/AbongileDlani.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5194,8 +5194,8 @@ window.graphData = {
       "image": "img/AflwPlayer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5212,8 +5212,8 @@ window.graphData = {
       "image": "img/AlbaPutellas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5230,8 +5230,8 @@ window.graphData = {
       "image": "img/AlexandraLiliasRegehr.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5248,8 +5248,8 @@ window.graphData = {
       "image": "img/AlisonJahansouz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5266,8 +5266,8 @@ window.graphData = {
       "image": "img/AllisonScurichSWife.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5284,8 +5284,8 @@ window.graphData = {
       "image": "img/AlyssaDelsanter.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5302,8 +5302,8 @@ window.graphData = {
       "image": "img/AmberRoseGill.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5320,8 +5320,8 @@ window.graphData = {
       "image": "img/AmbraCapotosto.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5338,8 +5338,8 @@ window.graphData = {
       "image": "img/AnaGarcia.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5356,8 +5356,8 @@ window.graphData = {
       "image": "img/AnabelMorenoBarragan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5374,8 +5374,8 @@ window.graphData = {
       "image": "img/Anastasia.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5392,8 +5392,8 @@ window.graphData = {
       "image": "img/AnastasiaBucsis.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5410,8 +5410,8 @@ window.graphData = {
       "image": "img/AndreaArce.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5428,8 +5428,8 @@ window.graphData = {
       "image": "img/AnnaMarkhus.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5446,8 +5446,8 @@ window.graphData = {
       "image": "img/Annika.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5464,8 +5464,8 @@ window.graphData = {
       "image": "img/BereTeysseire.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5482,8 +5482,8 @@ window.graphData = {
       "image": "img/BethFisher.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5500,8 +5500,8 @@ window.graphData = {
       "image": "img/BillieAnn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5518,8 +5518,8 @@ window.graphData = {
       "image": "img/BriMartinez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5536,8 +5536,8 @@ window.graphData = {
       "image": "img/BriannaMcfarlane.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5554,8 +5554,8 @@ window.graphData = {
       "image": "img/CarlaPuig.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5572,8 +5572,8 @@ window.graphData = {
       "image": "img/CarlyDavies.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5590,8 +5590,8 @@ window.graphData = {
       "image": "img/CarolinaCarrenoN.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5608,8 +5608,8 @@ window.graphData = {
       "image": "img/CharlotteBaret.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5626,8 +5626,8 @@ window.graphData = {
       "image": "img/ChelseaTaylor.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5644,8 +5644,8 @@ window.graphData = {
       "image": "img/ChristinePorsmyrOlsen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5662,8 +5662,8 @@ window.graphData = {
       "image": "img/ClaudiaHofling.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5680,8 +5680,8 @@ window.graphData = {
       "image": "img/CristinaMonleon.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5698,8 +5698,8 @@ window.graphData = {
       "image": "img/CristinaVicenteCoscolin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5716,8 +5716,8 @@ window.graphData = {
       "image": "img/CrystalEmmanuel.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5734,8 +5734,8 @@ window.graphData = {
       "image": "img/DeannaDobosz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5752,8 +5752,8 @@ window.graphData = {
       "image": "img/DominiqueNicole.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5770,8 +5770,8 @@ window.graphData = {
       "image": "img/DonnaHubley.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5788,8 +5788,8 @@ window.graphData = {
       "image": "img/ElyseNayler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5806,8 +5806,8 @@ window.graphData = {
       "image": "img/EmiliaEx.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5824,8 +5824,8 @@ window.graphData = {
       "image": "img/EmilyBoscacci.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5842,8 +5842,8 @@ window.graphData = {
       "image": "img/EmilyCollins.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5860,8 +5860,8 @@ window.graphData = {
       "image": "img/EmilySouthwell.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5878,8 +5878,8 @@ window.graphData = {
       "image": "img/EmmaHayes.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5896,8 +5896,8 @@ window.graphData = {
       "image": "img/EmmaLewis.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5914,8 +5914,8 @@ window.graphData = {
       "image": "img/EmmaZielke.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5932,8 +5932,8 @@ window.graphData = {
       "image": "img/EilishOg.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5950,8 +5950,8 @@ window.graphData = {
       "image": "img/ErinClout.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5968,8 +5968,8 @@ window.graphData = {
       "image": "img/EstefanyPita.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -5986,8 +5986,8 @@ window.graphData = {
       "image": "img/FedericaFrew.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6004,8 +6004,8 @@ window.graphData = {
       "image": "img/FedericaRomagnoli.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6022,8 +6022,8 @@ window.graphData = {
       "image": "img/GabiFernandes.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6040,8 +6040,8 @@ window.graphData = {
       "image": "img/GabySpesny.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6058,8 +6058,8 @@ window.graphData = {
       "image": "img/GeekeHuybrechts.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6076,8 +6076,8 @@ window.graphData = {
       "image": "img/GenevieveTurgeon.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6094,8 +6094,8 @@ window.graphData = {
       "image": "img/GeorgiaElwiss.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6112,8 +6112,8 @@ window.graphData = {
       "image": "img/GeorgiaSimmerling.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6130,8 +6130,8 @@ window.graphData = {
       "image": "img/GlennonDoyle.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6148,8 +6148,8 @@ window.graphData = {
       "image": "img/GraceCarter.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6166,8 +6166,8 @@ window.graphData = {
       "image": "img/GraceGill.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6184,8 +6184,8 @@ window.graphData = {
       "image": "img/GraceLazcanoArmstrong.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6202,8 +6202,8 @@ window.graphData = {
       "image": "img/HannahBjRneboeHolgersen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6220,8 +6220,8 @@ window.graphData = {
       "image": "img/HollyLamMoores.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6238,8 +6238,8 @@ window.graphData = {
       "image": "img/IlidianeSantos.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6256,8 +6256,8 @@ window.graphData = {
       "image": "img/JaNin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6274,8 +6274,8 @@ window.graphData = {
       "image": "img/JaneHauert.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6292,8 +6292,8 @@ window.graphData = {
       "image": "img/JanineSchneider.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6310,8 +6310,8 @@ window.graphData = {
       "image": "img/JanineSturhann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6328,8 +6328,8 @@ window.graphData = {
       "image": "img/JenSinkler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6346,8 +6346,8 @@ window.graphData = {
       "image": "img/JessicaDahlkvist.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6364,8 +6364,8 @@ window.graphData = {
       "image": "img/JodiBanks.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6382,8 +6382,8 @@ window.graphData = {
       "image": "img/JohannaRohr.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6400,8 +6400,8 @@ window.graphData = {
       "image": "img/JolienVanDerTuin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6418,8 +6418,8 @@ window.graphData = {
       "image": "img/JoyceDereus.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6436,8 +6436,8 @@ window.graphData = {
       "image": "img/KamerynStanhouse.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6454,8 +6454,8 @@ window.graphData = {
       "image": "img/KatThompson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6472,8 +6472,8 @@ window.graphData = {
       "image": "img/KateMiddleton.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6490,8 +6490,8 @@ window.graphData = {
       "image": "img/KatharinaBendix.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6508,8 +6508,8 @@ window.graphData = {
       "image": "img/KatieHarrington.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6526,8 +6526,8 @@ window.graphData = {
       "image": "img/KatieIsabelleMartin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6544,8 +6544,8 @@ window.graphData = {
       "image": "img/KatrijnFauconnier.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6562,8 +6562,8 @@ window.graphData = {
       "image": "img/KellyAnne.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6580,8 +6580,8 @@ window.graphData = {
       "image": "img/KierraKrawec.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6598,8 +6598,8 @@ window.graphData = {
       "image": "img/KimberlySimmler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6616,8 +6616,8 @@ window.graphData = {
       "image": "img/KristineRNnesethJensen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6634,8 +6634,8 @@ window.graphData = {
       "image": "img/LaraVadlau.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6652,8 +6652,8 @@ window.graphData = {
       "image": "img/LauraStaniforthWilson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6670,8 +6670,8 @@ window.graphData = {
       "image": "img/LauraWienecke.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6688,8 +6688,8 @@ window.graphData = {
       "image": "img/LaurenEllisYoung.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6706,8 +6706,8 @@ window.graphData = {
       "image": "img/LaurenTaft.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6724,8 +6724,8 @@ window.graphData = {
       "image": "img/LeahJones.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6742,8 +6742,8 @@ window.graphData = {
       "image": "img/LenaMantler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6760,8 +6760,8 @@ window.graphData = {
       "image": "img/LeviChambersCook.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6778,8 +6778,8 @@ window.graphData = {
       "image": "img/Lily.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6796,8 +6796,8 @@ window.graphData = {
       "image": "img/LisaAitken.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6814,8 +6814,8 @@ window.graphData = {
       "image": "img/LizSlattery.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6832,8 +6832,8 @@ window.graphData = {
       "image": "img/LouSchaaf.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6850,8 +6850,8 @@ window.graphData = {
       "image": "img/LuciaYbarra.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6868,8 +6868,8 @@ window.graphData = {
       "image": "img/MackenziePotts.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6886,8 +6886,8 @@ window.graphData = {
       "image": "img/MaddieGarrick.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6904,8 +6904,8 @@ window.graphData = {
       "image": "img/MadeleineH.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6922,8 +6922,8 @@ window.graphData = {
       "image": "img/MajaTotovic.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6940,8 +6940,8 @@ window.graphData = {
       "image": "img/MandyTisler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6958,8 +6958,8 @@ window.graphData = {
       "image": "img/MaraBrz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6976,8 +6976,8 @@ window.graphData = {
       "image": "img/MariahMichaelaFisher.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -6994,8 +6994,8 @@ window.graphData = {
       "image": "img/MarieLou.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7012,8 +7012,8 @@ window.graphData = {
       "image": "img/MaritzaGomez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7030,8 +7030,8 @@ window.graphData = {
       "image": "img/MaryzeBorst.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7048,8 +7048,8 @@ window.graphData = {
       "image": "img/MeganBrakes.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7066,8 +7066,8 @@ window.graphData = {
       "image": "img/MichelleSDerstrM.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7084,8 +7084,8 @@ window.graphData = {
       "image": "img/MikaelaJacobson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7102,8 +7102,8 @@ window.graphData = {
       "image": "img/MirtheLansink.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7120,8 +7120,8 @@ window.graphData = {
       "image": "img/MonaLohmann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7138,8 +7138,8 @@ window.graphData = {
       "image": "img/OceaneInconnu.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7156,8 +7156,8 @@ window.graphData = {
       "image": "img/NataliaBCastro.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7174,8 +7174,8 @@ window.graphData = {
       "image": "img/NayarithRodriguez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7192,8 +7192,8 @@ window.graphData = {
       "image": "img/NeOrono.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7210,8 +7210,8 @@ window.graphData = {
       "image": "img/OlgaRios.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7228,8 +7228,8 @@ window.graphData = {
       "image": "img/PatriciaVanLaar.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7246,8 +7246,8 @@ window.graphData = {
       "image": "img/RachelNeary.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7264,8 +7264,8 @@ window.graphData = {
       "image": "img/RachelRapinoe.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7282,8 +7282,8 @@ window.graphData = {
       "image": "img/RamonaT.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7300,8 +7300,8 @@ window.graphData = {
       "image": "img/RebeccaSchelin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7318,8 +7318,8 @@ window.graphData = {
       "image": "img/RocioSaucedo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7336,8 +7336,8 @@ window.graphData = {
       "image": "img/RosieGalligan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7354,8 +7354,8 @@ window.graphData = {
       "image": "img/RumeMorley.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7372,8 +7372,8 @@ window.graphData = {
       "image": "img/SabineWillms.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7390,8 +7390,8 @@ window.graphData = {
       "image": "img/SadieClaireNiekerk.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7408,8 +7408,8 @@ window.graphData = {
       "image": "img/SanneKleijwegt.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7426,8 +7426,8 @@ window.graphData = {
       "image": "img/SarahHuffman.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7444,8 +7444,8 @@ window.graphData = {
       "image": "img/SariSPartner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7462,8 +7462,8 @@ window.graphData = {
       "image": "img/ShellyUnitt.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7480,8 +7480,8 @@ window.graphData = {
       "image": "img/SheridanDouglas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7498,8 +7498,8 @@ window.graphData = {
       "image": "img/SofiaOrozco.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7516,8 +7516,8 @@ window.graphData = {
       "image": "img/SophieCachia.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7534,8 +7534,8 @@ window.graphData = {
       "image": "img/SophiePieterson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7552,8 +7552,8 @@ window.graphData = {
       "image": "img/StephanieDocherty.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7570,8 +7570,8 @@ window.graphData = {
       "image": "img/StephanieWilliams.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7588,8 +7588,8 @@ window.graphData = {
       "image": "img/SueBird.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7606,8 +7606,8 @@ window.graphData = {
       "image": "img/TaieneCunha.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7624,8 +7624,8 @@ window.graphData = {
       "image": "img/TatjanaJempormiasse.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7642,8 +7642,8 @@ window.graphData = {
       "image": "img/TemicaSayer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7660,8 +7660,8 @@ window.graphData = {
       "image": "img/Valeria.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7678,8 +7678,8 @@ window.graphData = {
       "image": "img/VaninaCorrea.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7696,8 +7696,8 @@ window.graphData = {
       "image": "img/VeronicaRivero.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7714,8 +7714,8 @@ window.graphData = {
       "image": "img/Vesna.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7732,8 +7732,8 @@ window.graphData = {
       "image": "img/ViculinCulasso.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7750,8 +7750,8 @@ window.graphData = {
       "image": "img/YessicaGalloCastano.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(107, 73.75633225226667%, 71.93742642098762%)",
-        "border": "hsl(107, 73.75633225226667%, 71.93742642098762%)"
+        "background": "hsl(48, 77.10844335894706%, 62.75715948470685%)",
+        "border": "hsl(48, 77.10844335894706%, 62.75715948470685%)"
       },
       "font": {
         "color": "#000",
@@ -7768,8 +7768,8 @@ window.graphData = {
       "image": "img/JulieNilssen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -7786,8 +7786,8 @@ window.graphData = {
       "image": "img/ErinCaldwell.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -7804,8 +7804,8 @@ window.graphData = {
       "image": "img/EstefaniaCruz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -7822,8 +7822,8 @@ window.graphData = {
       "image": "img/CarlotaEncinas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -7840,8 +7840,8 @@ window.graphData = {
       "image": "img/RiyahKehlani.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -7858,8 +7858,8 @@ window.graphData = {
       "image": "img/MadelineDown.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -7876,8 +7876,8 @@ window.graphData = {
       "image": "img/CamillaKemp.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(284, 72.774010003779%, 70.37941279541602%)",
-        "border": "hsl(284, 72.774010003779%, 70.37941279541602%)"
+        "background": "hsl(203, 80.745796474345%, 72.0030066398268%)",
+        "border": "hsl(203, 80.745796474345%, 72.0030066398268%)"
       },
       "font": {
         "color": "#000",
@@ -7894,8 +7894,8 @@ window.graphData = {
       "image": "img/JenniferNielsen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -7912,8 +7912,8 @@ window.graphData = {
       "image": "img/SophiaBush.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -7930,8 +7930,8 @@ window.graphData = {
       "image": "img/EmilyShaw.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(192, 79.93220105242492%, 65.66126452294827%)",
-        "border": "hsl(192, 79.93220105242492%, 65.66126452294827%)"
+        "background": "hsl(306, 84.93202269604092%, 60.91819955877194%)",
+        "border": "hsl(306, 84.93202269604092%, 60.91819955877194%)"
       },
       "font": {
         "color": "#000",
@@ -7948,8 +7948,8 @@ window.graphData = {
       "image": "img/BelenSanmartin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -7966,8 +7966,8 @@ window.graphData = {
       "image": "img/CharlotteAdeleNeal.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -7984,8 +7984,8 @@ window.graphData = {
       "image": "img/PienSanders.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -8002,8 +8002,8 @@ window.graphData = {
       "image": "img/AnaCarolinaMoura.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -8020,8 +8020,8 @@ window.graphData = {
       "image": "img/GraceAkaGkbarry.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -8038,8 +8038,8 @@ window.graphData = {
       "image": "img/EllaRutherford.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -8056,8 +8056,8 @@ window.graphData = {
       "image": "img/EmmaParis.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -8074,8 +8074,8 @@ window.graphData = {
       "image": "img/FelicitasRauch.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -8092,8 +8092,8 @@ window.graphData = {
       "image": "img/MeredithSpeck.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -8110,8 +8110,8 @@ window.graphData = {
       "image": "img/CharlotteMclean.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -8128,8 +8128,8 @@ window.graphData = {
       "image": "img/CortneeVine.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -8146,8 +8146,8 @@ window.graphData = {
       "image": "img/AmyRodgers.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -8164,8 +8164,8 @@ window.graphData = {
       "image": "img/IngridEngen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -8182,8 +8182,8 @@ window.graphData = {
       "image": "img/TeaganMicah.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -8200,8 +8200,8 @@ window.graphData = {
       "image": "img/CarsonPickett.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -8218,8 +8218,8 @@ window.graphData = {
       "image": "img/KerryAbello.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -8236,8 +8236,8 @@ window.graphData = {
       "image": "img/SummerYates.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -8254,8 +8254,8 @@ window.graphData = {
       "image": "img/AnnaMoorhouse.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -8272,8 +8272,8 @@ window.graphData = {
       "image": "img/VivianaVillacorta.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -8290,8 +8290,8 @@ window.graphData = {
       "image": "img/Marta.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -8308,8 +8308,8 @@ window.graphData = {
       "image": "img/RafaelleSouza.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -8326,8 +8326,8 @@ window.graphData = {
       "image": "img/HailieMace.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -8344,8 +8344,8 @@ window.graphData = {
       "image": "img/DelaneyBaiePridham.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -8362,8 +8362,8 @@ window.graphData = {
       "image": "img/AndreaPereira.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -8380,8 +8380,8 @@ window.graphData = {
       "image": "img/FernandaPalermo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -8398,8 +8398,8 @@ window.graphData = {
       "image": "img/ZhannaFerrario.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(298, 89.82603930338625%, 65.64532092591048%)",
-        "border": "hsl(298, 89.82603930338625%, 65.64532092591048%)"
+        "background": "hsl(306, 84.82771079122992%, 61.63317826633289%)",
+        "border": "hsl(306, 84.82771079122992%, 61.63317826633289%)"
       },
       "font": {
         "color": "#000",
@@ -8416,8 +8416,8 @@ window.graphData = {
       "image": "img/NguyenThiTuyetDung.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(12, 79.58732621920716%, 66.00554367173906%)",
-        "border": "hsl(12, 79.58732621920716%, 66.00554367173906%)"
+        "background": "hsl(49, 84.2811049337994%, 61.367982464551666%)",
+        "border": "hsl(49, 84.2811049337994%, 61.367982464551666%)"
       },
       "font": {
         "color": "#000",
@@ -8434,8 +8434,8 @@ window.graphData = {
       "image": "img/DeynaCastellanos.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(127, 88.91652776409137%, 70.40608960238607%)",
-        "border": "hsl(127, 88.91652776409137%, 70.40608960238607%)"
+        "background": "hsl(169, 87.24885392190872%, 68.89877057427749%)",
+        "border": "hsl(169, 87.24885392190872%, 68.89877057427749%)"
       },
       "font": {
         "color": "#000",
@@ -8452,8 +8452,8 @@ window.graphData = {
       "image": "img/JessieFleming.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -8470,8 +8470,8 @@ window.graphData = {
       "image": "img/MeghanKlingenberg.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -8488,8 +8488,8 @@ window.graphData = {
       "image": "img/MackenzieArnold.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -8506,8 +8506,8 @@ window.graphData = {
       "image": "img/ReilynTurner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -8524,8 +8524,8 @@ window.graphData = {
       "image": "img/ElisaDeAlmeida.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -8542,8 +8542,8 @@ window.graphData = {
       "image": "img/OlgaCarmona.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -8560,8 +8560,8 @@ window.graphData = {
       "image": "img/KatarzynaKiedrzynek.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(357, 89.2773041911851%, 62.40355813401682%)",
-        "border": "hsl(357, 89.2773041911851%, 62.40355813401682%)"
+        "background": "hsl(149, 83.46670338883743%, 67.47498701635709%)",
+        "border": "hsl(149, 83.46670338883743%, 67.47498701635709%)"
       },
       "font": {
         "color": "#000",
@@ -8578,8 +8578,8 @@ window.graphData = {
       "image": "img/SiscaFolkertsma.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -8596,8 +8596,8 @@ window.graphData = {
       "image": "img/LauraStrik.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -8614,8 +8614,8 @@ window.graphData = {
       "image": "img/RochiBarletta.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -8632,8 +8632,8 @@ window.graphData = {
       "image": "img/NicolaDocherty.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -8650,8 +8650,8 @@ window.graphData = {
       "image": "img/MarielaCoronel.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -8668,8 +8668,8 @@ window.graphData = {
       "image": "img/ElviraHerzog.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -8686,8 +8686,8 @@ window.graphData = {
       "image": "img/CarlaArmengol.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -8704,8 +8704,8 @@ window.graphData = {
       "image": "img/FilippaAngeldahl.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -8722,8 +8722,8 @@ window.graphData = {
       "image": "img/AlbaRedondo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -8740,8 +8740,8 @@ window.graphData = {
       "image": "img/AntoniaSilva.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -8758,8 +8758,8 @@ window.graphData = {
       "image": "img/MaelleLakrar.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -8776,8 +8776,8 @@ window.graphData = {
       "image": "img/LindaCaicedo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(343, 89.18532337782005%, 63.0777368685008%)",
-        "border": "hsl(343, 89.18532337782005%, 63.0777368685008%)"
+        "background": "hsl(95, 73.40485961344541%, 67.51100761960103%)",
+        "border": "hsl(95, 73.40485961344541%, 67.51100761960103%)"
       },
       "font": {
         "color": "#000",
@@ -8794,8 +8794,8 @@ window.graphData = {
       "image": "img/SandieToletti.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -8812,8 +8812,8 @@ window.graphData = {
       "image": "img/MisaRodriguez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -8830,8 +8830,8 @@ window.graphData = {
       "image": "img/TeresaAbelleira.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -8848,8 +8848,8 @@ window.graphData = {
       "image": "img/NereaEizagirre.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -8866,8 +8866,8 @@ window.graphData = {
       "image": "img/MastrovincenzoGaia.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -8884,8 +8884,8 @@ window.graphData = {
       "image": "img/StefanieVanDerGragt.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -8902,8 +8902,8 @@ window.graphData = {
       "image": "img/ShirleyCruz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(87, 79.21581114700138%, 62.02319814739771%)",
-        "border": "hsl(87, 79.21581114700138%, 62.02319814739771%)"
+        "background": "hsl(220, 79.03192459768755%, 72.56795028937167%)",
+        "border": "hsl(220, 79.03192459768755%, 72.56795028937167%)"
       },
       "font": {
         "color": "#000",
@@ -8920,8 +8920,8 @@ window.graphData = {
       "image": "img/JustienOdeurs.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(152, 81.97536712502873%, 72.79936406399744%)",
-        "border": "hsl(152, 81.97536712502873%, 72.79936406399744%)"
+        "background": "hsl(259, 77.84493139630393%, 71.78708210889593%)",
+        "border": "hsl(259, 77.84493139630393%, 71.78708210889593%)"
       },
       "font": {
         "color": "#000",
@@ -8938,8 +8938,8 @@ window.graphData = {
       "image": "img/VerenaVolkmer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(192, 79.93220105242492%, 65.66126452294827%)",
-        "border": "hsl(192, 79.93220105242492%, 65.66126452294827%)"
+        "background": "hsl(306, 84.93202269604092%, 60.91819955877194%)",
+        "border": "hsl(306, 84.93202269604092%, 60.91819955877194%)"
       },
       "font": {
         "color": "#000",
@@ -8956,8 +8956,8 @@ window.graphData = {
       "image": "img/RemiAllen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -8974,8 +8974,8 @@ window.graphData = {
       "image": "img/RachelCorsie.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -8992,8 +8992,8 @@ window.graphData = {
       "image": "img/VanessaCastro.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(343, 89.18532337782005%, 63.0777368685008%)",
-        "border": "hsl(343, 89.18532337782005%, 63.0777368685008%)"
+        "background": "hsl(95, 73.40485961344541%, 67.51100761960103%)",
+        "border": "hsl(95, 73.40485961344541%, 67.51100761960103%)"
       },
       "font": {
         "color": "#000",
@@ -9010,8 +9010,8 @@ window.graphData = {
       "image": "img/VirginiaTorrecilla.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -9028,8 +9028,8 @@ window.graphData = {
       "image": "img/NicoleBanecki.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -9046,8 +9046,8 @@ window.graphData = {
       "image": "img/JosannePotter.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -9064,8 +9064,8 @@ window.graphData = {
       "image": "img/LouiseQuinn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -9082,8 +9082,8 @@ window.graphData = {
       "image": "img/AnoukDekker.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -9100,8 +9100,8 @@ window.graphData = {
       "image": "img/LarissaCrummer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -9118,8 +9118,8 @@ window.graphData = {
       "image": "img/AgataTarczynska.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(357, 89.2773041911851%, 62.40355813401682%)",
-        "border": "hsl(357, 89.2773041911851%, 62.40355813401682%)"
+        "background": "hsl(149, 83.46670338883743%, 67.47498701635709%)",
+        "border": "hsl(149, 83.46670338883743%, 67.47498701635709%)"
       },
       "font": {
         "color": "#000",
@@ -9136,8 +9136,8 @@ window.graphData = {
       "image": "img/VanessaBurki.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -9154,8 +9154,8 @@ window.graphData = {
       "image": "img/JuliaArnold.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -9172,8 +9172,8 @@ window.graphData = {
       "image": "img/JanellyFarias.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -9190,8 +9190,8 @@ window.graphData = {
       "image": "img/EliseBussaglia.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -9208,8 +9208,8 @@ window.graphData = {
       "image": "img/HedvigLindahl.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -9226,8 +9226,8 @@ window.graphData = {
       "image": "img/AmberHearn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -9244,8 +9244,8 @@ window.graphData = {
       "image": "img/FedericaRusso.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -9262,8 +9262,8 @@ window.graphData = {
       "image": "img/LisaMarieMakas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -9280,8 +9280,8 @@ window.graphData = {
       "image": "img/JuliaSpetsmark.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -9298,8 +9298,8 @@ window.graphData = {
       "image": "img/JuliaMolin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -9316,8 +9316,8 @@ window.graphData = {
       "image": "img/DeboraVinci.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -9334,8 +9334,8 @@ window.graphData = {
       "image": "img/EliseKellondKnight.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -9352,8 +9352,8 @@ window.graphData = {
       "image": "img/MarionGrobner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -9370,8 +9370,8 @@ window.graphData = {
       "image": "img/PernillaJohansson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -9388,8 +9388,8 @@ window.graphData = {
       "image": "img/AnjaSNstevold.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -9406,8 +9406,8 @@ window.graphData = {
       "image": "img/JanineVanWyk.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(351, 81.2582002093739%, 74.1191225027311%)",
-        "border": "hsl(351, 81.2582002093739%, 74.1191225027311%)"
+        "background": "hsl(174, 85.72165136580334%, 66.22718962445386%)",
+        "border": "hsl(174, 85.72165136580334%, 66.22718962445386%)"
       },
       "font": {
         "color": "#000",
@@ -9424,8 +9424,8 @@ window.graphData = {
       "image": "img/IriniIoannidou.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -9442,8 +9442,8 @@ window.graphData = {
       "image": "img/GenesseeDaughetee.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -9460,8 +9460,8 @@ window.graphData = {
       "image": "img/ClarePolkinghorn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -9478,8 +9478,8 @@ window.graphData = {
       "image": "img/EmmaChecker.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -9496,8 +9496,8 @@ window.graphData = {
       "image": "img/HannahWilkinson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -9514,8 +9514,8 @@ window.graphData = {
       "image": "img/StefanieWeichelt.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -9532,8 +9532,8 @@ window.graphData = {
       "image": "img/MaikenBakke.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -9550,8 +9550,8 @@ window.graphData = {
       "image": "img/MichelleBaumann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -9568,8 +9568,8 @@ window.graphData = {
       "image": "img/ErinNayler.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -9586,8 +9586,8 @@ window.graphData = {
       "image": "img/MerrittMathias.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -9604,8 +9604,8 @@ window.graphData = {
       "image": "img/TobinHeath.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -9622,8 +9622,8 @@ window.graphData = {
       "image": "img/CarrieLawrence.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -9640,8 +9640,8 @@ window.graphData = {
       "image": "img/ToniPressley.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -9658,8 +9658,8 @@ window.graphData = {
       "image": "img/ChristineSinclair.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -9676,8 +9676,8 @@ window.graphData = {
       "image": "img/KimOlafsson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(187, 87.74204693731181%, 62.50925356084348%)",
-        "border": "hsl(187, 87.74204693731181%, 62.50925356084348%)"
+        "background": "hsl(88, 78.82602892828392%, 71.90702590800814%)",
+        "border": "hsl(88, 78.82602892828392%, 71.90702590800814%)"
       },
       "font": {
         "color": "#000",
@@ -9694,8 +9694,8 @@ window.graphData = {
       "image": "img/NatashaDowie.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -9712,8 +9712,8 @@ window.graphData = {
       "image": "img/BabettPeter.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -9730,8 +9730,8 @@ window.graphData = {
       "image": "img/JenBeattie.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -9748,8 +9748,8 @@ window.graphData = {
       "image": "img/ElodieThomis.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -9766,8 +9766,8 @@ window.graphData = {
       "image": "img/ClaireSavin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -9784,8 +9784,8 @@ window.graphData = {
       "image": "img/YaelOviedo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -9802,8 +9802,8 @@ window.graphData = {
       "image": "img/AmyChapman.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -9820,8 +9820,8 @@ window.graphData = {
       "image": "img/KahliaHogg.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -9838,8 +9838,8 @@ window.graphData = {
       "image": "img/NandaStoltz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -9856,8 +9856,8 @@ window.graphData = {
       "image": "img/SallyShipard.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -9874,8 +9874,8 @@ window.graphData = {
       "image": "img/NadineProhaska.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -9892,8 +9892,8 @@ window.graphData = {
       "image": "img/StefanieKremener.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -9910,8 +9910,8 @@ window.graphData = {
       "image": "img/ViktoriaSchnaderbeck.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -9928,8 +9928,8 @@ window.graphData = {
       "image": "img/Francielle.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -9946,8 +9946,8 @@ window.graphData = {
       "image": "img/DianaMatheson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -9964,8 +9964,8 @@ window.graphData = {
       "image": "img/MarieEveNault.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -9982,8 +9982,8 @@ window.graphData = {
       "image": "img/MelissaTancredi.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -10000,8 +10000,8 @@ window.graphData = {
       "image": "img/RhianWilkinson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -10018,8 +10018,8 @@ window.graphData = {
       "image": "img/SeleniaIacchelli.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -10036,8 +10036,8 @@ window.graphData = {
       "image": "img/StephanieLabbe.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -10054,8 +10054,8 @@ window.graphData = {
       "image": "img/AllisonScurich.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(242, 80.33661053211775%, 71.71390361107105%)",
-        "border": "hsl(242, 80.33661053211775%, 71.71390361107105%)"
+        "background": "hsl(330, 81.21032702678099%, 62.01315782826036%)",
+        "border": "hsl(330, 81.21032702678099%, 62.01315782826036%)"
       },
       "font": {
         "color": "#000",
@@ -10072,8 +10072,8 @@ window.graphData = {
       "image": "img/LucieVonkova.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(44, 84.04375466589607%, 60.69245455484784%)",
-        "border": "hsl(44, 84.04375466589607%, 60.69245455484784%)"
+        "background": "hsl(271, 78.97187208661258%, 68.71058670327686%)",
+        "border": "hsl(271, 78.97187208661258%, 68.71058670327686%)"
       },
       "font": {
         "color": "#000",
@@ -10090,8 +10090,8 @@ window.graphData = {
       "image": "img/AlexScott.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10108,8 +10108,8 @@ window.graphData = {
       "image": "img/ClaireRafferty.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10126,8 +10126,8 @@ window.graphData = {
       "image": "img/AmyKane.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10144,8 +10144,8 @@ window.graphData = {
       "image": "img/AnitaAsante.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10162,8 +10162,8 @@ window.graphData = {
       "image": "img/BeckyEaston.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10180,8 +10180,8 @@ window.graphData = {
       "image": "img/CaseyStoney.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10198,8 +10198,8 @@ window.graphData = {
       "image": "img/EmilySimpkins.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10216,8 +10216,8 @@ window.graphData = {
       "image": "img/FaraWilliams.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10234,8 +10234,8 @@ window.graphData = {
       "image": "img/GillyFlaherty.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10252,8 +10252,8 @@ window.graphData = {
       "image": "img/IzzyChristiansen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10270,8 +10270,8 @@ window.graphData = {
       "image": "img/JemmaRose.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10288,8 +10288,8 @@ window.graphData = {
       "image": "img/JillScott.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10306,8 +10306,8 @@ window.graphData = {
       "image": "img/KatieChapman.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10324,8 +10324,8 @@ window.graphData = {
       "image": "img/KellySmith.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10342,8 +10342,8 @@ window.graphData = {
       "image": "img/MeganHarris.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10360,8 +10360,8 @@ window.graphData = {
       "image": "img/CarlyTelford.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10378,8 +10378,8 @@ window.graphData = {
       "image": "img/JodieTaylor.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -10396,8 +10396,8 @@ window.graphData = {
       "image": "img/LaetitiaTonazzi.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -10414,8 +10414,8 @@ window.graphData = {
       "image": "img/SabrinaViguier.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -10432,8 +10432,8 @@ window.graphData = {
       "image": "img/ClaraSchone.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10450,8 +10450,8 @@ window.graphData = {
       "image": "img/AnjaMittag.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10468,8 +10468,8 @@ window.graphData = {
       "image": "img/InkaGrings.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10486,8 +10486,8 @@ window.graphData = {
       "image": "img/SonjaFuss.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10504,8 +10504,8 @@ window.graphData = {
       "image": "img/JaninaMeiNer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10522,8 +10522,8 @@ window.graphData = {
       "image": "img/JosephineHenning.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10540,8 +10540,8 @@ window.graphData = {
       "image": "img/KatharinaBaunach.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10558,8 +10558,8 @@ window.graphData = {
       "image": "img/KatharinaKiel.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10576,8 +10576,8 @@ window.graphData = {
       "image": "img/KimKulig.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10594,8 +10594,8 @@ window.graphData = {
       "image": "img/LenaLotzen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10612,8 +10612,8 @@ window.graphData = {
       "image": "img/LindaBresonik.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10630,8 +10630,8 @@ window.graphData = {
       "image": "img/LisaEichholz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10648,8 +10648,8 @@ window.graphData = {
       "image": "img/LisaMeissner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10666,8 +10666,8 @@ window.graphData = {
       "image": "img/MartinaVossTecklenburg.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10684,8 +10684,8 @@ window.graphData = {
       "image": "img/MelanieSoyah.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10702,8 +10702,8 @@ window.graphData = {
       "image": "img/MichelleNoetzel.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10720,8 +10720,8 @@ window.graphData = {
       "image": "img/PatriciaHanebeck.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10738,8 +10738,8 @@ window.graphData = {
       "image": "img/SarahFreutel.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10756,8 +10756,8 @@ window.graphData = {
       "image": "img/SimoneLaudehr.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10774,8 +10774,8 @@ window.graphData = {
       "image": "img/TabeaKemme.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10792,8 +10792,8 @@ window.graphData = {
       "image": "img/ViolaOdebrecht.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10810,8 +10810,8 @@ window.graphData = {
       "image": "img/LisaWei.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10828,8 +10828,8 @@ window.graphData = {
       "image": "img/NadineKeLer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -10846,8 +10846,8 @@ window.graphData = {
       "image": "img/AlexandraSzarvas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(163, 74.33118918475348%, 62.2298462316325%)",
-        "border": "hsl(163, 74.33118918475348%, 62.2298462316325%)"
+        "background": "hsl(212, 87.59343562099362%, 72.60554307250531%)",
+        "border": "hsl(212, 87.59343562099362%, 72.60554307250531%)"
       },
       "font": {
         "color": "#000",
@@ -10864,8 +10864,8 @@ window.graphData = {
       "image": "img/GudbjorgGunnarsdottir.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(188, 82.19193952025049%, 60.17905371973149%)",
-        "border": "hsl(188, 82.19193952025049%, 60.17905371973149%)"
+        "background": "hsl(88, 79.54201893563118%, 63.27451845785757%)",
+        "border": "hsl(88, 79.54201893563118%, 63.27451845785757%)"
       },
       "font": {
         "color": "#000",
@@ -10882,8 +10882,8 @@ window.graphData = {
       "image": "img/SineadFarelly.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -10900,8 +10900,8 @@ window.graphData = {
       "image": "img/EmmaByrne.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -10918,8 +10918,8 @@ window.graphData = {
       "image": "img/CostanzaEsperti.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -10936,8 +10936,8 @@ window.graphData = {
       "image": "img/IlariaMauro.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -10954,8 +10954,8 @@ window.graphData = {
       "image": "img/LaurenSilver.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(95, 73.23372459557412%, 74.90706249743968%)",
-        "border": "hsl(95, 73.23372459557412%, 74.90706249743968%)"
+        "background": "hsl(9, 71.38359506235525%, 66.61417615321747%)",
+        "border": "hsl(9, 71.38359506235525%, 66.61417615321747%)"
       },
       "font": {
         "color": "#000",
@@ -10972,8 +10972,8 @@ window.graphData = {
       "image": "img/ManaIwabuchi.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(169, 72.4280825778663%, 64.72951987700624%)",
-        "border": "hsl(169, 72.4280825778663%, 64.72951987700624%)"
+        "background": "hsl(319, 88.96319732980774%, 64.85647426804533%)",
+        "border": "hsl(319, 88.96319732980774%, 64.85647426804533%)"
       },
       "font": {
         "color": "#000",
@@ -10990,8 +10990,8 @@ window.graphData = {
       "image": "img/CarlaMartinez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(55, 87.4217872550004%, 71.83107767348156%)",
-        "border": "hsl(55, 87.4217872550004%, 71.83107767348156%)"
+        "background": "hsl(226, 80.02514613902152%, 70.30058483726769%)",
+        "border": "hsl(226, 80.02514613902152%, 70.30058483726769%)"
       },
       "font": {
         "color": "#000",
@@ -11008,8 +11008,8 @@ window.graphData = {
       "image": "img/VeronicaPerez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(55, 87.4217872550004%, 71.83107767348156%)",
-        "border": "hsl(55, 87.4217872550004%, 71.83107767348156%)"
+        "background": "hsl(226, 80.02514613902152%, 70.30058483726769%)",
+        "border": "hsl(226, 80.02514613902152%, 70.30058483726769%)"
       },
       "font": {
         "color": "#000",
@@ -11026,8 +11026,8 @@ window.graphData = {
       "image": "img/RebeccaSmith.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -11044,8 +11044,8 @@ window.graphData = {
       "image": "img/EmmaKete.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -11062,8 +11062,8 @@ window.graphData = {
       "image": "img/KatieDuncan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -11080,8 +11080,8 @@ window.graphData = {
       "image": "img/KirstyYallop.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -11098,8 +11098,8 @@ window.graphData = {
       "image": "img/PriscillaDuncan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -11116,8 +11116,8 @@ window.graphData = {
       "image": "img/SarahGregorius.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -11134,8 +11134,8 @@ window.graphData = {
       "image": "img/IsabellHerlovsen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -11152,8 +11152,8 @@ window.graphData = {
       "image": "img/LeniKaurin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -11170,8 +11170,8 @@ window.graphData = {
       "image": "img/VailaBarsley.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -11188,8 +11188,8 @@ window.graphData = {
       "image": "img/SaraMerida.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -11206,8 +11206,8 @@ window.graphData = {
       "image": "img/AnaRomero.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -11224,8 +11224,8 @@ window.graphData = {
       "image": "img/ElenaSadiku.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11242,8 +11242,8 @@ window.graphData = {
       "image": "img/FormerSwedishPlayer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11260,8 +11260,8 @@ window.graphData = {
       "image": "img/LisaHurtig.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11278,8 +11278,8 @@ window.graphData = {
       "image": "img/LottaSchelin.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11296,8 +11296,8 @@ window.graphData = {
       "image": "img/MalinLevenstad.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11314,8 +11314,8 @@ window.graphData = {
       "image": "img/NillaFischer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11332,8 +11332,8 @@ window.graphData = {
       "image": "img/AnnicaBarsley.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11350,8 +11350,8 @@ window.graphData = {
       "image": "img/ThereseSjogran.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11368,8 +11368,8 @@ window.graphData = {
       "image": "img/SteniaMichel.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -11386,8 +11386,8 @@ window.graphData = {
       "image": "img/BarlaDeplazes.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -11404,8 +11404,8 @@ window.graphData = {
       "image": "img/ClaudiaVanDenHeiligenberg.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -11422,8 +11422,8 @@ window.graphData = {
       "image": "img/MareseNijman.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -11440,8 +11440,8 @@ window.graphData = {
       "image": "img/SariVanVeenendaal.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -11458,8 +11458,8 @@ window.graphData = {
       "image": "img/HaleyKopmeyer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11476,8 +11476,8 @@ window.graphData = {
       "image": "img/AliKrieger.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11494,8 +11494,8 @@ window.graphData = {
       "image": "img/AshlynHarris.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11512,8 +11512,8 @@ window.graphData = {
       "image": "img/MeganRapinoe.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11530,8 +11530,8 @@ window.graphData = {
       "image": "img/AbbyWambach.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11548,8 +11548,8 @@ window.graphData = {
       "image": "img/ChantelJones.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11566,8 +11566,8 @@ window.graphData = {
       "image": "img/ChristineCampbellNairn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11584,8 +11584,8 @@ window.graphData = {
       "image": "img/DanielleFoxhoven.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11602,8 +11602,8 @@ window.graphData = {
       "image": "img/EllaMasar.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11620,8 +11620,8 @@ window.graphData = {
       "image": "img/KarenBardsley.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11638,8 +11638,8 @@ window.graphData = {
       "image": "img/LoriLindsey.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11656,8 +11656,8 @@ window.graphData = {
       "image": "img/MarisaOleksiak.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11674,8 +11674,8 @@ window.graphData = {
       "image": "img/MckenzieBerryhill.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11692,8 +11692,8 @@ window.graphData = {
       "image": "img/SavannahBrookeJordan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11710,8 +11710,8 @@ window.graphData = {
       "image": "img/TiffenyMillbrett.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11728,8 +11728,8 @@ window.graphData = {
       "image": "img/CarolineSeger.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11746,8 +11746,8 @@ window.graphData = {
       "image": "img/AshleyHodson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -11764,8 +11764,8 @@ window.graphData = {
       "image": "img/TahnaiAnnis.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(126, 80.4177036638873%, 64.28437933517095%)",
-        "border": "hsl(126, 80.4177036638873%, 64.28437933517095%)"
+        "background": "hsl(263, 74.39858233394904%, 72.60711251868392%)",
+        "border": "hsl(263, 74.39858233394904%, 72.60711251868392%)"
       },
       "font": {
         "color": "#000",
@@ -11782,8 +11782,8 @@ window.graphData = {
       "image": "img/IsabelKerschowski.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -11800,8 +11800,8 @@ window.graphData = {
       "image": "img/LisaDahlkvist.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -11818,8 +11818,8 @@ window.graphData = {
       "image": "img/ClaudiaSoto.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(326, 79.15302130744331%, 60.9810350303418%)",
-        "border": "hsl(326, 79.15302130744331%, 60.9810350303418%)"
+        "background": "hsl(101, 79.42833006513955%, 64.70760651332132%)",
+        "border": "hsl(101, 79.42833006513955%, 64.70760651332132%)"
       },
       "font": {
         "color": "#000",
@@ -11836,8 +11836,8 @@ window.graphData = {
       "image": "img/KelleyOHara.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11854,8 +11854,8 @@ window.graphData = {
       "image": "img/ToriHuster.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11872,8 +11872,8 @@ window.graphData = {
       "image": "img/AnnaBlasse.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -11890,8 +11890,8 @@ window.graphData = {
       "image": "img/LaraDickenmann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -11908,8 +11908,8 @@ window.graphData = {
       "image": "img/ValentinaGiacinti.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -11926,8 +11926,8 @@ window.graphData = {
       "image": "img/EmilieHaavi.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -11944,8 +11944,8 @@ window.graphData = {
       "image": "img/EseosaAigbogun.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -11962,8 +11962,8 @@ window.graphData = {
       "image": "img/MarieDLvikMarkussen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -11980,8 +11980,8 @@ window.graphData = {
       "image": "img/ShannonLynn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -11998,8 +11998,8 @@ window.graphData = {
       "image": "img/EmmaBerglund.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -12016,8 +12016,8 @@ window.graphData = {
       "image": "img/AndreaFalcon.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -12034,8 +12034,8 @@ window.graphData = {
       "image": "img/HillaryBeall.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -12052,8 +12052,8 @@ window.graphData = {
       "image": "img/DanielaArias.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(343, 89.18532337782005%, 63.0777368685008%)",
-        "border": "hsl(343, 89.18532337782005%, 63.0777368685008%)"
+        "background": "hsl(95, 73.40485961344541%, 67.51100761960103%)",
+        "border": "hsl(95, 73.40485961344541%, 67.51100761960103%)"
       },
       "font": {
         "color": "#000",
@@ -12070,8 +12070,8 @@ window.graphData = {
       "image": "img/DidiHaracic.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -12088,8 +12088,8 @@ window.graphData = {
       "image": "img/KenzaDali.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -12106,8 +12106,8 @@ window.graphData = {
       "image": "img/KailenSheridan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -12124,8 +12124,8 @@ window.graphData = {
       "image": "img/VirginiaGomez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -12142,8 +12142,8 @@ window.graphData = {
       "image": "img/SelinaWagner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -12160,8 +12160,8 @@ window.graphData = {
       "image": "img/CarolinaVenegas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(87, 79.21581114700138%, 62.02319814739771%)",
-        "border": "hsl(87, 79.21581114700138%, 62.02319814739771%)"
+        "background": "hsl(220, 79.03192459768755%, 72.56795028937167%)",
+        "border": "hsl(220, 79.03192459768755%, 72.56795028937167%)"
       },
       "font": {
         "color": "#000",
@@ -12178,8 +12178,8 @@ window.graphData = {
       "image": "img/MariaPaulaElizondo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(87, 79.21581114700138%, 62.02319814739771%)",
-        "border": "hsl(87, 79.21581114700138%, 62.02319814739771%)"
+        "background": "hsl(220, 79.03192459768755%, 72.56795028937167%)",
+        "border": "hsl(220, 79.03192459768755%, 72.56795028937167%)"
       },
       "font": {
         "color": "#000",
@@ -12196,8 +12196,8 @@ window.graphData = {
       "image": "img/GinaChmielinski.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -12214,8 +12214,8 @@ window.graphData = {
       "image": "img/BenedettaOrsi.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(53, 74.8580717165101%, 74.43102645399487%)",
-        "border": "hsl(53, 74.8580717165101%, 74.43102645399487%)"
+        "background": "hsl(23, 88.15984083352623%, 62.872275329652695%)",
+        "border": "hsl(23, 88.15984083352623%, 62.872275329652695%)"
       },
       "font": {
         "color": "#000",
@@ -12232,8 +12232,8 @@ window.graphData = {
       "image": "img/LanaClelland.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -12250,8 +12250,8 @@ window.graphData = {
       "image": "img/AnaMariaCrnogorcevic.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -12268,8 +12268,8 @@ window.graphData = {
       "image": "img/LaurenBarnes.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -12286,8 +12286,8 @@ window.graphData = {
       "image": "img/TziarraKing.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -12304,8 +12304,8 @@ window.graphData = {
       "image": "img/OliviaAthens.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -12322,8 +12322,8 @@ window.graphData = {
       "image": "img/JessicaFishlock.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(154, 74.26556271703672%, 60.716586722033%)",
-        "border": "hsl(154, 74.26556271703672%, 60.716586722033%)"
+        "background": "hsl(117, 85.66034691145255%, 71.3788128222863%)",
+        "border": "hsl(117, 85.66034691145255%, 71.3788128222863%)"
       },
       "font": {
         "color": "#000",
@@ -12340,8 +12340,8 @@ window.graphData = {
       "image": "img/AngharadJames.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(154, 74.26556271703672%, 60.716586722033%)",
-        "border": "hsl(154, 74.26556271703672%, 60.716586722033%)"
+        "background": "hsl(117, 85.66034691145255%, 71.3788128222863%)",
+        "border": "hsl(117, 85.66034691145255%, 71.3788128222863%)"
       },
       "font": {
         "color": "#000",
@@ -12358,8 +12358,8 @@ window.graphData = {
       "image": "img/TinjaRiikkaKorpela.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(143, 72.98235511503249%, 66.33279950358894%)",
-        "border": "hsl(143, 72.98235511503249%, 66.33279950358894%)"
+        "background": "hsl(341, 84.31413548809661%, 67.53162998747165%)",
+        "border": "hsl(341, 84.31413548809661%, 67.53162998747165%)"
       },
       "font": {
         "color": "#000",
@@ -12376,8 +12376,8 @@ window.graphData = {
       "image": "img/JacquelineMeissner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -12394,8 +12394,8 @@ window.graphData = {
       "image": "img/RueshaLittlejohn.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -12412,8 +12412,8 @@ window.graphData = {
       "image": "img/AineOGorman.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -12430,8 +12430,8 @@ window.graphData = {
       "image": "img/StefanieDaEira.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(290, 84.31851626208899%, 74.42851166559547%)",
-        "border": "hsl(290, 84.31851626208899%, 74.42851166559547%)"
+        "background": "hsl(174, 76.03362911181989%, 60.61219317412213%)",
+        "border": "hsl(174, 76.03362911181989%, 60.61219317412213%)"
       },
       "font": {
         "color": "#000",
@@ -12448,8 +12448,8 @@ window.graphData = {
       "image": "img/VanesaSantana.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -12466,8 +12466,8 @@ window.graphData = {
       "image": "img/ClaireORiordan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -12484,8 +12484,8 @@ window.graphData = {
       "image": "img/EllieThomasLeek.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(154, 74.26556271703672%, 60.716586722033%)",
-        "border": "hsl(154, 74.26556271703672%, 60.716586722033%)"
+        "background": "hsl(117, 85.66034691145255%, 71.3788128222863%)",
+        "border": "hsl(117, 85.66034691145255%, 71.3788128222863%)"
       },
       "font": {
         "color": "#000",
@@ -12502,8 +12502,8 @@ window.graphData = {
       "image": "img/Mileninha.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -12520,8 +12520,8 @@ window.graphData = {
       "image": "img/FayeBryson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -12538,8 +12538,8 @@ window.graphData = {
       "image": "img/KyahSimon.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -12556,8 +12556,8 @@ window.graphData = {
       "image": "img/BriannaEdwards.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -12574,8 +12574,8 @@ window.graphData = {
       "image": "img/JadeMoore.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -12592,8 +12592,8 @@ window.graphData = {
       "image": "img/RefiloeFifinhoJane.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(351, 81.2582002093739%, 74.1191225027311%)",
-        "border": "hsl(351, 81.2582002093739%, 74.1191225027311%)"
+        "background": "hsl(174, 85.72165136580334%, 66.22718962445386%)",
+        "border": "hsl(174, 85.72165136580334%, 66.22718962445386%)"
       },
       "font": {
         "color": "#000",
@@ -12610,8 +12610,8 @@ window.graphData = {
       "image": "img/LaiThiTuyet.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(12, 79.58732621920716%, 66.00554367173906%)",
-        "border": "hsl(12, 79.58732621920716%, 66.00554367173906%)"
+        "background": "hsl(49, 84.2811049337994%, 61.367982464551666%)",
+        "border": "hsl(49, 84.2811049337994%, 61.367982464551666%)"
       },
       "font": {
         "color": "#000",
@@ -12628,8 +12628,8 @@ window.graphData = {
       "image": "img/ThembiKgatlana.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(351, 81.2582002093739%, 74.1191225027311%)",
-        "border": "hsl(351, 81.2582002093739%, 74.1191225027311%)"
+        "background": "hsl(174, 85.72165136580334%, 66.22718962445386%)",
+        "border": "hsl(174, 85.72165136580334%, 66.22718962445386%)"
       },
       "font": {
         "color": "#000",
@@ -12646,8 +12646,8 @@ window.graphData = {
       "image": "img/JenniHermoso.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -12664,8 +12664,8 @@ window.graphData = {
       "image": "img/NormaPalafox.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(55, 87.4217872550004%, 71.83107767348156%)",
-        "border": "hsl(55, 87.4217872550004%, 71.83107767348156%)"
+        "background": "hsl(226, 80.02514613902152%, 70.30058483726769%)",
+        "border": "hsl(226, 80.02514613902152%, 70.30058483726769%)"
       },
       "font": {
         "color": "#000",
@@ -12682,8 +12682,8 @@ window.graphData = {
       "image": "img/BiancaSierra.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(55, 87.4217872550004%, 71.83107767348156%)",
-        "border": "hsl(55, 87.4217872550004%, 71.83107767348156%)"
+        "background": "hsl(226, 80.02514613902152%, 70.30058483726769%)",
+        "border": "hsl(226, 80.02514613902152%, 70.30058483726769%)"
       },
       "font": {
         "color": "#000",
@@ -12700,8 +12700,8 @@ window.graphData = {
       "image": "img/StephanyMayor.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(55, 87.4217872550004%, 71.83107767348156%)",
-        "border": "hsl(55, 87.4217872550004%, 71.83107767348156%)"
+        "background": "hsl(226, 80.02514613902152%, 70.30058483726769%)",
+        "border": "hsl(226, 80.02514613902152%, 70.30058483726769%)"
       },
       "font": {
         "color": "#000",
@@ -12718,8 +12718,8 @@ window.graphData = {
       "image": "img/ShaniceVanDeSanden.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -12736,8 +12736,8 @@ window.graphData = {
       "image": "img/AbbyErceg.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -12754,8 +12754,8 @@ window.graphData = {
       "image": "img/MiaPreston.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -12772,8 +12772,8 @@ window.graphData = {
       "image": "img/AmandaNilden.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -12790,8 +12790,8 @@ window.graphData = {
       "image": "img/HayleyRaso.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -12808,8 +12808,8 @@ window.graphData = {
       "image": "img/MarthaThomas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -12826,8 +12826,8 @@ window.graphData = {
       "image": "img/CharlotteGrant.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -12844,8 +12844,8 @@ window.graphData = {
       "image": "img/MollyBartrip.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -12862,8 +12862,8 @@ window.graphData = {
       "image": "img/BethanyEngland.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -12880,8 +12880,8 @@ window.graphData = {
       "image": "img/AmyTurner.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -12898,8 +12898,8 @@ window.graphData = {
       "image": "img/OlgaAhtinen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(143, 72.98235511503249%, 66.33279950358894%)",
-        "border": "hsl(143, 72.98235511503249%, 66.33279950358894%)"
+        "background": "hsl(341, 84.31413548809661%, 67.53162998747165%)",
+        "border": "hsl(341, 84.31413548809661%, 67.53162998747165%)"
       },
       "font": {
         "color": "#000",
@@ -12916,8 +12916,8 @@ window.graphData = {
       "image": "img/RosellaAyane.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(140, 79.83961930391601%, 70.42359648325868%)",
-        "border": "hsl(140, 79.83961930391601%, 70.42359648325868%)"
+        "background": "hsl(59, 78.5434717667649%, 73.30547983972608%)",
+        "border": "hsl(59, 78.5434717667649%, 73.30547983972608%)"
       },
       "font": {
         "color": "#000",
@@ -12934,8 +12934,8 @@ window.graphData = {
       "image": "img/RiaPercival.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(97, 87.21296485227276%, 65.15503729786997%)",
-        "border": "hsl(97, 87.21296485227276%, 65.15503729786997%)"
+        "background": "hsl(341, 89.39099041078889%, 60.89819851600283%)",
+        "border": "hsl(341, 89.39099041078889%, 60.89819851600283%)"
       },
       "font": {
         "color": "#000",
@@ -12952,8 +12952,8 @@ window.graphData = {
       "image": "img/BiancaSchmidt.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -12970,8 +12970,8 @@ window.graphData = {
       "image": "img/SandraWiegand.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -12988,8 +12988,8 @@ window.graphData = {
       "image": "img/JillRoord.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -13006,8 +13006,8 @@ window.graphData = {
       "image": "img/CarlaGuerrero.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(326, 79.15302130744331%, 60.9810350303418%)",
-        "border": "hsl(326, 79.15302130744331%, 60.9810350303418%)"
+        "background": "hsl(101, 79.42833006513955%, 64.70760651332132%)",
+        "border": "hsl(101, 79.42833006513955%, 64.70760651332132%)"
       },
       "font": {
         "color": "#000",
@@ -13024,8 +13024,8 @@ window.graphData = {
       "image": "img/TatumnMilazzo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -13042,8 +13042,8 @@ window.graphData = {
       "image": "img/CeceKizer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -13060,8 +13060,8 @@ window.graphData = {
       "image": "img/MadisonPogarch.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -13078,8 +13078,8 @@ window.graphData = {
       "image": "img/MinaTanaka.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(169, 72.4280825778663%, 64.72951987700624%)",
-        "border": "hsl(169, 72.4280825778663%, 64.72951987700624%)"
+        "background": "hsl(319, 88.96319732980774%, 64.85647426804533%)",
+        "border": "hsl(319, 88.96319732980774%, 64.85647426804533%)"
       },
       "font": {
         "color": "#000",
@@ -13096,8 +13096,8 @@ window.graphData = {
       "image": "img/JanniThomsen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(20, 79.7637884875772%, 72.09952128425289%)",
-        "border": "hsl(20, 79.7637884875772%, 72.09952128425289%)"
+        "background": "hsl(202, 81.72360215615326%, 66.20548088101292%)",
+        "border": "hsl(202, 81.72360215615326%, 66.20548088101292%)"
       },
       "font": {
         "color": "#000",
@@ -13114,8 +13114,8 @@ window.graphData = {
       "image": "img/AsunMartinez.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -13132,8 +13132,8 @@ window.graphData = {
       "image": "img/BertaPujadas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -13150,8 +13150,8 @@ window.graphData = {
       "image": "img/EliseThorsnes.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(224, 85.285003512676%, 69.66974074959327%)",
-        "border": "hsl(224, 85.285003512676%, 69.66974074959327%)"
+        "background": "hsl(15, 73.12642605099543%, 65.95309187715665%)",
+        "border": "hsl(15, 73.12642605099543%, 65.95309187715665%)"
       },
       "font": {
         "color": "#000",
@@ -13168,8 +13168,8 @@ window.graphData = {
       "image": "img/NikkiStanton.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -13186,8 +13186,8 @@ window.graphData = {
       "image": "img/PatriciaCurbelo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -13204,8 +13204,8 @@ window.graphData = {
       "image": "img/LauraCasanovas.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -13222,8 +13222,8 @@ window.graphData = {
       "image": "img/MargaritaGidion.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -13240,8 +13240,8 @@ window.graphData = {
       "image": "img/PaolaSoldevilla.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -13258,8 +13258,8 @@ window.graphData = {
       "image": "img/ClaraMarkstedt.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -13276,8 +13276,8 @@ window.graphData = {
       "image": "img/SandraAdolfsson.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(46, 79.43647178967768%, 63.86000292722457%)",
-        "border": "hsl(46, 79.43647178967768%, 63.86000292722457%)"
+        "background": "hsl(111, 75.15792544809004%, 69.77480233473682%)",
+        "border": "hsl(111, 75.15792544809004%, 69.77480233473682%)"
       },
       "font": {
         "color": "#000",
@@ -13294,8 +13294,8 @@ window.graphData = {
       "image": "img/SabrinaHorvat.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -13312,8 +13312,8 @@ window.graphData = {
       "image": "img/FrancescaCalo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -13330,8 +13330,8 @@ window.graphData = {
       "image": "img/LeicySantos.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(343, 89.18532337782005%, 63.0777368685008%)",
-        "border": "hsl(343, 89.18532337782005%, 63.0777368685008%)"
+        "background": "hsl(95, 73.40485961344541%, 67.51100761960103%)",
+        "border": "hsl(95, 73.40485961344541%, 67.51100761960103%)"
       },
       "font": {
         "color": "#000",
@@ -13348,8 +13348,8 @@ window.graphData = {
       "image": "img/RebecaBernal.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(55, 87.4217872550004%, 71.83107767348156%)",
-        "border": "hsl(55, 87.4217872550004%, 71.83107767348156%)"
+        "background": "hsl(226, 80.02514613902152%, 70.30058483726769%)",
+        "border": "hsl(226, 80.02514613902152%, 70.30058483726769%)"
       },
       "font": {
         "color": "#000",
@@ -13366,8 +13366,8 @@ window.graphData = {
       "image": "img/DanBurke.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -13384,8 +13384,8 @@ window.graphData = {
       "image": "img/GemmaDavison.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -13402,8 +13402,8 @@ window.graphData = {
       "image": "img/SharonBeck.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -13420,8 +13420,8 @@ window.graphData = {
       "image": "img/FfionMorgan.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(154, 74.26556271703672%, 60.716586722033%)",
-        "border": "hsl(154, 74.26556271703672%, 60.716586722033%)"
+        "background": "hsl(117, 85.66034691145255%, 71.3788128222863%)",
+        "border": "hsl(117, 85.66034691145255%, 71.3788128222863%)"
       },
       "font": {
         "color": "#000",
@@ -13438,8 +13438,8 @@ window.graphData = {
       "image": "img/ShelinaZadorsky.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(274, 72.02262579949894%, 73.97887802851541%)",
-        "border": "hsl(274, 72.02262579949894%, 73.97887802851541%)"
+        "background": "hsl(342, 70.94381646340497%, 70.69671980209488%)",
+        "border": "hsl(342, 70.94381646340497%, 70.69671980209488%)"
       },
       "font": {
         "color": "#000",
@@ -13456,8 +13456,8 @@ window.graphData = {
       "image": "img/KatrinaGorry.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -13474,8 +13474,8 @@ window.graphData = {
       "image": "img/KirstySmith.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(141, 71.50551253658887%, 60.5819722880413%)",
-        "border": "hsl(141, 71.50551253658887%, 60.5819722880413%)"
+        "background": "hsl(37, 72.38631827421761%, 64.6234761921664%)",
+        "border": "hsl(37, 72.38631827421761%, 64.6234761921664%)"
       },
       "font": {
         "color": "#000",
@@ -13492,8 +13492,8 @@ window.graphData = {
       "image": "img/KristieMewis.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -13510,8 +13510,8 @@ window.graphData = {
       "image": "img/EmmaHarries.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -13528,8 +13528,8 @@ window.graphData = {
       "image": "img/VerenaAschauer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -13546,8 +13546,8 @@ window.graphData = {
       "image": "img/ChloeLogarzo.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -13564,8 +13564,8 @@ window.graphData = {
       "image": "img/KristinDemann.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -13582,8 +13582,8 @@ window.graphData = {
       "image": "img/JoelleWedemeyer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -13600,8 +13600,8 @@ window.graphData = {
       "image": "img/SvenjaHuth.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(318, 83.8281843737731%, 74.50830037858337%)",
-        "border": "hsl(318, 83.8281843737731%, 74.50830037858337%)"
+        "background": "hsl(230, 84.43148770903383%, 62.13462396832856%)",
+        "border": "hsl(230, 84.43148770903383%, 62.13462396832856%)"
       },
       "font": {
         "color": "#000",
@@ -13618,8 +13618,8 @@ window.graphData = {
       "image": "img/LynnWilms.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -13636,8 +13636,8 @@ window.graphData = {
       "image": "img/PriscilaChinchilla.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(87, 79.21581114700138%, 62.02319814739771%)",
-        "border": "hsl(87, 79.21581114700138%, 62.02319814739771%)"
+        "background": "hsl(220, 79.03192459768755%, 72.56795028937167%)",
+        "border": "hsl(220, 79.03192459768755%, 72.56795028937167%)"
       },
       "font": {
         "color": "#000",
@@ -13654,8 +13654,8 @@ window.graphData = {
       "image": "img/CatalinaEstrada.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(87, 79.21581114700138%, 62.02319814739771%)",
-        "border": "hsl(87, 79.21581114700138%, 62.02319814739771%)"
+        "background": "hsl(220, 79.03192459768755%, 72.56795028937167%)",
+        "border": "hsl(220, 79.03192459768755%, 72.56795028937167%)"
       },
       "font": {
         "color": "#000",
@@ -13672,8 +13672,8 @@ window.graphData = {
       "image": "img/DianeCaldwell.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(63, 71.75692908318146%, 67.46877241243173%)",
-        "border": "hsl(63, 71.75692908318146%, 67.46877241243173%)"
+        "background": "hsl(167, 85.68414550336885%, 60.126780392707545%)",
+        "border": "hsl(167, 85.68414550336885%, 60.126780392707545%)"
       },
       "font": {
         "color": "#000",
@@ -13690,8 +13690,8 @@ window.graphData = {
       "image": "img/KimDubs.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -13708,8 +13708,8 @@ window.graphData = {
       "image": "img/NaomiMegroz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -13726,8 +13726,8 @@ window.graphData = {
       "image": "img/VanessaBernauer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(291, 85.482603725939%, 65.92780248489906%)",
-        "border": "hsl(291, 85.482603725939%, 65.92780248489906%)"
+        "background": "hsl(140, 85.49496353132048%, 70.24967022500523%)",
+        "border": "hsl(140, 85.49496353132048%, 70.24967022500523%)"
       },
       "font": {
         "color": "#000",
@@ -13744,8 +13744,8 @@ window.graphData = {
       "image": "img/EstefaniaPiazza.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -13762,8 +13762,8 @@ window.graphData = {
       "image": "img/LoreTomisani.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -13780,8 +13780,8 @@ window.graphData = {
       "image": "img/ThaisFerreira.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(219, 89.23928628929357%, 64.63563527916885%)",
-        "border": "hsl(219, 89.23928628929357%, 64.63563527916885%)"
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
       },
       "font": {
         "color": "#000",
@@ -13798,8 +13798,8 @@ window.graphData = {
       "image": "img/AgusBarroso.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -13816,8 +13816,8 @@ window.graphData = {
       "image": "img/BelenPotassa.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(228, 78.51633668398647%, 66.04874192052242%)",
-        "border": "hsl(228, 78.51633668398647%, 66.04874192052242%)"
+        "background": "hsl(279, 75.0759696769541%, 71.53225647458095%)",
+        "border": "hsl(279, 75.0759696769541%, 71.53225647458095%)"
       },
       "font": {
         "color": "#000",
@@ -13834,8 +13834,8 @@ window.graphData = {
       "image": "img/AnaHilario.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -13852,8 +13852,8 @@ window.graphData = {
       "image": "img/AmyHarrison.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(194, 89.77600694274787%, 69.04561029792954%)",
-        "border": "hsl(194, 89.77600694274787%, 69.04561029792954%)"
+        "background": "hsl(66, 73.88102824604726%, 66.22674189191066%)",
+        "border": "hsl(66, 73.88102824604726%, 66.22674189191066%)"
       },
       "font": {
         "color": "#000",
@@ -13870,8 +13870,8 @@ window.graphData = {
       "image": "img/KaylieCollins.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -13888,8 +13888,8 @@ window.graphData = {
       "image": "img/MarinaGeorgieva.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -13906,8 +13906,8 @@ window.graphData = {
       "image": "img/PaulinaKarolina.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -13924,8 +13924,8 @@ window.graphData = {
       "image": "img/FabienneHofer.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -13942,8 +13942,8 @@ window.graphData = {
       "image": "img/ViktoriaPinther.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(132, 72.96437473875137%, 60.74238443173058%)",
-        "border": "hsl(132, 72.96437473875137%, 60.74238443173058%)"
+        "background": "hsl(106, 74.02272956988355%, 62.43802663844399%)",
+        "border": "hsl(106, 74.02272956988355%, 62.43802663844399%)"
       },
       "font": {
         "color": "#000",
@@ -13960,8 +13960,8 @@ window.graphData = {
       "image": "img/SoniaBompastor.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -13978,8 +13978,8 @@ window.graphData = {
       "image": "img/CamilleAbily.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(133, 83.17976863887165%, 60.89812870234327%)",
-        "border": "hsl(133, 83.17976863887165%, 60.89812870234327%)"
+        "background": "hsl(288, 85.49123769439312%, 65.04592423691453%)",
+        "border": "hsl(288, 85.49123769439312%, 65.04592423691453%)"
       },
       "font": {
         "color": "#000",
@@ -13996,8 +13996,8 @@ window.graphData = {
       "image": "img/MaryEarps.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -14014,8 +14014,8 @@ window.graphData = {
       "image": "img/Kitty.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(184, 72.38313333194603%, 64.50000611223655%)",
-        "border": "hsl(184, 72.38313333194603%, 64.50000611223655%)"
+        "background": "hsl(73, 77.38616528923852%, 72.31822679256356%)",
+        "border": "hsl(73, 77.38616528923852%, 72.31822679256356%)"
       },
       "font": {
         "color": "#000",
@@ -14032,8 +14032,8 @@ window.graphData = {
       "image": "img/AmaiaIribarren.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(234, 84.68394632174642%, 71.41210354376038%)",
-        "border": "hsl(234, 84.68394632174642%, 71.41210354376038%)"
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
       },
       "font": {
         "color": "#000",
@@ -14050,8 +14050,8 @@ window.graphData = {
       "image": "img/EsmeeBrugts.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(235, 73.21517176502525%, 73.18724948637227%)",
-        "border": "hsl(235, 73.21517176502525%, 73.18724948637227%)"
+        "background": "hsl(222, 82.55671241927973%, 72.62756272022247%)",
+        "border": "hsl(222, 82.55671241927973%, 72.62756272022247%)"
       },
       "font": {
         "color": "#000",
@@ -14068,8 +14068,8 @@ window.graphData = {
       "image": "img/HalHershfelt.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -14086,8 +14086,8 @@ window.graphData = {
       "image": "img/HalleMackiewicz.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(335, 86.87136987161392%, 70.58203259776619%)",
-        "border": "hsl(335, 86.87136987161392%, 70.58203259776619%)"
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -14104,8 +14104,8 @@ window.graphData = {
       "image": "img/EmmaKoivisto.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(143, 72.98235511503249%, 66.33279950358894%)",
-        "border": "hsl(143, 72.98235511503249%, 66.33279950358894%)"
+        "background": "hsl(341, 84.31413548809661%, 67.53162998747165%)",
+        "border": "hsl(341, 84.31413548809661%, 67.53162998747165%)"
       },
       "font": {
         "color": "#000",
@@ -14122,8 +14122,62 @@ window.graphData = {
       "image": "img/AnnaAuvinen.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(143, 72.98235511503249%, 66.33279950358894%)",
-        "border": "hsl(143, 72.98235511503249%, 66.33279950358894%)"
+        "background": "hsl(341, 84.31413548809661%, 67.53162998747165%)",
+        "border": "hsl(341, 84.31413548809661%, 67.53162998747165%)"
+      },
+      "font": {
+        "color": "#000",
+        "size": 16
+      }
+    },
+    {
+      "id": "785",
+      "label": "Kerolin",
+      "group": "Brazil",
+      "team": "Manchester City",
+      "shape": "circularImage",
+      "value": 36,
+      "image": "img/Kerolin.jpg",
+      "brokenImage": "img/nonplayer.jpg",
+      "color": {
+        "background": "hsl(93, 87.0447809945585%, 67.25371579080524%)",
+        "border": "hsl(93, 87.0447809945585%, 67.25371579080524%)"
+      },
+      "font": {
+        "color": "#000",
+        "size": 16
+      }
+    },
+    {
+      "id": "786",
+      "label": "Ana Tejada",
+      "group": "Spain",
+      "team": "Utah Royals",
+      "shape": "circularImage",
+      "value": 36,
+      "image": "img/AnaTejada.jpg",
+      "brokenImage": "img/nonplayer.jpg",
+      "color": {
+        "background": "hsl(7, 88.6698202758682%, 65.66009142363353%)",
+        "border": "hsl(7, 88.6698202758682%, 65.66009142363353%)"
+      },
+      "font": {
+        "color": "#000",
+        "size": 16
+      }
+    },
+    {
+      "id": "787",
+      "label": "Mandy McGlynn",
+      "group": "USA",
+      "team": "Utah Royals",
+      "shape": "circularImage",
+      "value": 36,
+      "image": "img/MandyMcglynn.jpg",
+      "brokenImage": "img/nonplayer.jpg",
+      "color": {
+        "background": "hsl(141, 82.45922007933747%, 70.4826473352583%)",
+        "border": "hsl(141, 82.45922007933747%, 70.4826473352583%)"
       },
       "font": {
         "color": "#000",
@@ -14155,7 +14209,7 @@ window.graphData = {
     },
     {
       "from": "3",
-      "to": "169",
+      "to": "168",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
@@ -14225,14 +14279,14 @@ window.graphData = {
     },
     {
       "from": "10",
-      "to": "137",
+      "to": "136",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
       "from": "10",
-      "to": "177",
+      "to": "176",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
@@ -14246,7 +14300,7 @@ window.graphData = {
     },
     {
       "from": "12",
-      "to": "195",
+      "to": "194",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
@@ -14274,7 +14328,7 @@ window.graphData = {
     },
     {
       "from": "14",
-      "to": "104",
+      "to": "103",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
@@ -14323,7 +14377,7 @@ window.graphData = {
     },
     {
       "from": "16",
-      "to": "214",
+      "to": "213",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
@@ -14358,7 +14412,7 @@ window.graphData = {
     },
     {
       "from": "19",
-      "to": "210",
+      "to": "209",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
@@ -14386,7 +14440,7 @@ window.graphData = {
     },
     {
       "from": "21",
-      "to": "106",
+      "to": "105",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
@@ -14407,7 +14461,7 @@ window.graphData = {
     },
     {
       "from": "22",
-      "to": "203",
+      "to": "202",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
@@ -14421,16 +14475,9 @@ window.graphData = {
     },
     {
       "from": "23",
-      "to": "91",
+      "to": "90",
       "label": "Ex",
       "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "23",
-      "to": "49",
-      "label": "Rumor",
-      "color": "#ab57ff",
       "width": 2
     },
     {
@@ -14470,7 +14517,7 @@ window.graphData = {
     },
     {
       "from": "29",
-      "to": "174",
+      "to": "173",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
@@ -14498,7 +14545,7 @@ window.graphData = {
     },
     {
       "from": "32",
-      "to": "168",
+      "to": "167",
       "label": "Ex",
       "color": "#ff0000",
       "width": 1
@@ -14526,7 +14573,7 @@ window.graphData = {
     },
     {
       "from": "34",
-      "to": "164",
+      "to": "163",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
@@ -14624,7 +14671,7 @@ window.graphData = {
     },
     {
       "from": "45",
-      "to": "156",
+      "to": "155",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
@@ -14652,7 +14699,7 @@ window.graphData = {
     },
     {
       "from": "47",
-      "to": "170",
+      "to": "169",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
@@ -14666,1094 +14713,1115 @@ window.graphData = {
     },
     {
       "from": "48",
-      "to": "53",
+      "to": "52",
       "label": "Wife",
       "color": "#9cc2e5",
       "width": 2
     },
     {
-      "from": "50",
+      "from": "49",
       "to": "702",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "50",
+      "from": "49",
       "to": "400",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "51",
+      "from": "50",
       "to": "380",
       "label": "Wife",
       "color": "#9cc2e5",
       "width": 2
     },
     {
-      "from": "52",
+      "from": "51",
       "to": "453",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "52",
+      "from": "51",
       "to": "680",
       "label": "Ex",
       "color": "#ff0000",
       "width": 1
     },
     {
-      "from": "52",
-      "to": "153",
+      "from": "51",
+      "to": "152",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "52",
+      "from": "51",
       "to": "289",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "54",
+      "from": "53",
       "to": "491",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "55",
+      "from": "54",
       "to": "610",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "55",
-      "to": "56",
+      "from": "54",
+      "to": "55",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "56",
-      "to": "63",
+      "from": "55",
+      "to": "62",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "56",
+      "from": "55",
       "to": "234",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "57",
-      "to": "58",
+      "from": "56",
+      "to": "57",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "59",
-      "to": "103",
+      "from": "58",
+      "to": "102",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "59",
-      "to": "60",
+      "from": "58",
+      "to": "59",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "59",
+      "from": "58",
       "to": "448",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "59",
+      "from": "58",
       "to": "482",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "61",
+      "from": "60",
       "to": "506",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "61",
+      "from": "60",
       "to": "475",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "62",
-      "to": "131",
+      "from": "61",
+      "to": "130",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "63",
+      "from": "62",
       "to": "474",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "64",
-      "to": "211",
+      "from": "63",
+      "to": "210",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "65",
+      "from": "64",
       "to": "542",
       "label": "Wife",
       "color": "#9cc2e5",
       "width": 2
     },
     {
-      "from": "66",
+      "from": "65",
       "to": "586",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "66",
-      "to": "177",
+      "from": "65",
+      "to": "176",
       "label": "Ex",
       "color": "#ff0000",
       "width": 1
     },
     {
-      "from": "67",
-      "to": "87",
+      "from": "66",
+      "to": "86",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "68",
+      "from": "67",
       "to": "555",
       "label": "Wife",
       "color": "#9cc2e5",
       "width": 2
     },
     {
-      "from": "69",
+      "from": "68",
       "to": "755",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "70",
+      "from": "69",
       "to": "579",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "71",
-      "to": "75",
+      "from": "70",
+      "to": "74",
       "label": "Wife",
       "color": "#9cc2e5",
       "width": 2
     },
     {
+      "from": "71",
+      "to": "73",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
       "from": "72",
-      "to": "74",
+      "to": "200",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "73",
-      "to": "201",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "73",
-      "to": "170",
+      "from": "72",
+      "to": "169",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "73",
+      "from": "72",
       "to": "368",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "73",
-      "to": "78",
+      "from": "72",
+      "to": "77",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "76",
+      "from": "75",
       "to": "437",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
+      "from": "75",
+      "to": "171",
+      "label": "Rumor",
+      "color": "#ab57ff",
+      "width": 2
+    },
+    {
       "from": "76",
-      "to": "172",
-      "label": "Rumor",
-      "color": "#ab57ff",
-      "width": 2
-    },
-    {
-      "from": "77",
-      "to": "180",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "78",
-      "to": "79",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "78",
-      "to": "170",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "78",
-      "to": "366",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "80",
-      "to": "422",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "81",
-      "to": "349",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "81",
-      "to": "594",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "82",
-      "to": "303",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "83",
-      "to": "261",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "84",
-      "to": "86",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "85",
-      "to": "323",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "87",
-      "to": "358",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "87",
-      "to": "681",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "87",
-      "to": "658",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "87",
-      "to": "247",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "88",
-      "to": "520",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "89",
-      "to": "275",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "90",
-      "to": "427",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "91",
-      "to": "492",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "92",
-      "to": "93",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "94",
-      "to": "141",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "95",
-      "to": "186",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "96",
-      "to": "132",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "97",
-      "to": "344",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "97",
-      "to": "710",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "98",
-      "to": "615",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "98",
-      "to": "747",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "99",
-      "to": "605",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "100",
-      "to": "697",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "101",
-      "to": "750",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "102",
-      "to": "198",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "102",
-      "to": "103",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "102",
-      "to": "59",
-      "label": "Rumor",
-      "color": "#ab57ff",
-      "width": 1
-    },
-    {
-      "from": "103",
-      "to": "743",
-      "label": "Rumor",
-      "color": "#ab57ff",
-      "width": 2
-    },
-    {
-      "from": "104",
-      "to": "749",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "104",
-      "to": "731",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "105",
-      "to": "317",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "105",
-      "to": "112",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "106",
-      "to": "211",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "106",
-      "to": "679",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "106",
-      "to": "407",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "107",
-      "to": "452",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "107",
-      "to": "108",
-      "label": "Rumor",
-      "color": "#ab57ff",
-      "width": 2
-    },
-    {
-      "from": "109",
-      "to": "431",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "110",
-      "to": "364",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "111",
-      "to": "133",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "112",
-      "to": "218",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "113",
-      "to": "222",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "113",
-      "to": "696",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "114",
-      "to": "604",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "114",
-      "to": "740",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "115",
-      "to": "208",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "116",
-      "to": "310",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "117",
-      "to": "359",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "118",
-      "to": "279",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "119",
-      "to": "334",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "120",
-      "to": "551",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "121",
-      "to": "122",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "123",
-      "to": "266",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "123",
-      "to": "540",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "124",
-      "to": "708",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "125",
-      "to": "300",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "126",
-      "to": "312",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "127",
-      "to": "142",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "128",
-      "to": "259",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "128",
-      "to": "760",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "128",
-      "to": "374",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "129",
-      "to": "130",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "129",
-      "to": "671",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "133",
-      "to": "607",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "134",
-      "to": "375",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "135",
-      "to": "356",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "136",
-      "to": "625",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "137",
-      "to": "661",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "138",
-      "to": "174",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "138",
-      "to": "145",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "139",
-      "to": "296",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "140",
-      "to": "396",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "141",
-      "to": "248",
-      "label": "Rumor",
-      "color": "#ab57ff",
-      "width": 2
-    },
-    {
-      "from": "143",
-      "to": "144",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "145",
-      "to": "267",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "146",
-      "to": "479",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "147",
-      "to": "216",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "147",
-      "to": "230",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "148",
-      "to": "232",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "149",
-      "to": "152",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "150",
-      "to": "723",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "151",
-      "to": "291",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "153",
-      "to": "433",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "154",
-      "to": "278",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "155",
-      "to": "683",
-      "label": "Rumor",
-      "color": "#ab57ff",
-      "width": 2
-    },
-    {
-      "from": "157",
-      "to": "306",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "158",
-      "to": "159",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "158",
-      "to": "644",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "158",
-      "to": "554",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "161",
-      "to": "182",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "162",
-      "to": "438",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "163",
-      "to": "164",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "165",
-      "to": "642",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "165",
-      "to": "389",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "166",
-      "to": "524",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "166",
-      "to": "501",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "167",
-      "to": "311",
-      "label": "Wife",
-      "color": "#9cc2e5",
-      "width": 2
-    },
-    {
-      "from": "167",
       "to": "179",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "168",
+      "from": "77",
+      "to": "78",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "77",
+      "to": "169",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "77",
+      "to": "366",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "79",
+      "to": "422",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "80",
+      "to": "349",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "80",
+      "to": "594",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "81",
+      "to": "303",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "82",
+      "to": "261",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "83",
+      "to": "85",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "84",
+      "to": "323",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "86",
+      "to": "358",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "86",
+      "to": "681",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "86",
+      "to": "658",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "86",
+      "to": "247",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "87",
+      "to": "520",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "88",
+      "to": "275",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "89",
+      "to": "427",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "90",
+      "to": "492",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "91",
+      "to": "92",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "93",
+      "to": "140",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "94",
+      "to": "185",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "95",
+      "to": "131",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "96",
+      "to": "344",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "96",
+      "to": "710",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "97",
+      "to": "615",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "97",
+      "to": "747",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "98",
+      "to": "605",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "99",
+      "to": "697",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "100",
+      "to": "750",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "101",
+      "to": "197",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "101",
+      "to": "102",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "101",
+      "to": "58",
+      "label": "Rumor",
+      "color": "#ab57ff",
+      "width": 1
+    },
+    {
+      "from": "102",
+      "to": "743",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "103",
+      "to": "749",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "103",
+      "to": "731",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "104",
+      "to": "317",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "104",
+      "to": "111",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "105",
+      "to": "210",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "105",
+      "to": "679",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "105",
+      "to": "407",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "106",
+      "to": "452",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "106",
+      "to": "107",
+      "label": "Rumor",
+      "color": "#ab57ff",
+      "width": 2
+    },
+    {
+      "from": "108",
+      "to": "431",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "109",
+      "to": "364",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "110",
+      "to": "132",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "111",
+      "to": "217",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "112",
+      "to": "222",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "112",
+      "to": "696",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "113",
+      "to": "604",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "113",
+      "to": "740",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "114",
+      "to": "207",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "115",
+      "to": "310",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "116",
+      "to": "359",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "117",
+      "to": "279",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "118",
+      "to": "334",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "119",
+      "to": "551",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "120",
+      "to": "121",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "122",
+      "to": "266",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "122",
+      "to": "540",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "123",
+      "to": "708",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "124",
+      "to": "300",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "125",
+      "to": "312",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "126",
+      "to": "141",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "127",
+      "to": "259",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "127",
+      "to": "760",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "127",
+      "to": "374",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "128",
+      "to": "129",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "128",
+      "to": "671",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "132",
+      "to": "607",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "133",
+      "to": "375",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "134",
+      "to": "356",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "135",
+      "to": "625",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "136",
+      "to": "661",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "137",
+      "to": "173",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "137",
+      "to": "144",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "138",
+      "to": "296",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "139",
+      "to": "396",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "140",
+      "to": "248",
+      "label": "Rumor",
+      "color": "#ab57ff",
+      "width": 2
+    },
+    {
+      "from": "142",
+      "to": "143",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "144",
+      "to": "267",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "145",
+      "to": "479",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "146",
+      "to": "215",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "146",
+      "to": "230",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "147",
+      "to": "232",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "148",
+      "to": "151",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "149",
+      "to": "723",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "150",
+      "to": "291",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "152",
+      "to": "433",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "153",
+      "to": "278",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "154",
+      "to": "683",
+      "label": "Rumor",
+      "color": "#ab57ff",
+      "width": 2
+    },
+    {
+      "from": "156",
+      "to": "306",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "157",
+      "to": "158",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "157",
+      "to": "644",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "157",
+      "to": "554",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "160",
+      "to": "181",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "161",
+      "to": "438",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "162",
+      "to": "163",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "164",
+      "to": "642",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "164",
+      "to": "389",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "165",
+      "to": "524",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "165",
+      "to": "501",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "166",
+      "to": "311",
+      "label": "Wife",
+      "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "166",
+      "to": "178",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "167",
       "to": "725",
       "label": "Wife",
       "color": "#9cc2e5",
       "width": 2
     },
     {
-      "from": "168",
+      "from": "167",
       "to": "470",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "169",
+      "from": "168",
       "to": "513",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "171",
+      "from": "170",
       "to": "720",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "172",
-      "to": "173",
+      "from": "171",
+      "to": "172",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "175",
-      "to": "209",
+      "from": "174",
+      "to": "208",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "176",
+      "from": "175",
       "to": "297",
       "label": "Wife",
       "color": "#9cc2e5",
       "width": 2
     },
     {
-      "from": "177",
+      "from": "176",
       "to": "651",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "177",
+      "from": "176",
       "to": "626",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "177",
+      "from": "176",
       "to": "666",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "178",
+      "from": "177",
       "to": "346",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "180",
-      "to": "181",
+      "from": "179",
+      "to": "180",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "182",
+      "from": "181",
       "to": "623",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "183",
+      "from": "182",
       "to": "284",
       "label": "Ex",
       "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "183",
+      "to": "186",
+      "label": "Gf",
+      "color": "#6aa84f",
+      "width": 2
+    },
+    {
+      "from": "183",
+      "to": "253",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
+      "from": "183",
+      "to": "709",
+      "label": "Rumor",
+      "color": "#ab57ff",
       "width": 2
     },
     {
@@ -15764,281 +15832,267 @@ window.graphData = {
       "width": 2
     },
     {
-      "from": "184",
-      "to": "253",
-      "label": "Ex",
-      "color": "#ff0000",
-      "width": 2
-    },
-    {
-      "from": "184",
-      "to": "709",
-      "label": "Rumor",
-      "color": "#ab57ff",
-      "width": 2
-    },
-    {
-      "from": "185",
-      "to": "188",
-      "label": "Gf",
-      "color": "#6aa84f",
-      "width": 2
-    },
-    {
-      "from": "187",
+      "from": "186",
       "to": "464",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "187",
+      "from": "186",
       "to": "488",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "189",
-      "to": "190",
+      "from": "188",
+      "to": "189",
       "label": "Wife",
       "color": "#9cc2e5",
       "width": 2
     },
     {
-      "from": "191",
+      "from": "190",
       "to": "410",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "192",
-      "to": "193",
+      "from": "191",
+      "to": "192",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "193",
+      "from": "192",
       "to": "707",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "194",
+      "from": "193",
       "to": "647",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "194",
+      "from": "193",
       "to": "545",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "196",
+      "from": "195",
       "to": "444",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "196",
+      "from": "195",
       "to": "226",
       "label": "Ex",
       "color": "#ff0000",
       "width": 1
     },
     {
-      "from": "196",
+      "from": "195",
       "to": "449",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "197",
+      "from": "196",
       "to": "744",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "197",
+      "from": "196",
       "to": "517",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "198",
+      "from": "197",
       "to": "550",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "198",
+      "from": "197",
       "to": "734",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "199",
-      "to": "200",
+      "from": "198",
+      "to": "199",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "199",
+      "from": "198",
       "to": "677",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "201",
+      "from": "200",
       "to": "678",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "202",
+      "from": "201",
       "to": "566",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "203",
+      "from": "202",
       "to": "231",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "204",
+      "from": "203",
       "to": "268",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "204",
+      "from": "203",
       "to": "345",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "205",
+      "from": "204",
       "to": "600",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "206",
+      "from": "205",
       "to": "435",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "207",
+      "from": "206",
       "to": "343",
       "label": "Wife",
       "color": "#9cc2e5",
       "width": 2
     },
     {
-      "from": "208",
+      "from": "207",
       "to": "228",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "211",
+      "from": "210",
       "to": "760",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "212",
-      "to": "213",
+      "from": "211",
+      "to": "212",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "212",
+      "from": "211",
       "to": "504",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "214",
+      "from": "213",
       "to": "269",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "215",
+      "from": "214",
       "to": "221",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "217",
+      "from": "216",
       "to": "251",
       "label": "Gf",
       "color": "#6aa84f",
       "width": 2
     },
     {
-      "from": "218",
+      "from": "217",
       "to": "696",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "218",
+      "from": "217",
       "to": "417",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "219",
+      "from": "218",
       "to": "721",
       "label": "Ex",
       "color": "#ff0000",
       "width": 2
     },
     {
-      "from": "219",
+      "from": "218",
       "to": "464",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
     },
     {
-      "from": "219",
+      "from": "218",
       "to": "469",
+      "label": "Rumor",
+      "color": "#ab57ff",
+      "width": 2
+    },
+    {
+      "from": "218",
+      "to": "219",
       "label": "Rumor",
       "color": "#ab57ff",
       "width": 2
@@ -17066,6 +17120,13 @@ window.graphData = {
       "width": 2
     },
     {
+      "from": "449",
+      "to": "785",
+      "label": "Ex",
+      "color": "#ff0000",
+      "width": 2
+    },
+    {
       "from": "450",
       "to": "451",
       "label": "Gf",
@@ -17648,7 +17709,7 @@ window.graphData = {
     },
     {
       "from": "585",
-      "to": "66",
+      "to": "65",
       "label": "Ex",
       "color": "#ff0000",
       "width": 1
@@ -18029,6 +18090,13 @@ window.graphData = {
       "to": "784",
       "label": "Wife",
       "color": "#9cc2e5",
+      "width": 2
+    },
+    {
+      "from": "786",
+      "to": "787",
+      "label": "Gf",
+      "color": "#6aa84f",
       "width": 2
     }
   ]
